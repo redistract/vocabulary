@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "courses": [
+    {
+      "id": "de-en",
+      "title": "German Vocabulary",
+      "targetLanguage": "de-DE",
+      "supportLanguage": "en",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "capabilities": [
+        "MEANING",
+        "REVERSE",
+        "CONTEXT",
+        "ARTICLE",
+        "PLURAL",
+        "TYPED"
+      ],
+      "manifestPath": "v1/courses/de-en/manifest.json"
+    }
+  ]
+}
