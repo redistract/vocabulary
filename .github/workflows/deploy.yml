@@ -28,8 +28,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Verify release files
-        run: python tools/verify_vocabulary_site.py site --immutable-against "$SITE_URL" --report build/local-audit.json
+      - run: pip install cryptography==50.0.2
+      - name: Verify release files and signature
+        run: python tools/verify_vocabulary_site.py site --min-valid-days 30 --immutable-against "$SITE_URL" --report build/local-audit.json
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
@@ -53,17 +54,22 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - run: pip install cryptography==50.0.2
       - name: Verify deployed site matches this commit
         run: |
           expected=$(python -c "import json;print(json.load(open('site/v1/catalog.json'))['generation'])")
-          want=$(sha256sum site/v1/courses/de-en/manifest.json | cut -d' ' -f1)
-          # Pages' CDN caches for up to 10 minutes; wait until the new manifest is served.
+          # Pages' CDN caches for up to 10 minutes; wait until the signed index and what it pins are served.
           for attempt in $(seq 1 15); do
-            got=$(curl -fsS "${SITE_URL}v1/courses/de-en/manifest.json?nocache=$attempt-$RANDOM" | sha256sum | cut -d' ' -f1 || true)
-            [ "$got" = "$want" ] && break
-            echo "Attempt $attempt: live manifest not updated yet"; sleep 60
+            ok=1
+            for path in v1/release.json v1/catalog.json v1/courses/de-en/manifest.json; do
+              want=$(sha256sum "site/$path" | cut -d' ' -f1)
+              got=$(curl -fsS "${SITE_URL}${path}" | sha256sum | cut -d' ' -f1 || true)
+              [ "$got" = "$want" ] || ok=0
+            done
+            [ "$ok" = 1 ] && break
+            echo "Attempt $attempt: live site not updated yet"; sleep 60
           done
-          [ "$got" = "$want" ] || { echo "Live manifest never matched this commit"; exit 1; }
+          [ "$ok" = 1 ] || { echo "Live site never matched this commit"; exit 1; }
           python tools/verify_vocabulary_site.py "$SITE_URL" --expect-generation "$expected" --report build/live-audit.json
       - uses: actions/upload-artifact@v4
         if: always()

@@ -5,10 +5,15 @@ import gzip
 import hashlib
 import io
 import json
+import sys
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.error import HTTPError
 from urllib.parse import urljoin, urlsplit
 from urllib.request import urlopen
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from vocabulary_signing import RELEASE_PATH, TRUSTED_KEYS, load_trusted, open_release
 
 
 def artifact_url(base, path):
@@ -52,23 +57,33 @@ def local_reader(root):
     return read
 
 
-def verify(read, label, expect_generation=None):
+def verify(read, label, expect_generation=None, trusted_keys=None, min_valid_days=0):
     def checked(descriptor, limit):
         data = read(descriptor["path"], limit)
         if len(data) != descriptor["bytes"] or hashlib.sha256(data).hexdigest() != descriptor["sha256"]:
             raise ValueError(f"Integrity mismatch: {descriptor['path']}")
         return data
 
-    catalog = json.loads(read("v1/catalog.json", 100_000))
+    release = open_release(read(RELEASE_PATH, 100_000), load_trusted(trusted_keys or default_trusted_keys()),
+                           now=datetime.now(timezone.utc) + timedelta(days=min_valid_days))
+
+    def signed(path, limit):
+        if path not in release["files"]:
+            raise ValueError(f"Not covered by the signed release index: {path}")
+        return checked({"path": path, **release["files"][path]}, limit)
+
+    catalog = json.loads(signed("v1/catalog.json", 100_000))
     if catalog["schemaVersion"] != 1:
         raise ValueError("Unsupported catalog")
     generation = catalog.get("generation")
     if not generation:
         raise ValueError("Catalog has no content generation; current apps reject it")
+    if generation != release["generation"]:
+        raise ValueError("Catalog generation differs from the signed release index")
     if expect_generation and generation != expect_generation:
         raise ValueError(f"Catalog generation {generation} != expected {expect_generation}")
     course = next(c for c in catalog["courses"] if c["id"] == "de-en")
-    manifest = json.loads(read(course["manifestPath"], 200_000))
+    manifest = json.loads(signed(course["manifestPath"], 200_000))
     if manifest["schemaVersion"] != 1 or manifest["courseId"] != "de-en":
         raise ValueError("Invalid manifest")
     entries, pack_ids, licenses = {}, set(), set()
@@ -108,7 +123,14 @@ def verify(read, label, expect_generation=None):
         if not read(f"licenses/{license_name}.txt", 200_000).strip():
             raise ValueError("Empty license file")
     return {"source": label, "integrityPassed": True, "generation": generation, "packs": len(pack_ids),
-            "entries": len(entries), "semanticApproval": "NOT VERIFIED", "manifest": manifest}
+            "entries": len(entries), "releaseSequence": release["sequence"], "releaseExpiresAt": release["expiresAt"],
+            "semanticApproval": "NOT VERIFIED", "manifest": manifest}
+
+
+def default_trusted_keys():
+    """Next to this script in the published repository, else the app project's copy."""
+    beside = Path(__file__).resolve().parent / "trusted-keys.json"
+    return beside if beside.exists() else TRUSTED_KEYS
 
 
 def check_immutable(manifest, live_base):
@@ -131,11 +153,15 @@ if __name__ == "__main__":
     parser.add_argument("--expect-generation")
     parser.add_argument("--immutable-against", metavar="URL",
                         help="live base URL whose existing pack paths must not change")
+    parser.add_argument("--trusted-keys", type=Path)
+    parser.add_argument("--min-valid-days", type=int, default=0,
+                        help="fail if the signed release index expires within this many days")
     parser.add_argument("--report", type=Path,
                         default=Path(__file__).resolve().parents[1] / "build/vocabulary-public-audit.json")
     args = parser.parse_args()
     local = not args.site.startswith("https://")
-    report = verify(local_reader(args.site) if local else url_reader(args.site), args.site, args.expect_generation)
+    report = verify(local_reader(args.site) if local else url_reader(args.site), args.site, args.expect_generation,
+                    args.trusted_keys, args.min_valid_days)
     if args.immutable_against:
         check_immutable(report["manifest"], args.immutable_against)
     args.report.parent.mkdir(parents=True, exist_ok=True)

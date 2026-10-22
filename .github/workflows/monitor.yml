@@ -22,10 +22,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Verify live site
+      - run: pip install cryptography==50.0.2
+      - name: Verify live site and signature freshness
         run: |
           expected=$(python -c "import json;print(json.load(open('site/v1/catalog.json'))['generation'])")
-          python tools/verify_vocabulary_site.py "$SITE_URL" --expect-generation "$expected" --report build/live-audit.json
+          # Fails 21 days before the signed index expires, so there is time to re-sign offline.
+          python tools/verify_vocabulary_site.py "$SITE_URL" --expect-generation "$expected" --min-valid-days 21 --report build/live-audit.json
       - name: Report failure
         if: failure()
         env:
@@ -38,5 +40,5 @@ jobs:
           else
             gh label create vocabulary-site-down --color B60205 --force
             gh issue create --title "Vocabulary site verification failing" --label vocabulary-site-down \
-              --body "The daily live check failed. Apps cannot install online packs until this is fixed. Run: $RUN_URL"
+              --body "The daily live check failed (broken site, bad signature, or the signed index expires within 21 days: re-sign offline with tools/vocabulary_signing.py and redeploy). Run: $RUN_URL"
           fi
