@@ -1,0 +1,42 @@
+# Daily check that the live site still verifies and serves what main says it should.
+# Opens (or comments on) a "vocabulary-site-down" issue on failure; GitHub emails watchers.
+name: Monitor vocabulary site
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+env:
+  SITE_URL: https://redistract.github.io/vocabulary/
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Verify live site
+        run: |
+          expected=$(python -c "import json;print(json.load(open('site/v1/catalog.json'))['generation'])")
+          python tools/verify_vocabulary_site.py "$SITE_URL" --expect-generation "$expected" --report build/live-audit.json
+      - name: Report failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          existing=$(gh issue list --label vocabulary-site-down --state open --json number --jq '.[0].number')
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body "Still failing: $RUN_URL"
+          else
+            gh label create vocabulary-site-down --color B60205 --force
+            gh issue create --title "Vocabulary site verification failing" --label vocabulary-site-down \
+              --body "The daily live check failed. Apps cannot install online packs until this is fixed. Run: $RUN_URL"
+          fi

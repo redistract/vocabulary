@@ -1,0 +1,3873 @@
+{
+  "schemaVersion": 1,
+  "courseId": "de-en",
+  "generation": "fresh-20260921",
+  "entries": [
+    {
+      "id": "de-en:fresh-20260921:noun:Haus:867e0409bb8e5eee",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Haus",
+      "lemmaGroup": "Haus",
+      "meaning": "house",
+      "article": "das",
+      "pos": "noun",
+      "rank": 0,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "home",
+      "example": "Das Haus hat drei Zimmer.",
+      "translation": "The house has three rooms.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "Haus"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Haus",
+          "answer": "house",
+          "options": [
+            "railway station",
+            "milk",
+            "house",
+            "egg"
+          ],
+          "explanation": "das Haus = house\nDas Haus hat drei Zimmer.\nThe house has three rooms."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "house",
+          "answer": "Haus",
+          "options": [
+            "Bahnhof",
+            "Haus",
+            "Milch",
+            "Ei"
+          ],
+          "explanation": "das Haus = house\nDas Haus hat drei Zimmer.\nThe house has three rooms."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Das ___ hat drei Zimmer.\nThe house has three rooms.",
+          "answer": "Haus",
+          "options": [
+            "Milch",
+            "Ei",
+            "Bahnhof",
+            "Haus"
+          ],
+          "explanation": "das Haus = house\nDas Haus hat drei Zimmer.\nThe house has three rooms.",
+          "contextSentence": "Das ___ hat drei Zimmer."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Haus",
+          "answer": "das",
+          "options": [
+            "der",
+            "die",
+            "das"
+          ],
+          "explanation": "das Haus = house\nDas Haus hat drei Zimmer.\nThe house has three rooms."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Haus:noun:867e0409bb8e5eee",
+      "sourceGlosses": [
+        "house, building"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Haus#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Zimmer:ca88bb68c90edb83",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Zimmer",
+      "lemmaGroup": "Zimmer",
+      "meaning": "room",
+      "article": "das",
+      "pos": "noun",
+      "rank": 1,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "home",
+      "example": "Mein Zimmer ist klein.",
+      "translation": "My room is small.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "Zimmer"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Zimmer",
+          "answer": "room",
+          "options": [
+            "bed",
+            "railway station",
+            "room",
+            "answer"
+          ],
+          "explanation": "das Zimmer = room\nMein Zimmer ist klein.\nMy room is small."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "room",
+          "answer": "Zimmer",
+          "options": [
+            "Zimmer",
+            "Antwort",
+            "Bett",
+            "Bahnhof"
+          ],
+          "explanation": "das Zimmer = room\nMein Zimmer ist klein.\nMy room is small."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Mein ___ ist klein.\nMy room is small.",
+          "answer": "Zimmer",
+          "options": [
+            "Zimmer",
+            "Bett",
+            "Antwort",
+            "Bahnhof"
+          ],
+          "explanation": "das Zimmer = room\nMein Zimmer ist klein.\nMy room is small.",
+          "contextSentence": "Mein ___ ist klein."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Zimmer",
+          "answer": "das",
+          "options": [
+            "das",
+            "der",
+            "die"
+          ],
+          "explanation": "das Zimmer = room\nMein Zimmer ist klein.\nMy room is small."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Zimmer:noun:ca88bb68c90edb83",
+      "sourceGlosses": [
+        "room (separate part of a building, enclosed by walls, a floor and a ceiling)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Zimmer#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Tisch:7b6c74887064ce1d",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Tisch",
+      "lemmaGroup": "Tisch",
+      "meaning": "table",
+      "article": "der",
+      "pos": "noun",
+      "rank": 2,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "home",
+      "example": "Das Buch liegt auf dem Tisch.",
+      "translation": "The book is on the table.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "Tisch"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Tisch",
+          "answer": "table",
+          "options": [
+            "cheese",
+            "door",
+            "room",
+            "table"
+          ],
+          "explanation": "der Tisch = table\nDas Buch liegt auf dem Tisch.\nThe book is on the table."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "table",
+          "answer": "Tisch",
+          "options": [
+            "Tisch",
+            "Tür",
+            "Zimmer",
+            "Käse"
+          ],
+          "explanation": "der Tisch = table\nDas Buch liegt auf dem Tisch.\nThe book is on the table."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Das Buch liegt auf dem ___.\nThe book is on the table.",
+          "answer": "Tisch",
+          "options": [
+            "Tisch",
+            "Zimmer",
+            "Tür",
+            "Käse"
+          ],
+          "explanation": "der Tisch = table\nDas Buch liegt auf dem Tisch.\nThe book is on the table.",
+          "contextSentence": "Das Buch liegt auf dem ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Tisch",
+          "answer": "der",
+          "options": [
+            "der",
+            "das",
+            "die"
+          ],
+          "explanation": "der Tisch = table\nDas Buch liegt auf dem Tisch.\nThe book is on the table."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Tisch:noun:7b6c74887064ce1d",
+      "sourceGlosses": [
+        "table (a piece of furniture with a relatively deep surface at roughly waist or knee level); specific uses include:",
+        "dining table, dinner table"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Tisch#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Stuhl:a04feedf567cc139",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Stuhl",
+      "lemmaGroup": "Stuhl",
+      "meaning": "chair",
+      "article": "der",
+      "pos": "noun",
+      "rank": 3,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "home",
+      "example": "Der Stuhl steht am Tisch.",
+      "translation": "The chair is by the table.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "Stuhl"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Stuhl",
+          "answer": "chair",
+          "options": [
+            "city",
+            "chair",
+            "water",
+            "house"
+          ],
+          "explanation": "der Stuhl = chair\nDer Stuhl steht am Tisch.\nThe chair is by the table."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "chair",
+          "answer": "Stuhl",
+          "options": [
+            "Stuhl",
+            "Stadt",
+            "Haus",
+            "Wasser"
+          ],
+          "explanation": "der Stuhl = chair\nDer Stuhl steht am Tisch.\nThe chair is by the table."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Der ___ steht am Tisch.\nThe chair is by the table.",
+          "answer": "Stuhl",
+          "options": [
+            "Wasser",
+            "Stadt",
+            "Haus",
+            "Stuhl"
+          ],
+          "explanation": "der Stuhl = chair\nDer Stuhl steht am Tisch.\nThe chair is by the table.",
+          "contextSentence": "Der ___ steht am Tisch."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Stuhl",
+          "answer": "der",
+          "options": [
+            "das",
+            "die",
+            "der"
+          ],
+          "explanation": "der Stuhl = chair\nDer Stuhl steht am Tisch.\nThe chair is by the table."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Stuhl:noun:a04feedf567cc139",
+      "sourceGlosses": [
+        "a chair (to sit on)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Stuhl#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Bett:c74693e2cad4ecba",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Bett",
+      "lemmaGroup": "Bett",
+      "meaning": "bed",
+      "article": "das",
+      "pos": "noun",
+      "rank": 4,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "home",
+      "example": "Das Bett steht im Schlafzimmer.",
+      "translation": "The bed is in the bedroom.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "Bett"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Bett",
+          "answer": "bed",
+          "options": [
+            "railway station",
+            "cheese",
+            "door",
+            "bed"
+          ],
+          "explanation": "das Bett = bed\nDas Bett steht im Schlafzimmer.\nThe bed is in the bedroom."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "bed",
+          "answer": "Bett",
+          "options": [
+            "Bett",
+            "Käse",
+            "Bahnhof",
+            "Tür"
+          ],
+          "explanation": "das Bett = bed\nDas Bett steht im Schlafzimmer.\nThe bed is in the bedroom."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Das ___ steht im Schlafzimmer.\nThe bed is in the bedroom.",
+          "answer": "Bett",
+          "options": [
+            "Tür",
+            "Bett",
+            "Käse",
+            "Bahnhof"
+          ],
+          "explanation": "das Bett = bed\nDas Bett steht im Schlafzimmer.\nThe bed is in the bedroom.",
+          "contextSentence": "Das ___ steht im Schlafzimmer."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Bett",
+          "answer": "das",
+          "options": [
+            "das",
+            "die",
+            "der"
+          ],
+          "explanation": "das Bett = bed\nDas Bett steht im Schlafzimmer.\nThe bed is in the bedroom."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Bett:noun:c74693e2cad4ecba",
+      "sourceGlosses": [
+        "bed (piece of furniture, usually flat and soft, for resting or sleeping on; one's place of sleep or rest)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Bett#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Fenster:6c081a242bfc942f",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Fenster",
+      "lemmaGroup": "Fenster",
+      "meaning": "window",
+      "article": "das",
+      "pos": "noun",
+      "rank": 5,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "home",
+      "example": "Bitte öffne das Fenster.",
+      "translation": "Please open the window.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "Fenster"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Fenster",
+          "answer": "window",
+          "options": [
+            "cheese",
+            "table",
+            "railway station",
+            "window"
+          ],
+          "explanation": "das Fenster = window\nBitte öffne das Fenster.\nPlease open the window."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "window",
+          "answer": "Fenster",
+          "options": [
+            "Fenster",
+            "Bahnhof",
+            "Tisch",
+            "Käse"
+          ],
+          "explanation": "das Fenster = window\nBitte öffne das Fenster.\nPlease open the window."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Bitte öffne das ___.\nPlease open the window.",
+          "answer": "Fenster",
+          "options": [
+            "Bahnhof",
+            "Fenster",
+            "Tisch",
+            "Käse"
+          ],
+          "explanation": "das Fenster = window\nBitte öffne das Fenster.\nPlease open the window.",
+          "contextSentence": "Bitte öffne das ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Fenster",
+          "answer": "das",
+          "options": [
+            "die",
+            "das",
+            "der"
+          ],
+          "explanation": "das Fenster = window\nBitte öffne das Fenster.\nPlease open the window."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Fenster:noun:6c081a242bfc942f",
+      "sourceGlosses": [
+        "window"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Fenster#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Tür:9644326b88a211a0",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Tür",
+      "lemmaGroup": "Tür",
+      "meaning": "door",
+      "article": "die",
+      "pos": "noun",
+      "rank": 6,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "home",
+      "example": "Die Tür ist geschlossen.",
+      "translation": "The door is closed.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "Tür"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Tür",
+          "answer": "door",
+          "options": [
+            "door",
+            "bed",
+            "railway station",
+            "night"
+          ],
+          "explanation": "die Tür = door\nDie Tür ist geschlossen.\nThe door is closed."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "door",
+          "answer": "Tür",
+          "options": [
+            "Bett",
+            "Tür",
+            "Nacht",
+            "Bahnhof"
+          ],
+          "explanation": "die Tür = door\nDie Tür ist geschlossen.\nThe door is closed."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Die ___ ist geschlossen.\nThe door is closed.",
+          "answer": "Tür",
+          "options": [
+            "Tür",
+            "Bett",
+            "Bahnhof",
+            "Nacht"
+          ],
+          "explanation": "die Tür = door\nDie Tür ist geschlossen.\nThe door is closed.",
+          "contextSentence": "Die ___ ist geschlossen."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Tür",
+          "answer": "die",
+          "options": [
+            "der",
+            "die",
+            "das"
+          ],
+          "explanation": "die Tür = door\nDie Tür ist geschlossen.\nThe door is closed."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Tür:noun:9644326b88a211a0",
+      "sourceGlosses": [
+        "door (rigid plane on a hinge)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/T%C3%BCr#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Küche:bb04528cc09f41c8",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Küche",
+      "lemmaGroup": "Küche",
+      "meaning": "kitchen",
+      "article": "die",
+      "pos": "noun",
+      "rank": 7,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "home",
+      "example": "Wir kochen in der Küche.",
+      "translation": "We cook in the kitchen.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "Küche"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Küche",
+          "answer": "kitchen",
+          "options": [
+            "city",
+            "railway station",
+            "kitchen",
+            "question"
+          ],
+          "explanation": "die Küche = kitchen\nWir kochen in der Küche.\nWe cook in the kitchen."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "kitchen",
+          "answer": "Küche",
+          "options": [
+            "Küche",
+            "Bahnhof",
+            "Frage",
+            "Stadt"
+          ],
+          "explanation": "die Küche = kitchen\nWir kochen in der Küche.\nWe cook in the kitchen."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wir kochen in der ___.\nWe cook in the kitchen.",
+          "answer": "Küche",
+          "options": [
+            "Küche",
+            "Frage",
+            "Bahnhof",
+            "Stadt"
+          ],
+          "explanation": "die Küche = kitchen\nWir kochen in der Küche.\nWe cook in the kitchen.",
+          "contextSentence": "Wir kochen in der ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Küche",
+          "answer": "die",
+          "options": [
+            "die",
+            "der",
+            "das"
+          ],
+          "explanation": "die Küche = kitchen\nWir kochen in der Küche.\nWe cook in the kitchen."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Küche:noun:bb04528cc09f41c8",
+      "sourceGlosses": [
+        "kitchen (room)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/K%C3%BCche#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Brot:82879f64c8d0c598",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Brot",
+      "lemmaGroup": "Brot",
+      "meaning": "bread",
+      "article": "das",
+      "pos": "noun",
+      "rank": 8,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "food",
+      "example": "Ich kaufe frisches Brot.",
+      "translation": "I buy fresh bread.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "Brot"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Brot",
+          "answer": "bread",
+          "options": [
+            "street",
+            "bread",
+            "bed",
+            "day"
+          ],
+          "explanation": "das Brot = bread\nIch kaufe frisches Brot.\nI buy fresh bread."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "bread",
+          "answer": "Brot",
+          "options": [
+            "Brot",
+            "Bett",
+            "Straße",
+            "Tag"
+          ],
+          "explanation": "das Brot = bread\nIch kaufe frisches Brot.\nI buy fresh bread."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich kaufe frisches ___.\nI buy fresh bread.",
+          "answer": "Brot",
+          "options": [
+            "Brot",
+            "Tag",
+            "Straße",
+            "Bett"
+          ],
+          "explanation": "das Brot = bread\nIch kaufe frisches Brot.\nI buy fresh bread.",
+          "contextSentence": "Ich kaufe frisches ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Brot",
+          "answer": "das",
+          "options": [
+            "das",
+            "der",
+            "die"
+          ],
+          "explanation": "das Brot = bread\nIch kaufe frisches Brot.\nI buy fresh bread."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Brot:noun:82879f64c8d0c598",
+      "sourceGlosses": [
+        "bread"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Brot#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Wasser:7b17beeb7a4f9544",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Wasser",
+      "lemmaGroup": "Wasser",
+      "meaning": "water",
+      "article": "das",
+      "pos": "noun",
+      "rank": 9,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "food",
+      "example": "Ich trinke ein Glas Wasser.",
+      "translation": "I drink a glass of water.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "Wasser"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Wasser",
+          "answer": "water",
+          "options": [
+            "egg",
+            "train",
+            "door",
+            "water"
+          ],
+          "explanation": "das Wasser = water\nIch trinke ein Glas Wasser.\nI drink a glass of water."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "water",
+          "answer": "Wasser",
+          "options": [
+            "Tür",
+            "Zug",
+            "Wasser",
+            "Ei"
+          ],
+          "explanation": "das Wasser = water\nIch trinke ein Glas Wasser.\nI drink a glass of water."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich trinke ein Glas ___.\nI drink a glass of water.",
+          "answer": "Wasser",
+          "options": [
+            "Zug",
+            "Tür",
+            "Ei",
+            "Wasser"
+          ],
+          "explanation": "das Wasser = water\nIch trinke ein Glas Wasser.\nI drink a glass of water.",
+          "contextSentence": "Ich trinke ein Glas ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Wasser",
+          "answer": "das",
+          "options": [
+            "der",
+            "das",
+            "die"
+          ],
+          "explanation": "das Wasser = water\nIch trinke ein Glas Wasser.\nI drink a glass of water."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Wasser:noun:7b17beeb7a4f9544",
+      "sourceGlosses": [
+        "water (H₂O)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Wasser#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Milch:0c3413be8220745f",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Milch",
+      "lemmaGroup": "Milch",
+      "meaning": "milk",
+      "article": "die",
+      "pos": "noun",
+      "rank": 10,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "food",
+      "example": "Die Milch steht im Kühlschrank.",
+      "translation": "The milk is in the refrigerator.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "Milch"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Milch",
+          "answer": "milk",
+          "options": [
+            "kitchen",
+            "milk",
+            "street",
+            "night"
+          ],
+          "explanation": "die Milch = milk\nDie Milch steht im Kühlschrank.\nThe milk is in the refrigerator."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "milk",
+          "answer": "Milch",
+          "options": [
+            "Milch",
+            "Küche",
+            "Straße",
+            "Nacht"
+          ],
+          "explanation": "die Milch = milk\nDie Milch steht im Kühlschrank.\nThe milk is in the refrigerator."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Die ___ steht im Kühlschrank.\nThe milk is in the refrigerator.",
+          "answer": "Milch",
+          "options": [
+            "Nacht",
+            "Milch",
+            "Straße",
+            "Küche"
+          ],
+          "explanation": "die Milch = milk\nDie Milch steht im Kühlschrank.\nThe milk is in the refrigerator.",
+          "contextSentence": "Die ___ steht im Kühlschrank."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Milch",
+          "answer": "die",
+          "options": [
+            "die",
+            "das",
+            "der"
+          ],
+          "explanation": "die Milch = milk\nDie Milch steht im Kühlschrank.\nThe milk is in the refrigerator."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Milch:noun:0c3413be8220745f",
+      "sourceGlosses": [
+        "milk (white liquid produced by female mammals for their young to consume)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Milch#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Apfel:be334988f4c8156f",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Apfel",
+      "lemmaGroup": "Apfel",
+      "meaning": "apple",
+      "article": "der",
+      "pos": "noun",
+      "rank": 11,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "food",
+      "example": "Ich esse einen Apfel.",
+      "translation": "I eat an apple.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "Apfel"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Apfel",
+          "answer": "apple",
+          "options": [
+            "apple",
+            "door",
+            "city",
+            "answer"
+          ],
+          "explanation": "der Apfel = apple\nIch esse einen Apfel.\nI eat an apple."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "apple",
+          "answer": "Apfel",
+          "options": [
+            "Antwort",
+            "Apfel",
+            "Stadt",
+            "Tür"
+          ],
+          "explanation": "der Apfel = apple\nIch esse einen Apfel.\nI eat an apple."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich esse einen ___.\nI eat an apple.",
+          "answer": "Apfel",
+          "options": [
+            "Apfel",
+            "Tür",
+            "Stadt",
+            "Antwort"
+          ],
+          "explanation": "der Apfel = apple\nIch esse einen Apfel.\nI eat an apple.",
+          "contextSentence": "Ich esse einen ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Apfel",
+          "answer": "der",
+          "options": [
+            "der",
+            "das",
+            "die"
+          ],
+          "explanation": "der Apfel = apple\nIch esse einen Apfel.\nI eat an apple."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Apfel:noun:be334988f4c8156f",
+      "sourceGlosses": [
+        "apple (fruit)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Apfel#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Käse:f0c51318ac82043e",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Käse",
+      "lemmaGroup": "Käse",
+      "meaning": "cheese",
+      "article": "der",
+      "pos": "noun",
+      "rank": 12,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "food",
+      "example": "Ich esse Brot mit Käse.",
+      "translation": "I eat bread with cheese.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "Käse"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Käse",
+          "answer": "cheese",
+          "options": [
+            "cheese",
+            "chair",
+            "book",
+            "house"
+          ],
+          "explanation": "der Käse = cheese\nIch esse Brot mit Käse.\nI eat bread with cheese."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "cheese",
+          "answer": "Käse",
+          "options": [
+            "Käse",
+            "Stuhl",
+            "Haus",
+            "Buch"
+          ],
+          "explanation": "der Käse = cheese\nIch esse Brot mit Käse.\nI eat bread with cheese."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich esse Brot mit ___.\nI eat bread with cheese.",
+          "answer": "Käse",
+          "options": [
+            "Käse",
+            "Stuhl",
+            "Buch",
+            "Haus"
+          ],
+          "explanation": "der Käse = cheese\nIch esse Brot mit Käse.\nI eat bread with cheese.",
+          "contextSentence": "Ich esse Brot mit ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Käse",
+          "answer": "der",
+          "options": [
+            "die",
+            "der",
+            "das"
+          ],
+          "explanation": "der Käse = cheese\nIch esse Brot mit Käse.\nI eat bread with cheese."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Käse:noun:f0c51318ac82043e",
+      "sourceGlosses": [
+        "cheese"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/K%C3%A4se#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Ei:24e03a89dd89d831",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Ei",
+      "lemmaGroup": "Ei",
+      "meaning": "egg",
+      "article": "das",
+      "pos": "noun",
+      "rank": 13,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "food",
+      "example": "Zum Frühstück esse ich ein Ei.",
+      "translation": "I eat an egg for breakfast.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "Ei"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Ei",
+          "answer": "egg",
+          "options": [
+            "egg",
+            "question",
+            "apple",
+            "bread"
+          ],
+          "explanation": "das Ei = egg\nZum Frühstück esse ich ein Ei.\nI eat an egg for breakfast."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "egg",
+          "answer": "Ei",
+          "options": [
+            "Brot",
+            "Apfel",
+            "Frage",
+            "Ei"
+          ],
+          "explanation": "das Ei = egg\nZum Frühstück esse ich ein Ei.\nI eat an egg for breakfast."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Zum Frühstück esse ich ein ___.\nI eat an egg for breakfast.",
+          "answer": "Ei",
+          "options": [
+            "Ei",
+            "Apfel",
+            "Frage",
+            "Brot"
+          ],
+          "explanation": "das Ei = egg\nZum Frühstück esse ich ein Ei.\nI eat an egg for breakfast.",
+          "contextSentence": "Zum Frühstück esse ich ein ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Ei",
+          "answer": "das",
+          "options": [
+            "das",
+            "die",
+            "der"
+          ],
+          "explanation": "das Ei = egg\nZum Frühstück esse ich ein Ei.\nI eat an egg for breakfast."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Ei:noun:24e03a89dd89d831",
+      "sourceGlosses": [
+        "egg (all biological senses)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Ei#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Schule:7c1f9ba45d4f1784",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Schule",
+      "lemmaGroup": "Schule",
+      "meaning": "school",
+      "article": "die",
+      "pos": "noun",
+      "rank": 14,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "education",
+      "example": "Die Schule beginnt um acht Uhr.",
+      "translation": "School starts at eight o'clock.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "Schule"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Schule",
+          "answer": "school",
+          "options": [
+            "school",
+            "night",
+            "city",
+            "room"
+          ],
+          "explanation": "die Schule = school\nDie Schule beginnt um acht Uhr.\nSchool starts at eight o'clock."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "school",
+          "answer": "Schule",
+          "options": [
+            "Stadt",
+            "Nacht",
+            "Zimmer",
+            "Schule"
+          ],
+          "explanation": "die Schule = school\nDie Schule beginnt um acht Uhr.\nSchool starts at eight o'clock."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Die ___ beginnt um acht Uhr.\nSchool starts at eight o'clock.",
+          "answer": "Schule",
+          "options": [
+            "Stadt",
+            "Nacht",
+            "Schule",
+            "Zimmer"
+          ],
+          "explanation": "die Schule = school\nDie Schule beginnt um acht Uhr.\nSchool starts at eight o'clock.",
+          "contextSentence": "Die ___ beginnt um acht Uhr."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Schule",
+          "answer": "die",
+          "options": [
+            "die",
+            "das",
+            "der"
+          ],
+          "explanation": "die Schule = school\nDie Schule beginnt um acht Uhr.\nSchool starts at eight o'clock."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Schule:noun:7c1f9ba45d4f1784",
+      "sourceGlosses": [
+        "school (an institution dedicated to teaching and learning (especially before university); department/institute at a college or university; art movement; followers of a particular doctrine)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Schule#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Buch:8c83968bce68bc1f",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Buch",
+      "lemmaGroup": "Buch",
+      "meaning": "book",
+      "article": "das",
+      "pos": "noun",
+      "rank": 15,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "education",
+      "example": "Ich lese ein Buch.",
+      "translation": "I read a book.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "Buch"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Buch",
+          "answer": "book",
+          "options": [
+            "street",
+            "bed",
+            "school",
+            "book"
+          ],
+          "explanation": "das Buch = book\nIch lese ein Buch.\nI read a book."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "book",
+          "answer": "Buch",
+          "options": [
+            "Bett",
+            "Straße",
+            "Schule",
+            "Buch"
+          ],
+          "explanation": "das Buch = book\nIch lese ein Buch.\nI read a book."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich lese ein ___.\nI read a book.",
+          "answer": "Buch",
+          "options": [
+            "Bett",
+            "Buch",
+            "Straße",
+            "Schule"
+          ],
+          "explanation": "das Buch = book\nIch lese ein Buch.\nI read a book.",
+          "contextSentence": "Ich lese ein ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Buch",
+          "answer": "das",
+          "options": [
+            "der",
+            "das",
+            "die"
+          ],
+          "explanation": "das Buch = book\nIch lese ein Buch.\nI read a book."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Buch:noun:8c83968bce68bc1f",
+      "sourceGlosses": [
+        "book (collection of sheets of paper bound together to hinge at one edge; long work fit for publication)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Buch#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Frage:ef0e1a37cc6fc4d8",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Frage",
+      "lemmaGroup": "Frage",
+      "meaning": "question",
+      "article": "die",
+      "pos": "noun",
+      "rank": 16,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "education",
+      "example": "Ich habe eine Frage.",
+      "translation": "I have a question.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "Frage"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Frage",
+          "answer": "question",
+          "options": [
+            "railway station",
+            "question",
+            "book",
+            "kitchen"
+          ],
+          "explanation": "die Frage = question\nIch habe eine Frage.\nI have a question."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "question",
+          "answer": "Frage",
+          "options": [
+            "Bahnhof",
+            "Buch",
+            "Küche",
+            "Frage"
+          ],
+          "explanation": "die Frage = question\nIch habe eine Frage.\nI have a question."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich habe eine ___.\nI have a question.",
+          "answer": "Frage",
+          "options": [
+            "Bahnhof",
+            "Küche",
+            "Buch",
+            "Frage"
+          ],
+          "explanation": "die Frage = question\nIch habe eine Frage.\nI have a question.",
+          "contextSentence": "Ich habe eine ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Frage",
+          "answer": "die",
+          "options": [
+            "das",
+            "der",
+            "die"
+          ],
+          "explanation": "die Frage = question\nIch habe eine Frage.\nI have a question."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Frage:noun:ef0e1a37cc6fc4d8",
+      "sourceGlosses": [
+        "question (interrogative sentence or phrase)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Frage#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Antwort:023dcab6ab40844a",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Antwort",
+      "lemmaGroup": "Antwort",
+      "meaning": "answer",
+      "article": "die",
+      "pos": "noun",
+      "rank": 17,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "education",
+      "example": "Deine Antwort ist richtig.",
+      "translation": "Your answer is correct.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "Antwort"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Antwort",
+          "answer": "answer",
+          "options": [
+            "window",
+            "answer",
+            "street",
+            "room"
+          ],
+          "explanation": "die Antwort = answer\nDeine Antwort ist richtig.\nYour answer is correct."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "answer",
+          "answer": "Antwort",
+          "options": [
+            "Antwort",
+            "Fenster",
+            "Straße",
+            "Zimmer"
+          ],
+          "explanation": "die Antwort = answer\nDeine Antwort ist richtig.\nYour answer is correct."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Deine ___ ist richtig.\nYour answer is correct.",
+          "answer": "Antwort",
+          "options": [
+            "Antwort",
+            "Zimmer",
+            "Straße",
+            "Fenster"
+          ],
+          "explanation": "die Antwort = answer\nDeine Antwort ist richtig.\nYour answer is correct.",
+          "contextSentence": "Deine ___ ist richtig."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Antwort",
+          "answer": "die",
+          "options": [
+            "die",
+            "das",
+            "der"
+          ],
+          "explanation": "die Antwort = answer\nDeine Antwort ist richtig.\nYour answer is correct."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Antwort:noun:023dcab6ab40844a",
+      "sourceGlosses": [
+        "answer"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Antwort#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Zug:14c4d6c4a1266de4",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Zug",
+      "lemmaGroup": "Zug",
+      "meaning": "train",
+      "article": "der",
+      "pos": "noun",
+      "rank": 18,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "travel",
+      "example": "Der Zug fährt nach Berlin.",
+      "translation": "The train is going to Berlin.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "Zug"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Zug",
+          "answer": "train",
+          "options": [
+            "train",
+            "question",
+            "school",
+            "chair"
+          ],
+          "explanation": "der Zug = train\nDer Zug fährt nach Berlin.\nThe train is going to Berlin."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "train",
+          "answer": "Zug",
+          "options": [
+            "Frage",
+            "Zug",
+            "Schule",
+            "Stuhl"
+          ],
+          "explanation": "der Zug = train\nDer Zug fährt nach Berlin.\nThe train is going to Berlin."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Der ___ fährt nach Berlin.\nThe train is going to Berlin.",
+          "answer": "Zug",
+          "options": [
+            "Frage",
+            "Stuhl",
+            "Schule",
+            "Zug"
+          ],
+          "explanation": "der Zug = train\nDer Zug fährt nach Berlin.\nThe train is going to Berlin.",
+          "contextSentence": "Der ___ fährt nach Berlin."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Zug",
+          "answer": "der",
+          "options": [
+            "die",
+            "der",
+            "das"
+          ],
+          "explanation": "der Zug = train\nDer Zug fährt nach Berlin.\nThe train is going to Berlin."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Zug:noun:14c4d6c4a1266de4",
+      "sourceGlosses": [
+        "procession (larger group moving together along a common route)",
+        "train (multiple vehicles one behind the other, particularly travelling on rails)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Zug#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Bahnhof:c99c7dbd92e12ef0",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Bahnhof",
+      "lemmaGroup": "Bahnhof",
+      "meaning": "railway station",
+      "article": "der",
+      "pos": "noun",
+      "rank": 19,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "travel",
+      "example": "Wir warten am Bahnhof.",
+      "translation": "We wait at the railway station.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "Bahnhof"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Bahnhof",
+          "answer": "railway station",
+          "options": [
+            "answer",
+            "railway station",
+            "school",
+            "table"
+          ],
+          "explanation": "der Bahnhof = railway station\nWir warten am Bahnhof.\nWe wait at the railway station."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "railway station",
+          "answer": "Bahnhof",
+          "options": [
+            "Bahnhof",
+            "Tisch",
+            "Schule",
+            "Antwort"
+          ],
+          "explanation": "der Bahnhof = railway station\nWir warten am Bahnhof.\nWe wait at the railway station."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wir warten am ___.\nWe wait at the railway station.",
+          "answer": "Bahnhof",
+          "options": [
+            "Antwort",
+            "Schule",
+            "Tisch",
+            "Bahnhof"
+          ],
+          "explanation": "der Bahnhof = railway station\nWir warten am Bahnhof.\nWe wait at the railway station.",
+          "contextSentence": "Wir warten am ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Bahnhof",
+          "answer": "der",
+          "options": [
+            "der",
+            "die",
+            "das"
+          ],
+          "explanation": "der Bahnhof = railway station\nWir warten am Bahnhof.\nWe wait at the railway station."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Bahnhof:noun:c99c7dbd92e12ef0",
+      "sourceGlosses": [
+        "railway depot, railroad station, railway station, train station"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Bahnhof#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Straße:6adc93b9461a6ec2",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Straße",
+      "lemmaGroup": "Straße",
+      "meaning": "street",
+      "article": "die",
+      "pos": "noun",
+      "rank": 20,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "travel",
+      "example": "Die Straße ist lang.",
+      "translation": "The street is long.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "Straße"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Straße",
+          "answer": "street",
+          "options": [
+            "house",
+            "door",
+            "street",
+            "table"
+          ],
+          "explanation": "die Straße = street\nDie Straße ist lang.\nThe street is long."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "street",
+          "answer": "Straße",
+          "options": [
+            "Straße",
+            "Haus",
+            "Tür",
+            "Tisch"
+          ],
+          "explanation": "die Straße = street\nDie Straße ist lang.\nThe street is long."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Die ___ ist lang.\nThe street is long.",
+          "answer": "Straße",
+          "options": [
+            "Tisch",
+            "Haus",
+            "Tür",
+            "Straße"
+          ],
+          "explanation": "die Straße = street\nDie Straße ist lang.\nThe street is long.",
+          "contextSentence": "Die ___ ist lang."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Straße",
+          "answer": "die",
+          "options": [
+            "der",
+            "das",
+            "die"
+          ],
+          "explanation": "die Straße = street\nDie Straße ist lang.\nThe street is long."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Straße:noun:6adc93b9461a6ec2",
+      "sourceGlosses": [
+        "street; road (a way wide enough to be passable for vehicles, generally paved, in or outside a settlement)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Stra%C3%9Fe#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Stadt:a707747c5cffa0c7",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Stadt",
+      "lemmaGroup": "Stadt",
+      "meaning": "city",
+      "article": "die",
+      "pos": "noun",
+      "rank": 21,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "travel",
+      "example": "Berlin ist eine große Stadt.",
+      "translation": "Berlin is a large city.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "Stadt"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Stadt",
+          "answer": "city",
+          "options": [
+            "bed",
+            "window",
+            "book",
+            "city"
+          ],
+          "explanation": "die Stadt = city\nBerlin ist eine große Stadt.\nBerlin is a large city."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "city",
+          "answer": "Stadt",
+          "options": [
+            "Fenster",
+            "Bett",
+            "Buch",
+            "Stadt"
+          ],
+          "explanation": "die Stadt = city\nBerlin ist eine große Stadt.\nBerlin is a large city."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Berlin ist eine große ___.\nBerlin is a large city.",
+          "answer": "Stadt",
+          "options": [
+            "Bett",
+            "Stadt",
+            "Buch",
+            "Fenster"
+          ],
+          "explanation": "die Stadt = city\nBerlin ist eine große Stadt.\nBerlin is a large city.",
+          "contextSentence": "Berlin ist eine große ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Stadt",
+          "answer": "die",
+          "options": [
+            "das",
+            "der",
+            "die"
+          ],
+          "explanation": "die Stadt = city\nBerlin ist eine große Stadt.\nBerlin is a large city."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Stadt:noun:a707747c5cffa0c7",
+      "sourceGlosses": [
+        "city (a large settlement)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Stadt#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Tag:59630abae69c0dc7",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Tag",
+      "lemmaGroup": "Tag",
+      "meaning": "day",
+      "article": "der",
+      "pos": "noun",
+      "rank": 22,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "everyday",
+      "example": "Ein Tag hat vierundzwanzig Stunden.",
+      "translation": "A day has twenty-four hours.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "Tag"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Tag",
+          "answer": "day",
+          "options": [
+            "school",
+            "day",
+            "egg",
+            "book"
+          ],
+          "explanation": "der Tag = day\nEin Tag hat vierundzwanzig Stunden.\nA day has twenty-four hours."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "day",
+          "answer": "Tag",
+          "options": [
+            "Buch",
+            "Schule",
+            "Ei",
+            "Tag"
+          ],
+          "explanation": "der Tag = day\nEin Tag hat vierundzwanzig Stunden.\nA day has twenty-four hours."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ein ___ hat vierundzwanzig Stunden.\nA day has twenty-four hours.",
+          "answer": "Tag",
+          "options": [
+            "Buch",
+            "Tag",
+            "Schule",
+            "Ei"
+          ],
+          "explanation": "der Tag = day\nEin Tag hat vierundzwanzig Stunden.\nA day has twenty-four hours.",
+          "contextSentence": "Ein ___ hat vierundzwanzig Stunden."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Tag",
+          "answer": "der",
+          "options": [
+            "das",
+            "der",
+            "die"
+          ],
+          "explanation": "der Tag = day\nEin Tag hat vierundzwanzig Stunden.\nA day has twenty-four hours."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Tag:noun:59630abae69c0dc7",
+      "sourceGlosses": [
+        "day (a 24-hour period)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Tag#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Nacht:35cb8590a40ef21e",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Nacht",
+      "lemmaGroup": "Nacht",
+      "meaning": "night",
+      "article": "die",
+      "pos": "noun",
+      "rank": 23,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "everyday",
+      "example": "In der Nacht schlafen wir.",
+      "translation": "We sleep at night.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "Nacht"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Nacht",
+          "answer": "night",
+          "options": [
+            "night",
+            "table",
+            "question",
+            "street"
+          ],
+          "explanation": "die Nacht = night\nIn der Nacht schlafen wir.\nWe sleep at night."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "night",
+          "answer": "Nacht",
+          "options": [
+            "Frage",
+            "Nacht",
+            "Tisch",
+            "Straße"
+          ],
+          "explanation": "die Nacht = night\nIn der Nacht schlafen wir.\nWe sleep at night."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "In der ___ schlafen wir.\nWe sleep at night.",
+          "answer": "Nacht",
+          "options": [
+            "Frage",
+            "Nacht",
+            "Tisch",
+            "Straße"
+          ],
+          "explanation": "die Nacht = night\nIn der Nacht schlafen wir.\nWe sleep at night.",
+          "contextSentence": "In der ___ schlafen wir."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Nacht",
+          "answer": "die",
+          "options": [
+            "die",
+            "das",
+            "der"
+          ],
+          "explanation": "die Nacht = night\nIn der Nacht schlafen wir.\nWe sleep at night."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Nacht:noun:35cb8590a40ef21e",
+      "sourceGlosses": [
+        "night"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Nacht#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:essen:8be1575af77f818b",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "essen",
+      "lemmaGroup": "essen",
+      "meaning": "to eat",
+      "article": "",
+      "pos": "verb",
+      "rank": 24,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "food",
+      "example": "Wir essen heute Reis.",
+      "translation": "We eat rice today.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "essen"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "essen",
+          "answer": "to eat",
+          "options": [
+            "to eat",
+            "to learn",
+            "to read",
+            "to live (reside)"
+          ],
+          "explanation": "essen = to eat\nWir essen heute Reis.\nWe eat rice today."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to eat",
+          "answer": "essen",
+          "options": [
+            "essen",
+            "lernen",
+            "lesen",
+            "wohnen"
+          ],
+          "explanation": "essen = to eat\nWir essen heute Reis.\nWe eat rice today."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wir ___ heute Reis.\nWe eat rice today.",
+          "answer": "essen",
+          "options": [
+            "wohnen",
+            "lesen",
+            "lernen",
+            "essen"
+          ],
+          "explanation": "essen = to eat\nWir essen heute Reis.\nWe eat rice today.",
+          "contextSentence": "Wir ___ heute Reis."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:essen:verb:8be1575af77f818b",
+      "sourceGlosses": [
+        "to eat"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/essen#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:trinken:5a23d595a912b3ca",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "trinken",
+      "lemmaGroup": "trinken",
+      "meaning": "to drink",
+      "article": "",
+      "pos": "verb",
+      "rank": 25,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "food",
+      "example": "Wir trinken Wasser.",
+      "translation": "We drink water.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "trinken"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "trinken",
+          "answer": "to drink",
+          "options": [
+            "to buy",
+            "to drink",
+            "to answer",
+            "to learn"
+          ],
+          "explanation": "trinken = to drink\nWir trinken Wasser.\nWe drink water."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to drink",
+          "answer": "trinken",
+          "options": [
+            "antworten",
+            "lernen",
+            "trinken",
+            "kaufen"
+          ],
+          "explanation": "trinken = to drink\nWir trinken Wasser.\nWe drink water."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wir ___ Wasser.\nWe drink water.",
+          "answer": "trinken",
+          "options": [
+            "kaufen",
+            "trinken",
+            "antworten",
+            "lernen"
+          ],
+          "explanation": "trinken = to drink\nWir trinken Wasser.\nWe drink water.",
+          "contextSentence": "Wir ___ Wasser."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:trinken:verb:5a23d595a912b3ca",
+      "sourceGlosses": [
+        "to drink (to drink liquids (in bottles, glasses, etc.) by mouth)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/trinken#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:kaufen:0c10a759d3c63f05",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "kaufen",
+      "lemmaGroup": "kaufen",
+      "meaning": "to buy",
+      "article": "",
+      "pos": "verb",
+      "rank": 26,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "shopping",
+      "example": "Wir kaufen frisches Brot.",
+      "translation": "We buy fresh bread.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "kaufen"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "kaufen",
+          "answer": "to buy",
+          "options": [
+            "to sleep",
+            "to eat",
+            "to buy",
+            "to write"
+          ],
+          "explanation": "kaufen = to buy\nWir kaufen frisches Brot.\nWe buy fresh bread."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to buy",
+          "answer": "kaufen",
+          "options": [
+            "essen",
+            "schlafen",
+            "schreiben",
+            "kaufen"
+          ],
+          "explanation": "kaufen = to buy\nWir kaufen frisches Brot.\nWe buy fresh bread."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wir ___ frisches Brot.\nWe buy fresh bread.",
+          "answer": "kaufen",
+          "options": [
+            "essen",
+            "schlafen",
+            "kaufen",
+            "schreiben"
+          ],
+          "explanation": "kaufen = to buy\nWir kaufen frisches Brot.\nWe buy fresh bread.",
+          "contextSentence": "Wir ___ frisches Brot."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:kaufen:verb:0c10a759d3c63f05",
+      "sourceGlosses": [
+        "to buy, to purchase"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/kaufen#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:lesen:c266aed985f1ab60",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "lesen",
+      "lemmaGroup": "lesen",
+      "meaning": "to read",
+      "article": "",
+      "pos": "verb",
+      "rank": 27,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "education",
+      "example": "Wir lesen ein Buch.",
+      "translation": "We read a book.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "lesen"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "lesen",
+          "answer": "to read",
+          "options": [
+            "to live (reside)",
+            "to sleep",
+            "to read",
+            "to answer"
+          ],
+          "explanation": "lesen = to read\nWir lesen ein Buch.\nWe read a book."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to read",
+          "answer": "lesen",
+          "options": [
+            "antworten",
+            "lesen",
+            "schlafen",
+            "wohnen"
+          ],
+          "explanation": "lesen = to read\nWir lesen ein Buch.\nWe read a book."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wir ___ ein Buch.\nWe read a book.",
+          "answer": "lesen",
+          "options": [
+            "schlafen",
+            "antworten",
+            "lesen",
+            "wohnen"
+          ],
+          "explanation": "lesen = to read\nWir lesen ein Buch.\nWe read a book.",
+          "contextSentence": "Wir ___ ein Buch."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:lesen:verb:c266aed985f1ab60",
+      "sourceGlosses": [
+        "to read (to look at and understand symbols, words, or data)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/lesen#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:schreiben:90dec22c2f090b95",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "schreiben",
+      "lemmaGroup": "schreiben",
+      "meaning": "to write",
+      "article": "",
+      "pos": "verb",
+      "rank": 28,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "education",
+      "example": "Wir schreiben einen Brief.",
+      "translation": "We write a letter.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "schreiben"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "schreiben",
+          "answer": "to write",
+          "options": [
+            "to write",
+            "to drink",
+            "to buy",
+            "to eat"
+          ],
+          "explanation": "schreiben = to write\nWir schreiben einen Brief.\nWe write a letter."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to write",
+          "answer": "schreiben",
+          "options": [
+            "essen",
+            "schreiben",
+            "kaufen",
+            "trinken"
+          ],
+          "explanation": "schreiben = to write\nWir schreiben einen Brief.\nWe write a letter."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wir ___ einen Brief.\nWe write a letter.",
+          "answer": "schreiben",
+          "options": [
+            "kaufen",
+            "schreiben",
+            "trinken",
+            "essen"
+          ],
+          "explanation": "schreiben = to write\nWir schreiben einen Brief.\nWe write a letter.",
+          "contextSentence": "Wir ___ einen Brief."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:schreiben:verb:90dec22c2f090b95",
+      "sourceGlosses": [
+        "to write, to write out (use letters to make words and texts)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/schreiben#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:lernen:d1c1315acad6072d",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "lernen",
+      "lemmaGroup": "lernen",
+      "meaning": "to learn",
+      "article": "",
+      "pos": "verb",
+      "rank": 29,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "education",
+      "example": "Wir lernen Deutsch.",
+      "translation": "We learn German.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "lernen"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "lernen",
+          "answer": "to learn",
+          "options": [
+            "to learn",
+            "to read",
+            "to buy",
+            "to work"
+          ],
+          "explanation": "lernen = to learn\nWir lernen Deutsch.\nWe learn German."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to learn",
+          "answer": "lernen",
+          "options": [
+            "kaufen",
+            "lernen",
+            "lesen",
+            "arbeiten"
+          ],
+          "explanation": "lernen = to learn\nWir lernen Deutsch.\nWe learn German."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wir ___ Deutsch.\nWe learn German.",
+          "answer": "lernen",
+          "options": [
+            "arbeiten",
+            "kaufen",
+            "lesen",
+            "lernen"
+          ],
+          "explanation": "lernen = to learn\nWir lernen Deutsch.\nWe learn German.",
+          "contextSentence": "Wir ___ Deutsch."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:lernen:verb:d1c1315acad6072d",
+      "sourceGlosses": [
+        "to learn, to acquire knowledge"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/lernen#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:schlafen:2c685499902b5ed0",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "schlafen",
+      "lemmaGroup": "schlafen",
+      "meaning": "to sleep",
+      "article": "",
+      "pos": "verb",
+      "rank": 30,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "home",
+      "example": "Wir schlafen acht Stunden.",
+      "translation": "We sleep for eight hours.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "schlafen"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "schlafen",
+          "answer": "to sleep",
+          "options": [
+            "to sleep",
+            "to work",
+            "to write",
+            "to drink"
+          ],
+          "explanation": "schlafen = to sleep\nWir schlafen acht Stunden.\nWe sleep for eight hours."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to sleep",
+          "answer": "schlafen",
+          "options": [
+            "arbeiten",
+            "trinken",
+            "schreiben",
+            "schlafen"
+          ],
+          "explanation": "schlafen = to sleep\nWir schlafen acht Stunden.\nWe sleep for eight hours."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wir ___ acht Stunden.\nWe sleep for eight hours.",
+          "answer": "schlafen",
+          "options": [
+            "schlafen",
+            "arbeiten",
+            "schreiben",
+            "trinken"
+          ],
+          "explanation": "schlafen = to sleep\nWir schlafen acht Stunden.\nWe sleep for eight hours.",
+          "contextSentence": "Wir ___ acht Stunden."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:schlafen:verb:2c685499902b5ed0",
+      "sourceGlosses": [
+        "to sleep"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/schlafen#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:arbeiten:e71b8d1642837e99",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "arbeiten",
+      "lemmaGroup": "arbeiten",
+      "meaning": "to work",
+      "article": "",
+      "pos": "verb",
+      "rank": 31,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "work",
+      "example": "Wir arbeiten heute im Büro.",
+      "translation": "We work in the office today.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "arbeiten"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "arbeiten",
+          "answer": "to work",
+          "options": [
+            "to work",
+            "to sleep",
+            "to live (reside)",
+            "to read"
+          ],
+          "explanation": "arbeiten = to work\nWir arbeiten heute im Büro.\nWe work in the office today."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to work",
+          "answer": "arbeiten",
+          "options": [
+            "schlafen",
+            "wohnen",
+            "arbeiten",
+            "lesen"
+          ],
+          "explanation": "arbeiten = to work\nWir arbeiten heute im Büro.\nWe work in the office today."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wir ___ heute im Büro.\nWe work in the office today.",
+          "answer": "arbeiten",
+          "options": [
+            "wohnen",
+            "arbeiten",
+            "lesen",
+            "schlafen"
+          ],
+          "explanation": "arbeiten = to work\nWir arbeiten heute im Büro.\nWe work in the office today.",
+          "contextSentence": "Wir ___ heute im Büro."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:arbeiten:verb:e71b8d1642837e99",
+      "sourceGlosses": [
+        "to work (to do a specific task by employing physical or mental powers)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/arbeiten#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:warten:1e2a961d6bda842f",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "warten",
+      "lemmaGroup": "warten",
+      "meaning": "to wait",
+      "article": "",
+      "pos": "verb",
+      "rank": 32,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "travel",
+      "example": "Wir warten auf den Bus.",
+      "translation": "We wait for the bus.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "warten"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "warten",
+          "answer": "to wait",
+          "options": [
+            "to work",
+            "to write",
+            "to wait",
+            "to read"
+          ],
+          "explanation": "warten = to wait\nWir warten auf den Bus.\nWe wait for the bus."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to wait",
+          "answer": "warten",
+          "options": [
+            "lesen",
+            "arbeiten",
+            "warten",
+            "schreiben"
+          ],
+          "explanation": "warten = to wait\nWir warten auf den Bus.\nWe wait for the bus."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wir ___ auf den Bus.\nWe wait for the bus.",
+          "answer": "warten",
+          "options": [
+            "arbeiten",
+            "warten",
+            "schreiben",
+            "lesen"
+          ],
+          "explanation": "warten = to wait\nWir warten auf den Bus.\nWe wait for the bus.",
+          "contextSentence": "Wir ___ auf den Bus."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:warten:verb:1e2a961d6bda842f",
+      "sourceGlosses": [
+        "to wait (for)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/warten#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:wohnen:006006402b996542",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "wohnen",
+      "lemmaGroup": "wohnen",
+      "meaning": "to live (reside)",
+      "article": "",
+      "pos": "verb",
+      "rank": 33,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "home",
+      "example": "Wir wohnen in Berlin.",
+      "translation": "We live in Berlin.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "wohnen"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "wohnen",
+          "answer": "to live (reside)",
+          "options": [
+            "to read",
+            "to live (reside)",
+            "to buy",
+            "to sleep"
+          ],
+          "explanation": "wohnen = to live (reside)\nWir wohnen in Berlin.\nWe live in Berlin."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to live (reside)",
+          "answer": "wohnen",
+          "options": [
+            "schlafen",
+            "kaufen",
+            "lesen",
+            "wohnen"
+          ],
+          "explanation": "wohnen = to live (reside)\nWir wohnen in Berlin.\nWe live in Berlin."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wir ___ in Berlin.\nWe live in Berlin.",
+          "answer": "wohnen",
+          "options": [
+            "schlafen",
+            "lesen",
+            "wohnen",
+            "kaufen"
+          ],
+          "explanation": "wohnen = to live (reside)\nWir wohnen in Berlin.\nWe live in Berlin.",
+          "contextSentence": "Wir ___ in Berlin."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:wohnen:verb:006006402b996542",
+      "sourceGlosses": [
+        "to live, reside, dwell (to remain or be settled permanently, or for a considerable time)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/wohnen#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:fragen:dff68cea9d1505c1",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "fragen",
+      "lemmaGroup": "fragen",
+      "meaning": "to ask",
+      "article": "",
+      "pos": "verb",
+      "rank": 34,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "education",
+      "example": "Wir fragen die Lehrerin.",
+      "translation": "We ask the teacher.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "fragen"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "fragen",
+          "answer": "to ask",
+          "options": [
+            "to live (reside)",
+            "to write",
+            "to ask",
+            "to work"
+          ],
+          "explanation": "fragen = to ask\nWir fragen die Lehrerin.\nWe ask the teacher."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to ask",
+          "answer": "fragen",
+          "options": [
+            "arbeiten",
+            "fragen",
+            "wohnen",
+            "schreiben"
+          ],
+          "explanation": "fragen = to ask\nWir fragen die Lehrerin.\nWe ask the teacher."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wir ___ die Lehrerin.\nWe ask the teacher.",
+          "answer": "fragen",
+          "options": [
+            "wohnen",
+            "fragen",
+            "arbeiten",
+            "schreiben"
+          ],
+          "explanation": "fragen = to ask\nWir fragen die Lehrerin.\nWe ask the teacher.",
+          "contextSentence": "Wir ___ die Lehrerin."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:fragen:verb:dff68cea9d1505c1",
+      "sourceGlosses": [
+        "to ask"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/fragen#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:antworten:e1c8dd6aa0f610b9",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "antworten",
+      "lemmaGroup": "antworten",
+      "meaning": "to answer",
+      "article": "",
+      "pos": "verb",
+      "rank": 35,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "education",
+      "example": "Wir antworten auf die Frage.",
+      "translation": "We answer the question.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "antworten"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "antworten",
+          "answer": "to answer",
+          "options": [
+            "to learn",
+            "to live (reside)",
+            "to sleep",
+            "to answer"
+          ],
+          "explanation": "antworten = to answer\nWir antworten auf die Frage.\nWe answer the question."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to answer",
+          "answer": "antworten",
+          "options": [
+            "schlafen",
+            "wohnen",
+            "antworten",
+            "lernen"
+          ],
+          "explanation": "antworten = to answer\nWir antworten auf die Frage.\nWe answer the question."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wir ___ auf die Frage.\nWe answer the question.",
+          "answer": "antworten",
+          "options": [
+            "schlafen",
+            "antworten",
+            "wohnen",
+            "lernen"
+          ],
+          "explanation": "antworten = to answer\nWir antworten auf die Frage.\nWe answer the question.",
+          "contextSentence": "Wir ___ auf die Frage."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:antworten:verb:e1c8dd6aa0f610b9",
+      "sourceGlosses": [
+        "to answer, to reply"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/antworten#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:adj:groß:2ba74f95a2c63d01",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "groß",
+      "lemmaGroup": "groß",
+      "meaning": "big",
+      "article": "",
+      "pos": "adj",
+      "rank": 36,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "everyday",
+      "example": "Das Haus ist groß.",
+      "translation": "The house is big.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "groß"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "groß",
+          "answer": "big",
+          "options": [
+            "ill",
+            "big",
+            "old",
+            "slow"
+          ],
+          "explanation": "groß = big\nDas Haus ist groß.\nThe house is big."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "big",
+          "answer": "groß",
+          "options": [
+            "krank",
+            "alt",
+            "groß",
+            "langsam"
+          ],
+          "explanation": "groß = big\nDas Haus ist groß.\nThe house is big."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Das Haus ist ___.\nThe house is big.",
+          "answer": "groß",
+          "options": [
+            "krank",
+            "groß",
+            "alt",
+            "langsam"
+          ],
+          "explanation": "groß = big\nDas Haus ist groß.\nThe house is big.",
+          "contextSentence": "Das Haus ist ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:groß:adj:2ba74f95a2c63d01",
+      "sourceGlosses": [
+        "big, large, large-scale"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/gro%C3%9F#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:adj:klein:91ccb9c9f7eeecec",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "klein",
+      "lemmaGroup": "klein",
+      "meaning": "small",
+      "article": "",
+      "pos": "adj",
+      "rank": 37,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "everyday",
+      "example": "Das Zimmer ist klein.",
+      "translation": "The room is small.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "klein"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "klein",
+          "answer": "small",
+          "options": [
+            "fast",
+            "big",
+            "small",
+            "slow"
+          ],
+          "explanation": "klein = small\nDas Zimmer ist klein.\nThe room is small."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "small",
+          "answer": "klein",
+          "options": [
+            "schnell",
+            "groß",
+            "langsam",
+            "klein"
+          ],
+          "explanation": "klein = small\nDas Zimmer ist klein.\nThe room is small."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Das Zimmer ist ___.\nThe room is small.",
+          "answer": "klein",
+          "options": [
+            "groß",
+            "langsam",
+            "schnell",
+            "klein"
+          ],
+          "explanation": "klein = small\nDas Zimmer ist klein.\nThe room is small.",
+          "contextSentence": "Das Zimmer ist ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:klein:adj:91ccb9c9f7eeecec",
+      "sourceGlosses": [
+        "small, little, wee (in physical size or extent)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/klein#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:adj:warm:f397e53dbefff940",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "warm",
+      "lemmaGroup": "warm",
+      "meaning": "warm",
+      "article": "",
+      "pos": "adj",
+      "rank": 38,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "everyday",
+      "example": "Das Wasser ist warm.",
+      "translation": "The water is warm.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "warm"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "warm",
+          "answer": "warm",
+          "options": [
+            "warm",
+            "small",
+            "big",
+            "old"
+          ],
+          "explanation": "warm = warm\nDas Wasser ist warm.\nThe water is warm."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "warm",
+          "answer": "warm",
+          "options": [
+            "groß",
+            "klein",
+            "warm",
+            "alt"
+          ],
+          "explanation": "warm = warm\nDas Wasser ist warm.\nThe water is warm."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Das Wasser ist ___.\nThe water is warm.",
+          "answer": "warm",
+          "options": [
+            "alt",
+            "klein",
+            "groß",
+            "warm"
+          ],
+          "explanation": "warm = warm\nDas Wasser ist warm.\nThe water is warm.",
+          "contextSentence": "Das Wasser ist ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:warm:adj:f397e53dbefff940",
+      "sourceGlosses": [
+        "warm; mildly hot"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/warm#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:adj:kalt:0c130901578fffc2",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "kalt",
+      "lemmaGroup": "kalt",
+      "meaning": "cold",
+      "article": "",
+      "pos": "adj",
+      "rank": 39,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "everyday",
+      "example": "Die Milch ist kalt.",
+      "translation": "The milk is cold.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "kalt"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "kalt",
+          "answer": "cold",
+          "options": [
+            "new",
+            "cold",
+            "slow",
+            "small"
+          ],
+          "explanation": "kalt = cold\nDie Milch ist kalt.\nThe milk is cold."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "cold",
+          "answer": "kalt",
+          "options": [
+            "klein",
+            "neu",
+            "kalt",
+            "langsam"
+          ],
+          "explanation": "kalt = cold\nDie Milch ist kalt.\nThe milk is cold."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Die Milch ist ___.\nThe milk is cold.",
+          "answer": "kalt",
+          "options": [
+            "kalt",
+            "langsam",
+            "neu",
+            "klein"
+          ],
+          "explanation": "kalt = cold\nDie Milch ist kalt.\nThe milk is cold.",
+          "contextSentence": "Die Milch ist ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:kalt:adj:0c130901578fffc2",
+      "sourceGlosses": [
+        "cold, chilly; the physical perception of something (objects, weather, body etc.) to have a low temperature"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/kalt#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:adj:neu:7d5741882b9b1ab5",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "neu",
+      "lemmaGroup": "neu",
+      "meaning": "new",
+      "article": "",
+      "pos": "adj",
+      "rank": 40,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "shopping",
+      "example": "Mein Fahrrad ist neu.",
+      "translation": "My bicycle is new.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "neu"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "neu",
+          "answer": "new",
+          "options": [
+            "fast",
+            "old",
+            "new",
+            "warm"
+          ],
+          "explanation": "neu = new\nMein Fahrrad ist neu.\nMy bicycle is new."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "new",
+          "answer": "neu",
+          "options": [
+            "neu",
+            "warm",
+            "schnell",
+            "alt"
+          ],
+          "explanation": "neu = new\nMein Fahrrad ist neu.\nMy bicycle is new."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Mein Fahrrad ist ___.\nMy bicycle is new.",
+          "answer": "neu",
+          "options": [
+            "alt",
+            "warm",
+            "neu",
+            "schnell"
+          ],
+          "explanation": "neu = new\nMein Fahrrad ist neu.\nMy bicycle is new.",
+          "contextSentence": "Mein Fahrrad ist ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:neu:adj:7d5741882b9b1ab5",
+      "sourceGlosses": [
+        "new"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/neu#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:adj:alt:7d4ce5421bfc70fa",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "alt",
+      "lemmaGroup": "alt",
+      "meaning": "old",
+      "article": "",
+      "pos": "adj",
+      "rank": 41,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "everyday",
+      "example": "Das Haus ist alt.",
+      "translation": "The house is old.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "alt"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "alt",
+          "answer": "old",
+          "options": [
+            "big",
+            "inexpensive",
+            "ill",
+            "old"
+          ],
+          "explanation": "alt = old\nDas Haus ist alt.\nThe house is old."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "old",
+          "answer": "alt",
+          "options": [
+            "krank",
+            "groß",
+            "billig",
+            "alt"
+          ],
+          "explanation": "alt = old\nDas Haus ist alt.\nThe house is old."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Das Haus ist ___.\nThe house is old.",
+          "answer": "alt",
+          "options": [
+            "groß",
+            "krank",
+            "billig",
+            "alt"
+          ],
+          "explanation": "alt = old\nDas Haus ist alt.\nThe house is old.",
+          "contextSentence": "Das Haus ist ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:alt:adj:7d4ce5421bfc70fa",
+      "sourceGlosses": [
+        "old"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/alt#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:adj:teuer:b6f53a3dd119e5d6",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "teuer",
+      "lemmaGroup": "teuer",
+      "meaning": "expensive",
+      "article": "",
+      "pos": "adj",
+      "rank": 42,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "shopping",
+      "example": "Das Auto ist teuer.",
+      "translation": "The car is expensive.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "teuer"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "teuer",
+          "answer": "expensive",
+          "options": [
+            "ill",
+            "expensive",
+            "old",
+            "slow"
+          ],
+          "explanation": "teuer = expensive\nDas Auto ist teuer.\nThe car is expensive."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "expensive",
+          "answer": "teuer",
+          "options": [
+            "teuer",
+            "krank",
+            "alt",
+            "langsam"
+          ],
+          "explanation": "teuer = expensive\nDas Auto ist teuer.\nThe car is expensive."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Das Auto ist ___.\nThe car is expensive.",
+          "answer": "teuer",
+          "options": [
+            "teuer",
+            "krank",
+            "alt",
+            "langsam"
+          ],
+          "explanation": "teuer = expensive\nDas Auto ist teuer.\nThe car is expensive.",
+          "contextSentence": "Das Auto ist ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:teuer:adj:b6f53a3dd119e5d6",
+      "sourceGlosses": [
+        "expensive, dear (high in price)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/teuer#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:adj:billig:5ebd09c1cfcf773c",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "billig",
+      "lemmaGroup": "billig",
+      "meaning": "inexpensive",
+      "article": "",
+      "pos": "adj",
+      "rank": 43,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "shopping",
+      "example": "Das Brot ist billig.",
+      "translation": "The bread is inexpensive.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "billig"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "billig",
+          "answer": "inexpensive",
+          "options": [
+            "ill",
+            "big",
+            "inexpensive",
+            "cold"
+          ],
+          "explanation": "billig = inexpensive\nDas Brot ist billig.\nThe bread is inexpensive."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "inexpensive",
+          "answer": "billig",
+          "options": [
+            "billig",
+            "krank",
+            "kalt",
+            "groß"
+          ],
+          "explanation": "billig = inexpensive\nDas Brot ist billig.\nThe bread is inexpensive."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Das Brot ist ___.\nThe bread is inexpensive.",
+          "answer": "billig",
+          "options": [
+            "billig",
+            "groß",
+            "krank",
+            "kalt"
+          ],
+          "explanation": "billig = inexpensive\nDas Brot ist billig.\nThe bread is inexpensive.",
+          "contextSentence": "Das Brot ist ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:billig:adj:5ebd09c1cfcf773c",
+      "sourceGlosses": [
+        "cheap (low-priced)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/billig#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:adj:schnell:99aa6f456fc46356",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "schnell",
+      "lemmaGroup": "schnell",
+      "meaning": "fast",
+      "article": "",
+      "pos": "adj",
+      "rank": 44,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "travel",
+      "example": "Der Zug ist schnell.",
+      "translation": "The train is fast.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "schnell"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "schnell",
+          "answer": "fast",
+          "options": [
+            "slow",
+            "small",
+            "inexpensive",
+            "fast"
+          ],
+          "explanation": "schnell = fast\nDer Zug ist schnell.\nThe train is fast."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "fast",
+          "answer": "schnell",
+          "options": [
+            "schnell",
+            "langsam",
+            "billig",
+            "klein"
+          ],
+          "explanation": "schnell = fast\nDer Zug ist schnell.\nThe train is fast."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Der Zug ist ___.\nThe train is fast.",
+          "answer": "schnell",
+          "options": [
+            "schnell",
+            "billig",
+            "klein",
+            "langsam"
+          ],
+          "explanation": "schnell = fast\nDer Zug ist schnell.\nThe train is fast.",
+          "contextSentence": "Der Zug ist ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:schnell:adj:99aa6f456fc46356",
+      "sourceGlosses": [
+        "quick, fast"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/schnell#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:adj:langsam:1616228875abfaa8",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "langsam",
+      "lemmaGroup": "langsam",
+      "meaning": "slow",
+      "article": "",
+      "pos": "adj",
+      "rank": 45,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "travel",
+      "example": "Der Bus ist langsam.",
+      "translation": "The bus is slow.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "langsam"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "langsam",
+          "answer": "slow",
+          "options": [
+            "slow",
+            "new",
+            "tired",
+            "small"
+          ],
+          "explanation": "langsam = slow\nDer Bus ist langsam.\nThe bus is slow."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "slow",
+          "answer": "langsam",
+          "options": [
+            "langsam",
+            "müde",
+            "klein",
+            "neu"
+          ],
+          "explanation": "langsam = slow\nDer Bus ist langsam.\nThe bus is slow."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Der Bus ist ___.\nThe bus is slow.",
+          "answer": "langsam",
+          "options": [
+            "neu",
+            "müde",
+            "langsam",
+            "klein"
+          ],
+          "explanation": "langsam = slow\nDer Bus ist langsam.\nThe bus is slow.",
+          "contextSentence": "Der Bus ist ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:langsam:adj:1616228875abfaa8",
+      "sourceGlosses": [
+        "slow (taking a long time to move or travel; not happening in a short time)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/langsam#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:adj:müde:18839881953ed018",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "müde",
+      "lemmaGroup": "müde",
+      "meaning": "tired",
+      "article": "",
+      "pos": "adj",
+      "rank": 46,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "health",
+      "example": "Nach der Arbeit bin ich müde.",
+      "translation": "I am tired after work.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "müde"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "müde",
+          "answer": "tired",
+          "options": [
+            "tired",
+            "ill",
+            "expensive",
+            "inexpensive"
+          ],
+          "explanation": "müde = tired\nNach der Arbeit bin ich müde.\nI am tired after work."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "tired",
+          "answer": "müde",
+          "options": [
+            "krank",
+            "teuer",
+            "müde",
+            "billig"
+          ],
+          "explanation": "müde = tired\nNach der Arbeit bin ich müde.\nI am tired after work."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Nach der Arbeit bin ich ___.\nI am tired after work.",
+          "answer": "müde",
+          "options": [
+            "krank",
+            "billig",
+            "müde",
+            "teuer"
+          ],
+          "explanation": "müde = tired\nNach der Arbeit bin ich müde.\nI am tired after work.",
+          "contextSentence": "Nach der Arbeit bin ich ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:müde:adj:18839881953ed018",
+      "sourceGlosses": [
+        "tired"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/m%C3%BCde#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    },
+    {
+      "id": "de-en:fresh-20260921:adj:krank:3c35e058b0dbd93e",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "krank",
+      "lemmaGroup": "krank",
+      "meaning": "ill",
+      "article": "",
+      "pos": "adj",
+      "rank": 47,
+      "level": "A1",
+      "levelBasis": "Editorial beginner difficulty estimate; not Goethe or CEFR certification",
+      "topic": "health",
+      "example": "Heute bin ich krank.",
+      "translation": "I am ill today.",
+      "exampleProvenance": "Original AI-assisted teaching sentences and translations, semantically reviewed by Codex; not quotations from Wiktionary or Tatoeba",
+      "acceptedWrittenForms": [
+        "krank"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "krank",
+          "answer": "ill",
+          "options": [
+            "big",
+            "ill",
+            "inexpensive",
+            "warm"
+          ],
+          "explanation": "krank = ill\nHeute bin ich krank.\nI am ill today."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "ill",
+          "answer": "krank",
+          "options": [
+            "warm",
+            "krank",
+            "groß",
+            "billig"
+          ],
+          "explanation": "krank = ill\nHeute bin ich krank.\nI am ill today."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Heute bin ich ___.\nI am ill today.",
+          "answer": "krank",
+          "options": [
+            "warm",
+            "krank",
+            "groß",
+            "billig"
+          ],
+          "explanation": "krank = ill\nHeute bin ich krank.\nI am ill today.",
+          "contextSentence": "Heute bin ich ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:krank:adj:3c35e058b0dbd93e",
+      "sourceGlosses": [
+        "ill, sick (in bad health)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/krank#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar. Teaching examples are original AI-assisted content."
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T13:03:57Z"
+    }
+  ]
+}

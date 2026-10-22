@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "courseId": "de-en",
+  "bundle": {
+    "path": "v1/courses/de-en/bundles/1.json.gz",
+    "bytes": 10505,
+    "sha256": "fe867d7a7688afd21ac444d128500af9f56198805e61d1095246d7f451eff310",
+    "revision": 1,
+    "entryCount": 48
+  },
+  "packs": [
+    {
+      "id": "de-en-fresh-20260921-a1-01",
+      "revision": 1,
+      "level": "A1",
+      "path": "v1/packs/de-en-fresh-20260921-a1-01/1.json",
+      "entryCount": 48,
+      "bytes": 127828,
+      "sha256": "29adb68d42c0709d338f4a54acbeae76f31c4e9805813e5c1046572f0b8c28ea",
+      "minimumAppVersion": 1,
+      "attribution": "See entry sources and /licenses/ for individual attribution and license terms."
+    }
+  ]
+}

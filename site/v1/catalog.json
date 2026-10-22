@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "generation": "fresh-20260921",
+  "stage": "reviewed-starter",
+  "courses": [
+    {
+      "id": "de-en",
+      "title": "German Vocabulary",
+      "targetLanguage": "de-DE",
+      "supportLanguage": "en",
+      "levels": [
+        "A1"
+      ],
+      "capabilities": [
+        "MEANING",
+        "REVERSE",
+        "CONTEXT",
+        "ARTICLE",
+        "PLURAL",
+        "TYPED"
+      ],
+      "manifestPath": "v1/courses/de-en/manifest.json",
+      "bundlePath": "v1/courses/de-en/bundles/1.json.gz"
+    }
+  ]
+}

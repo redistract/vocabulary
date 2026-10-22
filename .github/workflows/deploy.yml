@@ -1,0 +1,73 @@
+# Deploys site/ to GitHub Pages only after it passes the same checks the app applies.
+# Repository settings: Pages > Source must be "GitHub Actions".
+name: Deploy vocabulary
+
+on:
+  push:
+    branches: [main]
+    paths: ["site/**", "tools/**", ".github/workflows/deploy.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+env:
+  SITE_URL: https://redistract.github.io/vocabulary/
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Verify release files
+        run: python tools/verify_vocabulary_site.py site --immutable-against "$SITE_URL" --report build/local-audit.json
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: validate
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
+
+  verify-live:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Verify deployed site matches this commit
+        run: |
+          expected=$(python -c "import json;print(json.load(open('site/v1/catalog.json'))['generation'])")
+          want=$(sha256sum site/v1/courses/de-en/manifest.json | cut -d' ' -f1)
+          # Pages' CDN caches for up to 10 minutes; wait until the new manifest is served.
+          for attempt in $(seq 1 15); do
+            got=$(curl -fsS "${SITE_URL}v1/courses/de-en/manifest.json?nocache=$attempt-$RANDOM" | sha256sum | cut -d' ' -f1 || true)
+            [ "$got" = "$want" ] && break
+            echo "Attempt $attempt: live manifest not updated yet"; sleep 60
+          done
+          [ "$got" = "$want" ] || { echo "Live manifest never matched this commit"; exit 1; }
+          python tools/verify_vocabulary_site.py "$SITE_URL" --expect-generation "$expected" --report build/live-audit.json
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: live-audit
+          path: build/live-audit.json
+          if-no-files-found: ignore
