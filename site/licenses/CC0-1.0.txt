@@ -1,0 +1,6 @@
+Creative Commons Zero v1.0 Universal (CC0 1.0) Public Domain Dedication
+
+Some Tatoeba sentences are dedicated to the public domain by their authors under CC0 1.0.
+No attribution is legally required for them; Redistract credits the author anyway.
+
+Full legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generation": "fresh-20260921",
-  "stage": "reviewed-starter",
+  "stage": "reviewed-expanding",
   "courses": [
     {
       "id": "de-en",
@@ -20,7 +20,7 @@
         "TYPED"
       ],
       "manifestPath": "v1/courses/de-en/manifest.json",
-      "bundlePath": "v1/courses/de-en/bundles/1.json.gz"
+      "bundlePath": "v1/courses/de-en/bundles/2.json.gz"
     }
   ]
 }
