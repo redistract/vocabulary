@@ -2,18 +2,18 @@
   "schemaVersion": 1,
   "courseId": "de-en",
   "bundle": {
-    "path": "v1/courses/de-en/bundles/3.json.gz",
-    "bytes": 35401,
-    "sha256": "d406c3bfe9827602362c602bae04a0d49869ea5334c5086adc2f573bd5e00f69",
-    "revision": 3,
-    "entryCount": 148
+    "path": "v1/courses/de-en/bundles/4.json.gz",
+    "bytes": 147018,
+    "sha256": "b0b3bb4360dfb21507cdf92a9c6f5798921ce364e1a0dd951363a8391a0861bc",
+    "revision": 4,
+    "entryCount": 577
   },
   "packs": [
     {
       "id": "de-en-fresh-20260921-a1-01",
-      "revision": 3,
+      "revision": 4,
       "level": "A1",
-      "path": "v1/packs/de-en-fresh-20260921-a1-01/3.json",
+      "path": "v1/packs/de-en-fresh-20260921-a1-01/4.json",
       "entryCount": 100,
       "bytes": 286357,
       "sha256": "0a9e339a5c49fbeb24526c366fa02f536735a2b6b8c8664d06cc190ab7d08c60",
@@ -22,12 +22,56 @@
     },
     {
       "id": "de-en-fresh-20260921-a1-02",
-      "revision": 3,
+      "revision": 4,
       "level": "A1",
-      "path": "v1/packs/de-en-fresh-20260921-a1-02/3.json",
-      "entryCount": 48,
-      "bytes": 148523,
-      "sha256": "c0dd7f1859359e1e5cc8b2c9adffe90a25b4cc059228d8f12295df7d0d37788a",
+      "path": "v1/packs/de-en-fresh-20260921-a1-02/4.json",
+      "entryCount": 100,
+      "bytes": 309013,
+      "sha256": "3be301ce998950a30b13a92b584e45a40568416636859389270b491b764e64c1",
+      "minimumAppVersion": 1,
+      "attribution": "See entry sources and /licenses/ for individual attribution and license terms."
+    },
+    {
+      "id": "de-en-fresh-20260921-a1-03",
+      "revision": 4,
+      "level": "A1",
+      "path": "v1/packs/de-en-fresh-20260921-a1-03/4.json",
+      "entryCount": 100,
+      "bytes": 311958,
+      "sha256": "e7e1f20a91cc59bc941a59c4f76f5efe5b93393394c2432839827a910c05beca",
+      "minimumAppVersion": 1,
+      "attribution": "See entry sources and /licenses/ for individual attribution and license terms."
+    },
+    {
+      "id": "de-en-fresh-20260921-a1-04",
+      "revision": 4,
+      "level": "A1",
+      "path": "v1/packs/de-en-fresh-20260921-a1-04/4.json",
+      "entryCount": 100,
+      "bytes": 314915,
+      "sha256": "667807a6a1375d7538ee1f71909d90788182cc7950bf7bf18bebcd3c9eedb561",
+      "minimumAppVersion": 1,
+      "attribution": "See entry sources and /licenses/ for individual attribution and license terms."
+    },
+    {
+      "id": "de-en-fresh-20260921-a1-05",
+      "revision": 4,
+      "level": "A1",
+      "path": "v1/packs/de-en-fresh-20260921-a1-05/4.json",
+      "entryCount": 100,
+      "bytes": 323804,
+      "sha256": "ede19ada6e28c5c3cf0a8c65d0214ccef00f88a1aec720bd8b2b53c34ca0ccb4",
+      "minimumAppVersion": 1,
+      "attribution": "See entry sources and /licenses/ for individual attribution and license terms."
+    },
+    {
+      "id": "de-en-fresh-20260921-a1-06",
+      "revision": 4,
+      "level": "A1",
+      "path": "v1/packs/de-en-fresh-20260921-a1-06/4.json",
+      "entryCount": 77,
+      "bytes": 257564,
+      "sha256": "84c748fd0484fbfc2e63eec0f275e5a129943a0baa589f1a7b300bc66f34a014",
       "minimumAppVersion": 1,
       "attribution": "See entry sources and /licenses/ for individual attribution and license terms."
     }
