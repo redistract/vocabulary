@@ -2,21 +2,32 @@
   "schemaVersion": 1,
   "courseId": "de-en",
   "bundle": {
-    "path": "v1/courses/de-en/bundles/2.json.gz",
-    "bytes": 22910,
-    "sha256": "533a241a74a38b60eb8b8ea0ac44d35e19f11899f6705b0b9c86a533f0753466",
-    "revision": 2,
-    "entryCount": 98
+    "path": "v1/courses/de-en/bundles/3.json.gz",
+    "bytes": 35401,
+    "sha256": "d406c3bfe9827602362c602bae04a0d49869ea5334c5086adc2f573bd5e00f69",
+    "revision": 3,
+    "entryCount": 148
   },
   "packs": [
     {
       "id": "de-en-fresh-20260921-a1-01",
-      "revision": 2,
+      "revision": 3,
       "level": "A1",
-      "path": "v1/packs/de-en-fresh-20260921-a1-01/2.json",
-      "entryCount": 98,
-      "bytes": 280419,
-      "sha256": "306c3ea93acfaae8302585feea236be4b213b0bf8e42e42a347f5934e0d32c97",
+      "path": "v1/packs/de-en-fresh-20260921-a1-01/3.json",
+      "entryCount": 100,
+      "bytes": 286357,
+      "sha256": "0a9e339a5c49fbeb24526c366fa02f536735a2b6b8c8664d06cc190ab7d08c60",
+      "minimumAppVersion": 1,
+      "attribution": "See entry sources and /licenses/ for individual attribution and license terms."
+    },
+    {
+      "id": "de-en-fresh-20260921-a1-02",
+      "revision": 3,
+      "level": "A1",
+      "path": "v1/packs/de-en-fresh-20260921-a1-02/3.json",
+      "entryCount": 48,
+      "bytes": 148523,
+      "sha256": "c0dd7f1859359e1e5cc8b2c9adffe90a25b4cc059228d8f12295df7d0d37788a",
       "minimumAppVersion": 1,
       "attribution": "See entry sources and /licenses/ for individual attribution and license terms."
     }

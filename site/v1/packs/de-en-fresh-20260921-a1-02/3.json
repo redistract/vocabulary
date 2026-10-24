@@ -1,0 +1,4412 @@
+{
+  "schemaVersion": 1,
+  "courseId": "de-en",
+  "generation": "fresh-20260921",
+  "entries": [
+    {
+      "id": "de-en:fresh-20260921:verb:finden:70cdc9a9a3e6309a",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "finden",
+      "lemmaGroup": "finden",
+      "meaning": "to find",
+      "article": "",
+      "pos": "verb",
+      "rank": 100,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Er fand den Hund.",
+      "translation": "He found the dog.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "finden"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "finden",
+          "answer": "to find",
+          "options": [
+            "to play",
+            "to stop",
+            "must, to have to",
+            "to find"
+          ],
+          "explanation": "finden = to find\nEr fand den Hund.\nHe found the dog."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to find",
+          "answer": "finden",
+          "options": [
+            "spielen",
+            "finden",
+            "müssen",
+            "halten"
+          ],
+          "explanation": "finden = to find\nEr fand den Hund.\nHe found the dog."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Er ___ den Hund.\nHe found the dog.",
+          "answer": "fand",
+          "options": [
+            "hielt",
+            "spielte",
+            "fand",
+            "musste"
+          ],
+          "explanation": "finden = to find\nEr fand den Hund.\nHe found the dog.",
+          "contextSentence": "Er ___ den Hund."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:finden:verb:70cdc9a9a3e6309a",
+      "sourceGlosses": [
+        "to find; to discover"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/finden#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/11064856",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #11064856 by toivo (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/8992491",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #8992491 by EricYarnell (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:bleiben:bce526624cae9fd6",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "bleiben",
+      "lemmaGroup": "bleiben",
+      "meaning": "to stay",
+      "article": "",
+      "pos": "verb",
+      "rank": 101,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Er bleibt nie lange.",
+      "translation": "He never stays long.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "bleiben"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "bleiben",
+          "answer": "to stay",
+          "options": [
+            "to take",
+            "to have",
+            "to lie (lying down)",
+            "to stay"
+          ],
+          "explanation": "bleiben = to stay\nEr bleibt nie lange.\nHe never stays long."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to stay",
+          "answer": "bleiben",
+          "options": [
+            "liegen",
+            "nehmen",
+            "bleiben",
+            "haben"
+          ],
+          "explanation": "bleiben = to stay\nEr bleibt nie lange.\nHe never stays long."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Er ___ nie lange.\nHe never stays long.",
+          "answer": "bleibt",
+          "options": [
+            "bleibt",
+            "hat",
+            "nimmt",
+            "liegt"
+          ],
+          "explanation": "bleiben = to stay\nEr bleibt nie lange.\nHe never stays long.",
+          "contextSentence": "Er ___ nie lange."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:bleiben:verb:bce526624cae9fd6",
+      "sourceGlosses": [
+        "to stay; to remain in a place"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/bleiben#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/7712639",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #7712639 by wolfgangth (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/1295022",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #1295022 by CM (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:liegen:dab727d2cc0122f8",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "liegen",
+      "lemmaGroup": "liegen",
+      "meaning": "to lie (lying down)",
+      "article": "",
+      "pos": "verb",
+      "rank": 102,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "home",
+      "example": "Er lag auf dem Bett.",
+      "translation": "He lay on the bed.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "liegen"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "liegen",
+          "answer": "to lie (lying down)",
+          "options": [
+            "to stop",
+            "to lie (lying down)",
+            "to put; to pose (a question)",
+            "should"
+          ],
+          "explanation": "liegen = to lie (lying down)\nEr lag auf dem Bett.\nHe lay on the bed."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to lie (lying down)",
+          "answer": "liegen",
+          "options": [
+            "sollen",
+            "stellen",
+            "liegen",
+            "halten"
+          ],
+          "explanation": "liegen = to lie (lying down)\nEr lag auf dem Bett.\nHe lay on the bed."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Er ___ auf dem Bett.\nHe lay on the bed.",
+          "answer": "lag",
+          "options": [
+            "hielt",
+            "stellte",
+            "lag",
+            "sollte"
+          ],
+          "explanation": "liegen = to lie (lying down)\nEr lag auf dem Bett.\nHe lay on the bed.",
+          "contextSentence": "Er ___ auf dem Bett."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:liegen:verb:dab727d2cc0122f8",
+      "sourceGlosses": [
+        "to lie (to be in a horizontal position)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/liegen#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/1885330",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #1885330 by Tamy (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/33978",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #33978 by CS (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:dürfen:8180c8fa70febc08",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "dürfen",
+      "lemmaGroup": "dürfen",
+      "meaning": "may, to be allowed to",
+      "article": "",
+      "pos": "verb",
+      "rank": 103,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Sie dürfen das essen.",
+      "translation": "You may eat this.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "dürfen"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "dürfen",
+          "answer": "may, to be allowed to",
+          "options": [
+            "to find",
+            "may, to be allowed to",
+            "to wait",
+            "to explain"
+          ],
+          "explanation": "dürfen = may, to be allowed to\nSie dürfen das essen.\nYou may eat this."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "may, to be allowed to",
+          "answer": "dürfen",
+          "options": [
+            "finden",
+            "warten",
+            "dürfen",
+            "erklären"
+          ],
+          "explanation": "dürfen = may, to be allowed to\nSie dürfen das essen.\nYou may eat this."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Sie ___ das essen.\nYou may eat this.",
+          "answer": "dürfen",
+          "options": [
+            "erklären",
+            "bleiben",
+            "warten",
+            "dürfen"
+          ],
+          "explanation": "dürfen = may, to be allowed to\nSie dürfen das essen.\nYou may eat this.",
+          "contextSentence": "Sie ___ das essen."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:dürfen:verb:8180c8fa70febc08",
+      "sourceGlosses": [
+        "to be allowed (to do something); to be permitted (to do something); may"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/d%C3%BCrfen#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/11419168",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #11419168 by mayabe (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/7538301",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #7538301 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:fahren:f2dcb9d3ad9d86ba",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "fahren",
+      "lemmaGroup": "fahren",
+      "meaning": "to go (by vehicle), to drive",
+      "article": "",
+      "pos": "verb",
+      "rank": 104,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "travel",
+      "example": "Wohin fährt der Zug?",
+      "translation": "Where does this train go?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "fahren"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "fahren",
+          "answer": "to go (by vehicle), to drive",
+          "options": [
+            "to stay",
+            "to explain",
+            "to take",
+            "to go (by vehicle), to drive"
+          ],
+          "explanation": "fahren = to go (by vehicle), to drive\nWohin fährt der Zug?\nWhere does this train go?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to go (by vehicle), to drive",
+          "answer": "fahren",
+          "options": [
+            "bleiben",
+            "erklären",
+            "nehmen",
+            "fahren"
+          ],
+          "explanation": "fahren = to go (by vehicle), to drive\nWohin fährt der Zug?\nWhere does this train go?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wohin ___ der Zug?\nWhere does this train go?",
+          "answer": "fährt",
+          "options": [
+            "nimmt",
+            "bleibt",
+            "erklärt",
+            "fährt"
+          ],
+          "explanation": "fahren = to go (by vehicle), to drive\nWohin fährt der Zug?\nWhere does this train go?",
+          "contextSentence": "Wohin ___ der Zug?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:fahren:verb:f2dcb9d3ad9d86ba",
+      "sourceGlosses": [
+        "to go by vehicle; to sail; to travel"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/fahren#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/659649",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #659649 by Manfredo (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/1445829",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #1445829 by human600 (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:spielen:515a3a542983936d",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "spielen",
+      "lemmaGroup": "spielen",
+      "meaning": "to play",
+      "article": "",
+      "pos": "verb",
+      "rank": 105,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "leisure",
+      "example": "Ich will auch spielen.",
+      "translation": "I want to play, too.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "spielen"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "spielen",
+          "answer": "to play",
+          "options": [
+            "to want",
+            "to go (by vehicle), to drive",
+            "to play",
+            "to stay"
+          ],
+          "explanation": "spielen = to play\nIch will auch spielen.\nI want to play, too."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to play",
+          "answer": "spielen",
+          "options": [
+            "fahren",
+            "spielen",
+            "wollen",
+            "bleiben"
+          ],
+          "explanation": "spielen = to play\nIch will auch spielen.\nI want to play, too."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich will auch ___.\nI want to play, too.",
+          "answer": "spielen",
+          "options": [
+            "bleiben",
+            "wollen",
+            "spielen",
+            "fahren"
+          ],
+          "explanation": "spielen = to play\nIch will auch spielen.\nI want to play, too.",
+          "contextSentence": "Ich will auch ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:spielen:verb:515a3a542983936d",
+      "sourceGlosses": [
+        "to play (engage in some activity for fun or entertainment)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/spielen#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2822641",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2822641 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2011493",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2011493 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:stellen:1757cd9b8cafa80e",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "stellen",
+      "lemmaGroup": "stellen",
+      "meaning": "to put; to pose (a question)",
+      "article": "",
+      "pos": "verb",
+      "rank": 106,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "education",
+      "example": "Sie stellte eine Frage.",
+      "translation": "She asked a question.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "stellen"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "stellen",
+          "answer": "to put; to pose (a question)",
+          "options": [
+            "to put; to pose (a question)",
+            "to be",
+            "to want",
+            "to explain"
+          ],
+          "explanation": "stellen = to put; to pose (a question)\nSie stellte eine Frage.\nShe asked a question."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to put; to pose (a question)",
+          "answer": "stellen",
+          "options": [
+            "stellen",
+            "sein",
+            "wollen",
+            "erklären"
+          ],
+          "explanation": "stellen = to put; to pose (a question)\nSie stellte eine Frage.\nShe asked a question."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Sie ___ eine Frage.\nShe asked a question.",
+          "answer": "stellte",
+          "options": [
+            "stellte",
+            "fand",
+            "wollte",
+            "erklärte"
+          ],
+          "explanation": "stellen = to put; to pose (a question)\nSie stellte eine Frage.\nShe asked a question.",
+          "contextSentence": "Sie ___ eine Frage."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:stellen:verb:1757cd9b8cafa80e",
+      "sourceGlosses": [
+        "causative of stehen: to put, place, position (someone or something) such that it stands upright",
+        "to pose, to lodge"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/stellen#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/8842640",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #8842640 by wolfgangth (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2875148",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2875148 by Amastan (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:nehmen:e45bf04536b98df7",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "nehmen",
+      "lemmaGroup": "nehmen",
+      "meaning": "to take",
+      "article": "",
+      "pos": "verb",
+      "rank": 107,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "travel",
+      "example": "Ich nehme den Bus.",
+      "translation": "I'll take the bus.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "nehmen"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "nehmen",
+          "answer": "to take",
+          "options": [
+            "to eat",
+            "may, to be allowed to",
+            "to play",
+            "to take"
+          ],
+          "explanation": "nehmen = to take\nIch nehme den Bus.\nI'll take the bus."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to take",
+          "answer": "nehmen",
+          "options": [
+            "dürfen",
+            "essen",
+            "nehmen",
+            "spielen"
+          ],
+          "explanation": "nehmen = to take\nIch nehme den Bus.\nI'll take the bus."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich ___ den Bus.\nI'll take the bus.",
+          "answer": "nehme",
+          "options": [
+            "esse",
+            "spiele",
+            "darf",
+            "nehme"
+          ],
+          "explanation": "nehmen = to take\nIch nehme den Bus.\nI'll take the bus.",
+          "contextSentence": "Ich ___ den Bus."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:nehmen:verb:e45bf04536b98df7",
+      "sourceGlosses": [
+        "to take (something into one's possession or on one's body)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/nehmen#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2966570",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2966570 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2549092",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2549092 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:adj:wichtig:c18d50cde3ff4de9",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "wichtig",
+      "lemmaGroup": "wichtig",
+      "meaning": "important",
+      "article": "",
+      "pos": "adj",
+      "rank": 108,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Das ist sehr wichtig.",
+      "translation": "That's very important.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "wichtig"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "wichtig",
+          "answer": "important",
+          "options": [
+            "important",
+            "expensive",
+            "clear (understood)",
+            "known, familiar"
+          ],
+          "explanation": "wichtig = important\nDas ist sehr wichtig.\nThat's very important."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "important",
+          "answer": "wichtig",
+          "options": [
+            "klar",
+            "teuer",
+            "bekannt",
+            "wichtig"
+          ],
+          "explanation": "wichtig = important\nDas ist sehr wichtig.\nThat's very important."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Das ist sehr ___.\nThat's very important.",
+          "answer": "wichtig",
+          "options": [
+            "klar",
+            "teuer",
+            "bekannt",
+            "wichtig"
+          ],
+          "explanation": "wichtig = important\nDas ist sehr wichtig.\nThat's very important.",
+          "contextSentence": "Das ist sehr ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:wichtig:adj:c18d50cde3ff4de9",
+      "sourceGlosses": [
+        "important, relevant, significant, weighty"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/wichtig#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/1777582",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #1777582 by Vortarulo (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2251314",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2251314 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:erklären:7f3dbfef79961b94",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "erklären",
+      "lemmaGroup": "erklären",
+      "meaning": "to explain",
+      "article": "",
+      "pos": "verb",
+      "rank": 109,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "education",
+      "example": "Kannst du das erklären?",
+      "translation": "Can you explain that?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "erklären"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "erklären",
+          "answer": "to explain",
+          "options": [
+            "to explain",
+            "to ask",
+            "to lie (lying down)",
+            "will (future tense)"
+          ],
+          "explanation": "erklären = to explain\nKannst du das erklären?\nCan you explain that?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to explain",
+          "answer": "erklären",
+          "options": [
+            "erklären",
+            "liegen",
+            "werden",
+            "fragen"
+          ],
+          "explanation": "erklären = to explain\nKannst du das erklären?\nCan you explain that?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Kannst du das ___?\nCan you explain that?",
+          "answer": "erklären",
+          "options": [
+            "erklären",
+            "fragen",
+            "liegen",
+            "werden"
+          ],
+          "explanation": "erklären = to explain\nKannst du das erklären?\nCan you explain that?",
+          "contextSentence": "Kannst du das ___?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:erklären:verb:7f3dbfef79961b94",
+      "sourceGlosses": [
+        "to explain, to make clear"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/erkl%C3%A4ren#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/3467961",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #3467961 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/3327426",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #3327426 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:halten:1dff1ce62138da23",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "halten",
+      "lemmaGroup": "halten",
+      "meaning": "to stop",
+      "article": "",
+      "pos": "verb",
+      "rank": 110,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "travel",
+      "example": "Der Bus hält hier.",
+      "translation": "The bus stops here.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "halten"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "halten",
+          "answer": "to stop",
+          "options": [
+            "should",
+            "to stop",
+            "to go (by vehicle), to drive",
+            "to buy"
+          ],
+          "explanation": "halten = to stop\nDer Bus hält hier.\nThe bus stops here."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to stop",
+          "answer": "halten",
+          "options": [
+            "halten",
+            "fahren",
+            "sollen",
+            "kaufen"
+          ],
+          "explanation": "halten = to stop\nDer Bus hält hier.\nThe bus stops here."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Der Bus ___ hier.\nThe bus stops here.",
+          "answer": "hält",
+          "options": [
+            "kauft",
+            "fährt",
+            "soll",
+            "hält"
+          ],
+          "explanation": "halten = to stop\nDer Bus hält hier.\nThe bus stops here.",
+          "contextSentence": "Der Bus ___ hier."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:halten:verb:1dff1ce62138da23",
+      "sourceGlosses": [
+        "to stop, to halt, to hold back"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/halten#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/10270299",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #10270299 by Yorwba (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/8979055",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #8979055 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:adv:lange:1562ee70029db8de",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "lange",
+      "lemmaGroup": "lange",
+      "meaning": "for a long time",
+      "article": "",
+      "pos": "adv",
+      "rank": 111,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Es dauert zu lange.",
+      "translation": "It's taking too long.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "lange"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "lange",
+          "answer": "for a long time",
+          "options": [
+            "for a long time",
+            "already",
+            "today",
+            "here"
+          ],
+          "explanation": "lange = for a long time\nEs dauert zu lange.\nIt's taking too long."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "for a long time",
+          "answer": "lange",
+          "options": [
+            "lange",
+            "heute",
+            "schon",
+            "hier"
+          ],
+          "explanation": "lange = for a long time\nEs dauert zu lange.\nIt's taking too long."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Es dauert zu ___.\nIt's taking too long.",
+          "answer": "lange",
+          "options": [
+            "heute",
+            "hier",
+            "schon",
+            "lange"
+          ],
+          "explanation": "lange = for a long time\nEs dauert zu lange.\nIt's taking too long.",
+          "contextSentence": "Es dauert zu ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:lange:adv:1562ee70029db8de",
+      "sourceGlosses": [
+        "long, for a long time"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/lange#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/6645080",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #6645080 by Felixjp (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/3635977",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #3635977 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:adj:jung:f55117338d8ca8dd",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "jung",
+      "lemmaGroup": "jung",
+      "meaning": "young",
+      "article": "",
+      "pos": "adj",
+      "rank": 112,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "people",
+      "example": "Er ist noch jung.",
+      "translation": "He is still young.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "jung"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "jung",
+          "answer": "young",
+          "options": [
+            "known, familiar",
+            "warm",
+            "young",
+            "inexpensive"
+          ],
+          "explanation": "jung = young\nEr ist noch jung.\nHe is still young."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "young",
+          "answer": "jung",
+          "options": [
+            "jung",
+            "billig",
+            "warm",
+            "bekannt"
+          ],
+          "explanation": "jung = young\nEr ist noch jung.\nHe is still young."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Er ist noch ___.\nHe is still young.",
+          "answer": "jung",
+          "options": [
+            "jung",
+            "warm",
+            "billig",
+            "bekannt"
+          ],
+          "explanation": "jung = young\nEr ist noch jung.\nHe is still young.",
+          "contextSentence": "Er ist noch ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:jung:adj:f55117338d8ca8dd",
+      "sourceGlosses": [
+        "young"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/jung#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/1314842",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #1314842 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/292861",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #292861 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:adj:möglich:e598989aa11aaf00",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "möglich",
+      "lemmaGroup": "möglich",
+      "meaning": "possible",
+      "article": "",
+      "pos": "adj",
+      "rank": 113,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Wie ist das möglich?",
+      "translation": "How is it possible?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "möglich"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "möglich",
+          "answer": "possible",
+          "options": [
+            "high",
+            "short",
+            "possible",
+            "young"
+          ],
+          "explanation": "möglich = possible\nWie ist das möglich?\nHow is it possible?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "possible",
+          "answer": "möglich",
+          "options": [
+            "kurz",
+            "möglich",
+            "jung",
+            "hoch"
+          ],
+          "explanation": "möglich = possible\nWie ist das möglich?\nHow is it possible?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wie ist das ___?\nHow is it possible?",
+          "answer": "möglich",
+          "options": [
+            "hoch",
+            "möglich",
+            "kurz",
+            "jung"
+          ],
+          "explanation": "möglich = possible\nWie ist das möglich?\nHow is it possible?",
+          "contextSentence": "Wie ist das ___?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:möglich:adj:e598989aa11aaf00",
+      "sourceGlosses": [
+        "possible (what can be done or achieved)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/m%C3%B6glich#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/1791538",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #1791538 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2505876",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2505876 by Hybrid (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:adj:schwer:04da686e6f48320f",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "schwer",
+      "lemmaGroup": "schwer",
+      "meaning": "difficult, hard",
+      "article": "",
+      "pos": "adj",
+      "rank": 114,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Es war nicht schwer.",
+      "translation": "It wasn't hard.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "schwer"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "schwer",
+          "answer": "difficult, hard",
+          "options": [
+            "late",
+            "ill",
+            "known, familiar",
+            "difficult, hard"
+          ],
+          "explanation": "schwer = difficult, hard\nEs war nicht schwer.\nIt wasn't hard."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "difficult, hard",
+          "answer": "schwer",
+          "options": [
+            "schwer",
+            "bekannt",
+            "spät",
+            "krank"
+          ],
+          "explanation": "schwer = difficult, hard\nEs war nicht schwer.\nIt wasn't hard."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Es war nicht ___.\nIt wasn't hard.",
+          "answer": "schwer",
+          "options": [
+            "spät",
+            "krank",
+            "schwer",
+            "jung"
+          ],
+          "explanation": "schwer = difficult, hard\nEs war nicht schwer.\nIt wasn't hard.",
+          "contextSentence": "Es war nicht ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:schwer:adj:04da686e6f48320f",
+      "sourceGlosses": [
+        "difficult, hard"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/schwer#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/3491748",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #3491748 by Manfredo (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2248914",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2248914 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:adj:bekannt:4e615a57c308f775",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "bekannt",
+      "lemmaGroup": "bekannt",
+      "meaning": "known, familiar",
+      "article": "",
+      "pos": "adj",
+      "rank": 115,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "people",
+      "example": "Er ist bei allen bekannt.",
+      "translation": "He is known to everybody.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "bekannt"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "bekannt",
+          "answer": "known, familiar",
+          "options": [
+            "expensive",
+            "fast",
+            "known, familiar",
+            "difficult, hard"
+          ],
+          "explanation": "bekannt = known, familiar\nEr ist bei allen bekannt.\nHe is known to everybody."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "known, familiar",
+          "answer": "bekannt",
+          "options": [
+            "teuer",
+            "schwer",
+            "bekannt",
+            "schnell"
+          ],
+          "explanation": "bekannt = known, familiar\nEr ist bei allen bekannt.\nHe is known to everybody."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Er ist bei allen ___.\nHe is known to everybody.",
+          "answer": "bekannt",
+          "options": [
+            "bekannt",
+            "schwer",
+            "schnell",
+            "teuer"
+          ],
+          "explanation": "bekannt = known, familiar\nEr ist bei allen bekannt.\nHe is known to everybody.",
+          "contextSentence": "Er ist bei allen ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:bekannt:adj:4e615a57c308f775",
+      "sourceGlosses": [
+        "known, familiar"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/bekannt#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/1639411",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #1639411 by Sudajaengi (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/294698",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #294698 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:adv:heute:b8368529bdc7409c",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "heute",
+      "lemmaGroup": "heute",
+      "meaning": "today",
+      "article": "",
+      "pos": "adv",
+      "rank": 116,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "food",
+      "example": "Was isst du heute?",
+      "translation": "What'll you eat today?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "heute"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "heute",
+          "answer": "today",
+          "options": [
+            "today",
+            "once",
+            "for a long time",
+            "always"
+          ],
+          "explanation": "heute = today\nWas isst du heute?\nWhat'll you eat today?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "today",
+          "answer": "heute",
+          "options": [
+            "lange",
+            "heute",
+            "immer",
+            "einmal"
+          ],
+          "explanation": "heute = today\nWas isst du heute?\nWhat'll you eat today?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Was isst du ___?\nWhat'll you eat today?",
+          "answer": "heute",
+          "options": [
+            "einmal",
+            "lange",
+            "heute",
+            "immer"
+          ],
+          "explanation": "heute = today\nWas isst du heute?\nWhat'll you eat today?",
+          "contextSentence": "Was isst du ___?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:heute:adv:b8368529bdc7409c",
+      "sourceGlosses": [
+        "today"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/heute#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/10355870",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #10355870 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/5251732",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #5251732 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:adv:einmal:6387293857a40c4e",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "einmal",
+      "lemmaGroup": "einmal",
+      "meaning": "once",
+      "article": "",
+      "pos": "adv",
+      "rank": 117,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Ich war einmal jung.",
+      "translation": "I was young once.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "einmal"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "einmal",
+          "answer": "once",
+          "options": [
+            "back",
+            "then",
+            "once",
+            "today"
+          ],
+          "explanation": "einmal = once\nIch war einmal jung.\nI was young once."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "once",
+          "answer": "einmal",
+          "options": [
+            "einmal",
+            "heute",
+            "zurück",
+            "dann"
+          ],
+          "explanation": "einmal = once\nIch war einmal jung.\nI was young once."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich war ___ jung.\nI was young once.",
+          "answer": "einmal",
+          "options": [
+            "heute",
+            "dann",
+            "zurück",
+            "einmal"
+          ],
+          "explanation": "einmal = once\nIch war einmal jung.\nI was young once.",
+          "contextSentence": "Ich war ___ jung."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:einmal:adv:6387293857a40c4e",
+      "sourceGlosses": [
+        "once (formerly; during some period in the past)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/einmal#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/10113924",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #10113924 by giefingl (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2549366",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2549366 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:adj:spät:8b103e7c612e1838",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "spät",
+      "lemmaGroup": "spät",
+      "meaning": "late",
+      "article": "",
+      "pos": "adj",
+      "rank": 118,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Es ist zu spät.",
+      "translation": "It's too late.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "spät"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "spät",
+          "answer": "late",
+          "options": [
+            "late",
+            "little, few",
+            "difficult, hard",
+            "expensive"
+          ],
+          "explanation": "spät = late\nEs ist zu spät.\nIt's too late."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "late",
+          "answer": "spät",
+          "options": [
+            "wenig",
+            "teuer",
+            "spät",
+            "schwer"
+          ],
+          "explanation": "spät = late\nEs ist zu spät.\nIt's too late."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Es ist zu ___.\nIt's too late.",
+          "answer": "spät",
+          "options": [
+            "krank",
+            "langsam",
+            "spät",
+            "schwer"
+          ],
+          "explanation": "spät = late\nEs ist zu spät.\nIt's too late.",
+          "contextSentence": "Es ist zu ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:spät:adj:8b103e7c612e1838",
+      "sourceGlosses": [
+        "late"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/sp%C3%A4t#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/851592",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #851592 by Esperantostern (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/1894557",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #1894557 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:adj:einfach:bf4b3c7063d35e9f",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "einfach",
+      "lemmaGroup": "einfach",
+      "meaning": "easy",
+      "article": "",
+      "pos": "adj",
+      "rank": 119,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Das ist so einfach.",
+      "translation": "This is so easy.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "einfach"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "einfach",
+          "answer": "easy",
+          "options": [
+            "easy",
+            "young",
+            "inexpensive",
+            "good"
+          ],
+          "explanation": "einfach = easy\nDas ist so einfach.\nThis is so easy."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "easy",
+          "answer": "einfach",
+          "options": [
+            "gut",
+            "einfach",
+            "billig",
+            "jung"
+          ],
+          "explanation": "einfach = easy\nDas ist so einfach.\nThis is so easy."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Das ist so ___.\nThis is so easy.",
+          "answer": "einfach",
+          "options": [
+            "einfach",
+            "billig",
+            "jung",
+            "kurz"
+          ],
+          "explanation": "einfach = easy\nDas ist so einfach.\nThis is so easy.",
+          "contextSentence": "Das ist so ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:einfach:adj:bf4b3c7063d35e9f",
+      "sourceGlosses": [
+        "easy"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/einfach#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/6619762",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #6619762 by ruth_tatoeba (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2892244",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2892244 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:adj:kurz:cef47ee4e546a9bf",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "kurz",
+      "lemmaGroup": "kurz",
+      "meaning": "short",
+      "article": "",
+      "pos": "adj",
+      "rank": 120,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Das ist zu kurz.",
+      "translation": "It's too short.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "kurz"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "kurz",
+          "answer": "short",
+          "options": [
+            "high",
+            "young",
+            "short",
+            "easy"
+          ],
+          "explanation": "kurz = short\nDas ist zu kurz.\nIt's too short."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "short",
+          "answer": "kurz",
+          "options": [
+            "einfach",
+            "jung",
+            "kurz",
+            "hoch"
+          ],
+          "explanation": "kurz = short\nDas ist zu kurz.\nIt's too short."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Das ist zu ___.\nIt's too short.",
+          "answer": "kurz",
+          "options": [
+            "jung",
+            "billig",
+            "klar",
+            "kurz"
+          ],
+          "explanation": "kurz = short\nDas ist zu kurz.\nIt's too short.",
+          "contextSentence": "Das ist zu ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:kurz:adj:cef47ee4e546a9bf",
+      "sourceGlosses": [
+        "short, quick, brief"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/kurz#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2929967",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2929967 by Manfredo (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2249335",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2249335 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:adj:klar:f4f713a4939e4957",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "klar",
+      "lemmaGroup": "klar",
+      "meaning": "clear (understood)",
+      "article": "",
+      "pos": "adj",
+      "rank": 121,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Das ist noch nicht klar.",
+      "translation": "That isn't clear yet.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "klar"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "klar",
+          "answer": "clear (understood)",
+          "options": [
+            "clear (understood)",
+            "tired",
+            "possible",
+            "inexpensive"
+          ],
+          "explanation": "klar = clear (understood)\nDas ist noch nicht klar.\nThat isn't clear yet."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "clear (understood)",
+          "answer": "klar",
+          "options": [
+            "klar",
+            "möglich",
+            "billig",
+            "müde"
+          ],
+          "explanation": "klar = clear (understood)\nDas ist noch nicht klar.\nThat isn't clear yet."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Das ist noch nicht ___.\nThat isn't clear yet.",
+          "answer": "klar",
+          "options": [
+            "klar",
+            "möglich",
+            "müde",
+            "billig"
+          ],
+          "explanation": "klar = clear (understood)\nDas ist noch nicht klar.\nThat isn't clear yet.",
+          "contextSentence": "Das ist noch nicht ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:klar:adj:f4f713a4939e4957",
+      "sourceGlosses": [
+        "clear; unambiguous; understood"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/klar#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/8651953",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #8651953 by Melang (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/8516840",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #8516840 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:adv:zurück:65305aa1d7f6f4b9",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "zurück",
+      "lemmaGroup": "zurück",
+      "meaning": "back",
+      "article": "",
+      "pos": "adv",
+      "rank": 122,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Er kam bald zurück.",
+      "translation": "He came back soon.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "zurück"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "zurück",
+          "answer": "back",
+          "options": [
+            "today",
+            "back",
+            "then",
+            "once"
+          ],
+          "explanation": "zurück = back\nEr kam bald zurück.\nHe came back soon."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "back",
+          "answer": "zurück",
+          "options": [
+            "zurück",
+            "einmal",
+            "heute",
+            "dann"
+          ],
+          "explanation": "zurück = back\nEr kam bald zurück.\nHe came back soon."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Er kam bald ___.\nHe came back soon.",
+          "answer": "zurück",
+          "options": [
+            "dann",
+            "zurück",
+            "einmal",
+            "heute"
+          ],
+          "explanation": "zurück = back\nEr kam bald zurück.\nHe came back soon.",
+          "contextSentence": "Er kam bald ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:zurück:adv:65305aa1d7f6f4b9",
+      "sourceGlosses": [
+        "back, backward, backwards, to the rear."
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/zur%C3%BCck#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/1314831",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #1314831 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/290213",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #290213 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Geld:19e2745564895c4b",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Geld",
+      "lemmaGroup": "Geld",
+      "meaning": "money",
+      "article": "das",
+      "pos": "noun",
+      "rank": 123,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "shopping",
+      "example": "Wo ist mein Geld?",
+      "translation": "Where is my money?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Geld"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Geld",
+          "answer": "money",
+          "options": [
+            "money",
+            "Thursday",
+            "chair",
+            "milk"
+          ],
+          "explanation": "das Geld = money\nWo ist mein Geld?\nWhere is my money?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "money",
+          "answer": "Geld",
+          "options": [
+            "Stuhl",
+            "Donnerstag",
+            "Milch",
+            "Geld"
+          ],
+          "explanation": "das Geld = money\nWo ist mein Geld?\nWhere is my money?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wo ist mein ___?\nWhere is my money?",
+          "answer": "Geld",
+          "options": [
+            "Bild",
+            "Geld",
+            "Jahr",
+            "Wochenende"
+          ],
+          "explanation": "das Geld = money\nWo ist mein Geld?\nWhere is my money?",
+          "contextSentence": "Wo ist mein ___?"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Geld",
+          "answer": "das",
+          "options": [
+            "der",
+            "die",
+            "das"
+          ],
+          "explanation": "das Geld = money\nWo ist mein Geld?\nWhere is my money?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Geld:noun:19e2745564895c4b",
+      "sourceGlosses": [
+        "money"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Geld#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/1823147",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #1823147 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2548910",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2548910 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Montag:2b2da7c7b06e8bbb",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Montag",
+      "lemmaGroup": "Montag",
+      "meaning": "Monday",
+      "article": "der",
+      "pos": "noun",
+      "rank": 124,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Ich habe Montag frei.",
+      "translation": "I have Monday off.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Montag"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Montag",
+          "answer": "Monday",
+          "options": [
+            "offer",
+            "Monday",
+            "plan",
+            "film, movie"
+          ],
+          "explanation": "der Montag = Monday\nIch habe Montag frei.\nI have Monday off."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "Monday",
+          "answer": "Montag",
+          "options": [
+            "Montag",
+            "Plan",
+            "Angebot",
+            "Film"
+          ],
+          "explanation": "der Montag = Monday\nIch habe Montag frei.\nI have Monday off."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich habe ___ frei.\nI have Monday off.",
+          "answer": "Montag",
+          "options": [
+            "Name",
+            "Plan",
+            "Film",
+            "Montag"
+          ],
+          "explanation": "der Montag = Monday\nIch habe Montag frei.\nI have Monday off.",
+          "contextSentence": "Ich habe ___ frei."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Montag",
+          "answer": "der",
+          "options": [
+            "das",
+            "die",
+            "der"
+          ],
+          "explanation": "der Montag = Monday\nIch habe Montag frei.\nI have Monday off."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Montag:noun:2b2da7c7b06e8bbb",
+      "sourceGlosses": [
+        "Monday"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Montag#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/6644332",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #6644332 by Felixjp (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/5859005",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #5859005 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Donnerstag:6a8598913ef44dd6",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Donnerstag",
+      "lemmaGroup": "Donnerstag",
+      "meaning": "Thursday",
+      "article": "der",
+      "pos": "noun",
+      "rank": 125,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Heute ist Donnerstag.",
+      "translation": "Today is Thursday.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Donnerstag"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Donnerstag",
+          "answer": "Thursday",
+          "options": [
+            "Thursday",
+            "price",
+            "plan",
+            "friend"
+          ],
+          "explanation": "der Donnerstag = Thursday\nHeute ist Donnerstag.\nToday is Thursday."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "Thursday",
+          "answer": "Donnerstag",
+          "options": [
+            "Preis",
+            "Plan",
+            "Donnerstag",
+            "Freund"
+          ],
+          "explanation": "der Donnerstag = Thursday\nHeute ist Donnerstag.\nToday is Thursday."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Heute ist ___.\nToday is Thursday.",
+          "answer": "Donnerstag",
+          "options": [
+            "Plan",
+            "Preis",
+            "Freund",
+            "Donnerstag"
+          ],
+          "explanation": "der Donnerstag = Thursday\nHeute ist Donnerstag.\nToday is Thursday.",
+          "contextSentence": "Heute ist ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Donnerstag",
+          "answer": "der",
+          "options": [
+            "das",
+            "der",
+            "die"
+          ],
+          "explanation": "der Donnerstag = Thursday\nHeute ist Donnerstag.\nToday is Thursday."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Donnerstag:noun:6a8598913ef44dd6",
+      "sourceGlosses": [
+        "Thursday"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Donnerstag#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/3346158",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #3346158 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/1151779",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #1151779 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Juni:57262e240472139e",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Juni",
+      "lemmaGroup": "Juni",
+      "meaning": "June",
+      "article": "der",
+      "pos": "noun",
+      "rank": 126,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Wir haben jetzt Juni.",
+      "translation": "It's June.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Juni"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Juni",
+          "answer": "June",
+          "options": [
+            "money",
+            "June",
+            "flat, apartment",
+            "Monday"
+          ],
+          "explanation": "der Juni = June\nWir haben jetzt Juni.\nIt's June."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "June",
+          "answer": "Juni",
+          "options": [
+            "Juni",
+            "Montag",
+            "Geld",
+            "Wohnung"
+          ],
+          "explanation": "der Juni = June\nWir haben jetzt Juni.\nIt's June."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wir haben jetzt ___.\nIt's June.",
+          "answer": "Juni",
+          "options": [
+            "Ort",
+            "Montag",
+            "Juni",
+            "Freund"
+          ],
+          "explanation": "der Juni = June\nWir haben jetzt Juni.\nIt's June.",
+          "contextSentence": "Wir haben jetzt ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Juni",
+          "answer": "der",
+          "options": [
+            "das",
+            "der",
+            "die"
+          ],
+          "explanation": "der Juni = June\nWir haben jetzt Juni.\nIt's June."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Juni:noun:57262e240472139e",
+      "sourceGlosses": [
+        "June (the sixth month of the Gregorian calendar, following May and preceding July, containing the northern solstice)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Juni#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/10184335",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #10184335 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/10191139",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #10191139 by sundown (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Bild:2c744321597e2b90",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Bild",
+      "lemmaGroup": "Bild",
+      "meaning": "picture",
+      "article": "das",
+      "pos": "noun",
+      "rank": 127,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "leisure",
+      "example": "Ich liebe das Bild.",
+      "translation": "I love that picture.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Bild"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Bild",
+          "answer": "picture",
+          "options": [
+            "picture",
+            "beginning, start",
+            "June",
+            "example"
+          ],
+          "explanation": "das Bild = picture\nIch liebe das Bild.\nI love that picture."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "picture",
+          "answer": "Bild",
+          "options": [
+            "Bild",
+            "Anfang",
+            "Beispiel",
+            "Juni"
+          ],
+          "explanation": "das Bild = picture\nIch liebe das Bild.\nI love that picture."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich liebe das ___.\nI love that picture.",
+          "answer": "Bild",
+          "options": [
+            "Beispiel",
+            "Ende",
+            "Gespräch",
+            "Bild"
+          ],
+          "explanation": "das Bild = picture\nIch liebe das Bild.\nI love that picture.",
+          "contextSentence": "Ich liebe das ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Bild",
+          "answer": "das",
+          "options": [
+            "der",
+            "das",
+            "die"
+          ],
+          "explanation": "das Bild = picture\nIch liebe das Bild.\nI love that picture."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Bild:noun:2c744321597e2b90",
+      "sourceGlosses": [
+        "depiction, image, picture",
+        "physical image"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Bild#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/5217462",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #5217462 by jaz1313 (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/5207788",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #5207788 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Mittwoch:d8baa7812e8a48b2",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Mittwoch",
+      "lemmaGroup": "Mittwoch",
+      "meaning": "Wednesday",
+      "article": "der",
+      "pos": "noun",
+      "rank": 128,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Morgen ist Mittwoch.",
+      "translation": "Tomorrow is Wednesday.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Mittwoch"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Mittwoch",
+          "answer": "Wednesday",
+          "options": [
+            "weekend",
+            "Wednesday",
+            "name",
+            "railway station"
+          ],
+          "explanation": "der Mittwoch = Wednesday\nMorgen ist Mittwoch.\nTomorrow is Wednesday."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "Wednesday",
+          "answer": "Mittwoch",
+          "options": [
+            "Mittwoch",
+            "Wochenende",
+            "Bahnhof",
+            "Name"
+          ],
+          "explanation": "der Mittwoch = Wednesday\nMorgen ist Mittwoch.\nTomorrow is Wednesday."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Morgen ist ___.\nTomorrow is Wednesday.",
+          "answer": "Mittwoch",
+          "options": [
+            "Sonntag",
+            "Bahnhof",
+            "Name",
+            "Mittwoch"
+          ],
+          "explanation": "der Mittwoch = Wednesday\nMorgen ist Mittwoch.\nTomorrow is Wednesday.",
+          "contextSentence": "Morgen ist ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Mittwoch",
+          "answer": "der",
+          "options": [
+            "der",
+            "das",
+            "die"
+          ],
+          "explanation": "der Mittwoch = Wednesday\nMorgen ist Mittwoch.\nTomorrow is Wednesday."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Mittwoch:noun:d8baa7812e8a48b2",
+      "sourceGlosses": [
+        "Wednesday"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Mittwoch#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/4454480",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #4454480 by rocco_granata (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/6203836",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #6203836 by Jesse (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Beispiel:0fcd1ac70dfc5390",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Beispiel",
+      "lemmaGroup": "Beispiel",
+      "meaning": "example",
+      "article": "das",
+      "pos": "noun",
+      "rank": 129,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "education",
+      "example": "Gib mir noch ein Beispiel.",
+      "translation": "Give me another example.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Beispiel"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Beispiel",
+          "answer": "example",
+          "options": [
+            "seat",
+            "topic, subject",
+            "example",
+            "middle"
+          ],
+          "explanation": "das Beispiel = example\nGib mir noch ein Beispiel.\nGive me another example."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "example",
+          "answer": "Beispiel",
+          "options": [
+            "Beispiel",
+            "Thema",
+            "Platz",
+            "Mitte"
+          ],
+          "explanation": "das Beispiel = example\nGib mir noch ein Beispiel.\nGive me another example."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Gib mir noch ein ___.\nGive me another example.",
+          "answer": "Beispiel",
+          "options": [
+            "Gespräch",
+            "Beispiel",
+            "Ei",
+            "Wort"
+          ],
+          "explanation": "das Beispiel = example\nGib mir noch ein Beispiel.\nGive me another example.",
+          "contextSentence": "Gib mir noch ein ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Beispiel",
+          "answer": "das",
+          "options": [
+            "der",
+            "die",
+            "das"
+          ],
+          "explanation": "das Beispiel = example\nGib mir noch ein Beispiel.\nGive me another example."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Beispiel:noun:0fcd1ac70dfc5390",
+      "sourceGlosses": [
+        "example"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Beispiel#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/5026177",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #5026177 by UliDolbarge (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/320312",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #320312 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Anfang:41bee46f50589ff3",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Anfang",
+      "lemmaGroup": "Anfang",
+      "meaning": "beginning, start",
+      "article": "der",
+      "pos": "noun",
+      "rank": 130,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Es war ein guter Anfang.",
+      "translation": "It was a good start.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Anfang"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Anfang",
+          "answer": "beginning, start",
+          "options": [
+            "Thursday",
+            "beginning, start",
+            "hand",
+            "friend"
+          ],
+          "explanation": "der Anfang = beginning, start\nEs war ein guter Anfang.\nIt was a good start."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "beginning, start",
+          "answer": "Anfang",
+          "options": [
+            "Anfang",
+            "Hand",
+            "Donnerstag",
+            "Freund"
+          ],
+          "explanation": "der Anfang = beginning, start\nEs war ein guter Anfang.\nIt was a good start."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Es war ein guter ___.\nIt was a good start.",
+          "answer": "Anfang",
+          "options": [
+            "Donnerstag",
+            "Name",
+            "Anfang",
+            "Kunde"
+          ],
+          "explanation": "der Anfang = beginning, start\nEs war ein guter Anfang.\nIt was a good start.",
+          "contextSentence": "Es war ein guter ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Anfang",
+          "answer": "der",
+          "options": [
+            "das",
+            "die",
+            "der"
+          ],
+          "explanation": "der Anfang = beginning, start\nEs war ein guter Anfang.\nIt was a good start."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Anfang:noun:41bee46f50589ff3",
+      "sourceGlosses": [
+        "start, beginning, origin (spatially or temporally)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Anfang#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/8809370",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #8809370 by Melang (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/5754606",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #5754606 by CM (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Gast:154efcfcb872f2c1",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Gast",
+      "lemmaGroup": "Gast",
+      "meaning": "guest",
+      "article": "der",
+      "pos": "noun",
+      "rank": 131,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "people",
+      "example": "Wer ist der neue Gast?",
+      "translation": "Who's the new guest?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Gast"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Gast",
+          "answer": "guest",
+          "options": [
+            "group",
+            "guest",
+            "position (job)",
+            "problem"
+          ],
+          "explanation": "der Gast = guest\nWer ist der neue Gast?\nWho's the new guest?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "guest",
+          "answer": "Gast",
+          "options": [
+            "Gruppe",
+            "Stelle",
+            "Problem",
+            "Gast"
+          ],
+          "explanation": "der Gast = guest\nWer ist der neue Gast?\nWho's the new guest?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wer ist der neue ___?\nWho's the new guest?",
+          "answer": "Gast",
+          "options": [
+            "Freund",
+            "Gast",
+            "Donnerstag",
+            "Käse"
+          ],
+          "explanation": "der Gast = guest\nWer ist der neue Gast?\nWho's the new guest?",
+          "contextSentence": "Wer ist der neue ___?"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Gast",
+          "answer": "der",
+          "options": [
+            "das",
+            "der",
+            "die"
+          ],
+          "explanation": "der Gast = guest\nWer ist der neue Gast?\nWho's the new guest?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Gast:noun:154efcfcb872f2c1",
+      "sourceGlosses": [
+        "guest"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Gast#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/8089539",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #8089539 by Luiaard (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/11252500",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #11252500 by sundown (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Ergebnis:494989bd5b431c0a",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Ergebnis",
+      "lemmaGroup": "Ergebnis",
+      "meaning": "result",
+      "article": "das",
+      "pos": "noun",
+      "rank": 132,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Das Ergebnis war sehr gut.",
+      "translation": "The result was very good.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Ergebnis"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Ergebnis",
+          "answer": "result",
+          "options": [
+            "guest",
+            "June",
+            "window",
+            "result"
+          ],
+          "explanation": "das Ergebnis = result\nDas Ergebnis war sehr gut.\nThe result was very good."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "result",
+          "answer": "Ergebnis",
+          "options": [
+            "Ergebnis",
+            "Juni",
+            "Fenster",
+            "Gast"
+          ],
+          "explanation": "das Ergebnis = result\nDas Ergebnis war sehr gut.\nThe result was very good."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Das ___ war sehr gut.\nThe result was very good.",
+          "answer": "Ergebnis",
+          "options": [
+            "Gespräch",
+            "Ergebnis",
+            "Ei",
+            "Fenster"
+          ],
+          "explanation": "das Ergebnis = result\nDas Ergebnis war sehr gut.\nThe result was very good.",
+          "contextSentence": "Das ___ war sehr gut."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Ergebnis",
+          "answer": "das",
+          "options": [
+            "der",
+            "die",
+            "das"
+          ],
+          "explanation": "das Ergebnis = result\nDas Ergebnis war sehr gut.\nThe result was very good."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Ergebnis:noun:494989bd5b431c0a",
+      "sourceGlosses": [
+        "result, outcome, conclusion, finding, fruit, consequence, upshot, answer"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Ergebnis#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/9450120",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #9450120 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/9475142",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #9475142 by shekitten (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Preis:72c8d811d574a16f",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Preis",
+      "lemmaGroup": "Preis",
+      "meaning": "price",
+      "article": "der",
+      "pos": "noun",
+      "rank": 133,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "shopping",
+      "example": "Was ist der Preis?",
+      "translation": "What is the price?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Preis"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Preis",
+          "answer": "price",
+          "options": [
+            "conversation",
+            "Wednesday",
+            "customer",
+            "price"
+          ],
+          "explanation": "der Preis = price\nWas ist der Preis?\nWhat is the price?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "price",
+          "answer": "Preis",
+          "options": [
+            "Preis",
+            "Mittwoch",
+            "Gespräch",
+            "Kunde"
+          ],
+          "explanation": "der Preis = price\nWas ist der Preis?\nWhat is the price?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Was ist der ___?\nWhat is the price?",
+          "answer": "Preis",
+          "options": [
+            "Tisch",
+            "Kunde",
+            "Preis",
+            "Mittwoch"
+          ],
+          "explanation": "der Preis = price\nWas ist der Preis?\nWhat is the price?",
+          "contextSentence": "Was ist der ___?"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Preis",
+          "answer": "der",
+          "options": [
+            "die",
+            "das",
+            "der"
+          ],
+          "explanation": "der Preis = price\nWas ist der Preis?\nWhat is the price?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Preis:noun:72c8d811d574a16f",
+      "sourceGlosses": [
+        "price"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Preis#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/6641644",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #6641644 by Felixjp (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/24426",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #24426 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Gespräch:06700695614d2b18",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Gespräch",
+      "lemmaGroup": "Gespräch",
+      "meaning": "conversation",
+      "article": "das",
+      "pos": "noun",
+      "rank": 134,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "people",
+      "example": "Wir hatten ein gutes Gespräch.",
+      "translation": "We had a good conversation.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Gespräch"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Gespräch",
+          "answer": "conversation",
+          "options": [
+            "June",
+            "example",
+            "week",
+            "conversation"
+          ],
+          "explanation": "das Gespräch = conversation\nWir hatten ein gutes Gespräch.\nWe had a good conversation."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "conversation",
+          "answer": "Gespräch",
+          "options": [
+            "Woche",
+            "Gespräch",
+            "Juni",
+            "Beispiel"
+          ],
+          "explanation": "das Gespräch = conversation\nWir hatten ein gutes Gespräch.\nWe had a good conversation."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wir hatten ein gutes ___.\nWe had a good conversation.",
+          "answer": "Gespräch",
+          "options": [
+            "Brot",
+            "Kind",
+            "Gespräch",
+            "Problem"
+          ],
+          "explanation": "das Gespräch = conversation\nWir hatten ein gutes Gespräch.\nWe had a good conversation.",
+          "contextSentence": "Wir hatten ein gutes ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Gespräch",
+          "answer": "das",
+          "options": [
+            "der",
+            "das",
+            "die"
+          ],
+          "explanation": "das Gespräch = conversation\nWir hatten ein gutes Gespräch.\nWe had a good conversation."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Gespräch:noun:06700695614d2b18",
+      "sourceGlosses": [
+        "conversation, chat, talk (conversing between people or parties, either for pleasure or for business)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Gespr%C3%A4ch#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/8663158",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #8663158 by Melang (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/1126743",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #1126743 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Angebot:3d1816b29e0ff95d",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Angebot",
+      "lemmaGroup": "Angebot",
+      "meaning": "offer",
+      "article": "das",
+      "pos": "noun",
+      "rank": 135,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "shopping",
+      "example": "Danke für das Angebot!",
+      "translation": "Thanks for the offer.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Angebot"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Angebot",
+          "answer": "offer",
+          "options": [
+            "man",
+            "chair",
+            "time",
+            "offer"
+          ],
+          "explanation": "das Angebot = offer\nDanke für das Angebot!\nThanks for the offer."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "offer",
+          "answer": "Angebot",
+          "options": [
+            "Stuhl",
+            "Angebot",
+            "Zeit",
+            "Mann"
+          ],
+          "explanation": "das Angebot = offer\nDanke für das Angebot!\nThanks for the offer."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Danke für das ___!\nThanks for the offer.",
+          "answer": "Angebot",
+          "options": [
+            "Wort",
+            "Angebot",
+            "Fenster",
+            "Ei"
+          ],
+          "explanation": "das Angebot = offer\nDanke für das Angebot!\nThanks for the offer.",
+          "contextSentence": "Danke für das ___!"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Angebot",
+          "answer": "das",
+          "options": [
+            "die",
+            "der",
+            "das"
+          ],
+          "explanation": "das Angebot = offer\nDanke für das Angebot!\nThanks for the offer."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Angebot:noun:3d1816b29e0ff95d",
+      "sourceGlosses": [
+        "offer, proposition"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Angebot#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2682241",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2682241 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2647086",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2647086 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Gruppe:a44e99b8b3a3695d",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Gruppe",
+      "lemmaGroup": "Gruppe",
+      "meaning": "group",
+      "article": "die",
+      "pos": "noun",
+      "rank": 136,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "people",
+      "example": "Ich muss bei der Gruppe bleiben.",
+      "translation": "I have to stay with the group.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Gruppe"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Gruppe",
+          "answer": "group",
+          "options": [
+            "work, job",
+            "word",
+            "middle",
+            "group"
+          ],
+          "explanation": "die Gruppe = group\nIch muss bei der Gruppe bleiben.\nI have to stay with the group."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "group",
+          "answer": "Gruppe",
+          "options": [
+            "Arbeit",
+            "Gruppe",
+            "Mitte",
+            "Wort"
+          ],
+          "explanation": "die Gruppe = group\nIch muss bei der Gruppe bleiben.\nI have to stay with the group."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich muss bei der ___ bleiben.\nI have to stay with the group.",
+          "answer": "Gruppe",
+          "options": [
+            "Gruppe",
+            "Arbeit",
+            "Milch",
+            "Mitte"
+          ],
+          "explanation": "die Gruppe = group\nIch muss bei der Gruppe bleiben.\nI have to stay with the group.",
+          "contextSentence": "Ich muss bei der ___ bleiben."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Gruppe",
+          "answer": "die",
+          "options": [
+            "der",
+            "die",
+            "das"
+          ],
+          "explanation": "die Gruppe = group\nIch muss bei der Gruppe bleiben.\nI have to stay with the group."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Gruppe:noun:a44e99b8b3a3695d",
+      "sourceGlosses": [
+        "group"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Gruppe#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/5656474",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #5656474 by Vortarulo (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/3735426",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #3735426 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Film:7d386d1cdb2027fb",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Film",
+      "lemmaGroup": "Film",
+      "meaning": "film, movie",
+      "article": "der",
+      "pos": "noun",
+      "rank": 137,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "leisure",
+      "example": "Wie war der Film?",
+      "translation": "How was the movie?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Film"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Film",
+          "answer": "film, movie",
+          "options": [
+            "time",
+            "film, movie",
+            "milk",
+            "word"
+          ],
+          "explanation": "der Film = film, movie\nWie war der Film?\nHow was the movie?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "film, movie",
+          "answer": "Film",
+          "options": [
+            "Film",
+            "Zeit",
+            "Milch",
+            "Wort"
+          ],
+          "explanation": "der Film = film, movie\nWie war der Film?\nHow was the movie?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wie war der ___?\nHow was the movie?",
+          "answer": "Film",
+          "options": [
+            "Sonntag",
+            "Gast",
+            "Film",
+            "Kunde"
+          ],
+          "explanation": "der Film = film, movie\nWie war der Film?\nHow was the movie?",
+          "contextSentence": "Wie war der ___?"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Film",
+          "answer": "der",
+          "options": [
+            "der",
+            "die",
+            "das"
+          ],
+          "explanation": "der Film = film, movie\nWie war der Film?\nHow was the movie?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Film:noun:7d386d1cdb2027fb",
+      "sourceGlosses": [
+        "motion picture"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Film#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/1607523",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #1607523 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/3568460",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #3568460 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Wort:e3e1cd6048f07140",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Wort",
+      "lemmaGroup": "Wort",
+      "meaning": "word",
+      "article": "das",
+      "pos": "noun",
+      "rank": 138,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "education",
+      "example": "Was bedeutet das Wort?",
+      "translation": "What's the meaning of that word?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Wort"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Wort",
+          "answer": "word",
+          "options": [
+            "result",
+            "word",
+            "car",
+            "woman"
+          ],
+          "explanation": "das Wort = word\nWas bedeutet das Wort?\nWhat's the meaning of that word?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "word",
+          "answer": "Wort",
+          "options": [
+            "Auto",
+            "Ergebnis",
+            "Frau",
+            "Wort"
+          ],
+          "explanation": "das Wort = word\nWas bedeutet das Wort?\nWhat's the meaning of that word?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Was bedeutet das ___?\nWhat's the meaning of that word?",
+          "answer": "Wort",
+          "options": [
+            "Wort",
+            "Auto",
+            "Ergebnis",
+            "Ei"
+          ],
+          "explanation": "das Wort = word\nWas bedeutet das Wort?\nWhat's the meaning of that word?",
+          "contextSentence": "Was bedeutet das ___?"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Wort",
+          "answer": "das",
+          "options": [
+            "die",
+            "das",
+            "der"
+          ],
+          "explanation": "das Wort = word\nWas bedeutet das Wort?\nWhat's the meaning of that word?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Wort:noun:e3e1cd6048f07140",
+      "sourceGlosses": [
+        "word as an isolated unit"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Wort#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/3110024",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #3110024 by freddy1 (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/3818487",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #3818487 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Mitte:107686d8670568aa",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Mitte",
+      "lemmaGroup": "Mitte",
+      "meaning": "middle",
+      "article": "die",
+      "pos": "noun",
+      "rank": 139,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Ich will in der Mitte sitzen.",
+      "translation": "I want to sit in the middle.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Mitte"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Mitte",
+          "answer": "middle",
+          "options": [
+            "customer",
+            "middle",
+            "city",
+            "egg"
+          ],
+          "explanation": "die Mitte = middle\nIch will in der Mitte sitzen.\nI want to sit in the middle."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "middle",
+          "answer": "Mitte",
+          "options": [
+            "Ei",
+            "Mitte",
+            "Stadt",
+            "Kunde"
+          ],
+          "explanation": "die Mitte = middle\nIch will in der Mitte sitzen.\nI want to sit in the middle."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich will in der ___ sitzen.\nI want to sit in the middle.",
+          "answer": "Mitte",
+          "options": [
+            "Stadt",
+            "Küche",
+            "Mitte",
+            "Hand"
+          ],
+          "explanation": "die Mitte = middle\nIch will in der Mitte sitzen.\nI want to sit in the middle.",
+          "contextSentence": "Ich will in der ___ sitzen."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Mitte",
+          "answer": "die",
+          "options": [
+            "das",
+            "die",
+            "der"
+          ],
+          "explanation": "die Mitte = middle\nIch will in der Mitte sitzen.\nI want to sit in the middle."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Mitte:noun:107686d8670568aa",
+      "sourceGlosses": [
+        "middle"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Mitte#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/3518458",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #3518458 by DenO (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2831798",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2831798 by kevinhsu (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Hand:bbb5ebbf80213e84",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Hand",
+      "lemmaGroup": "Hand",
+      "meaning": "hand",
+      "article": "die",
+      "pos": "noun",
+      "rank": 140,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "health",
+      "example": "Gib mir deine Hand.",
+      "translation": "Give me your hand.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Hand"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Hand",
+          "answer": "hand",
+          "options": [
+            "film, movie",
+            "result",
+            "hand",
+            "water"
+          ],
+          "explanation": "die Hand = hand\nGib mir deine Hand.\nGive me your hand."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "hand",
+          "answer": "Hand",
+          "options": [
+            "Wasser",
+            "Film",
+            "Hand",
+            "Ergebnis"
+          ],
+          "explanation": "die Hand = hand\nGib mir deine Hand.\nGive me your hand."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Gib mir deine ___.\nGive me your hand.",
+          "answer": "Hand",
+          "options": [
+            "Küche",
+            "Hand",
+            "Nacht",
+            "Frage"
+          ],
+          "explanation": "die Hand = hand\nGib mir deine Hand.\nGive me your hand.",
+          "contextSentence": "Gib mir deine ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Hand",
+          "answer": "die",
+          "options": [
+            "der",
+            "das",
+            "die"
+          ],
+          "explanation": "die Hand = hand\nGib mir deine Hand.\nGive me your hand."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Hand:noun:bbb5ebbf80213e84",
+      "sourceGlosses": [
+        "hand"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Hand#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/7481987",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #7481987 by Yorwba (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/3151444",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #3151444 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Name:1220a252f420fc10",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Name",
+      "lemmaGroup": "Name",
+      "meaning": "name",
+      "article": "der",
+      "pos": "noun",
+      "rank": 141,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "people",
+      "example": "Wie ist Ihr Name?",
+      "translation": "What's your name?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Name"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Name",
+          "answer": "name",
+          "options": [
+            "June",
+            "offer",
+            "film, movie",
+            "name"
+          ],
+          "explanation": "der Name = name\nWie ist Ihr Name?\nWhat's your name?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "name",
+          "answer": "Name",
+          "options": [
+            "Film",
+            "Name",
+            "Angebot",
+            "Juni"
+          ],
+          "explanation": "der Name = name\nWie ist Ihr Name?\nWhat's your name?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wie ist Ihr ___?\nWhat's your name?",
+          "answer": "Name",
+          "options": [
+            "Name",
+            "Juni",
+            "Apfel",
+            "Film"
+          ],
+          "explanation": "der Name = name\nWie ist Ihr Name?\nWhat's your name?",
+          "contextSentence": "Wie ist Ihr ___?"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Name",
+          "answer": "der",
+          "options": [
+            "das",
+            "der",
+            "die"
+          ],
+          "explanation": "der Name = name\nWie ist Ihr Name?\nWhat's your name?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Name:noun:1220a252f420fc10",
+      "sourceGlosses": [
+        "name (forename, Christian name, given name)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Name#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/444710",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #444710 by landano (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/408293",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #408293 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Freund:e1abb369086968af",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Freund",
+      "lemmaGroup": "Freund",
+      "meaning": "friend",
+      "article": "der",
+      "pos": "noun",
+      "rank": 142,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "people",
+      "example": "Das ist mein Freund.",
+      "translation": "This is my friend.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Freund"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Freund",
+          "answer": "friend",
+          "options": [
+            "picture",
+            "friend",
+            "clock, watch",
+            "Thursday"
+          ],
+          "explanation": "der Freund = friend\nDas ist mein Freund.\nThis is my friend."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "friend",
+          "answer": "Freund",
+          "options": [
+            "Freund",
+            "Donnerstag",
+            "Bild",
+            "Uhr"
+          ],
+          "explanation": "der Freund = friend\nDas ist mein Freund.\nThis is my friend."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Das ist mein ___.\nThis is my friend.",
+          "answer": "Freund",
+          "options": [
+            "Stuhl",
+            "Plan",
+            "Freund",
+            "Donnerstag"
+          ],
+          "explanation": "der Freund = friend\nDas ist mein Freund.\nThis is my friend.",
+          "contextSentence": "Das ist mein ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Freund",
+          "answer": "der",
+          "options": [
+            "das",
+            "der",
+            "die"
+          ],
+          "explanation": "der Freund = friend\nDas ist mein Freund.\nThis is my friend."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Freund:noun:e1abb369086968af",
+      "sourceGlosses": [
+        "friend"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Freund#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/675959",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #675959 by Zaghawa (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/675960",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #675960 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Plan:13fc02141b1a844d",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Plan",
+      "lemmaGroup": "Plan",
+      "meaning": "plan",
+      "article": "der",
+      "pos": "noun",
+      "rank": 143,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Ich habe einen Plan.",
+      "translation": "I have a plan.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Plan"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Plan",
+          "answer": "plan",
+          "options": [
+            "plan",
+            "bed",
+            "hand",
+            "friend"
+          ],
+          "explanation": "der Plan = plan\nIch habe einen Plan.\nI have a plan."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "plan",
+          "answer": "Plan",
+          "options": [
+            "Bett",
+            "Freund",
+            "Hand",
+            "Plan"
+          ],
+          "explanation": "der Plan = plan\nIch habe einen Plan.\nI have a plan."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich habe einen ___.\nI have a plan.",
+          "answer": "Plan",
+          "options": [
+            "Plan",
+            "Montag",
+            "Freund",
+            "Kunde"
+          ],
+          "explanation": "der Plan = plan\nIch habe einen Plan.\nI have a plan.",
+          "contextSentence": "Ich habe einen ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Plan",
+          "answer": "der",
+          "options": [
+            "die",
+            "der",
+            "das"
+          ],
+          "explanation": "der Plan = plan\nIch habe einen Plan.\nI have a plan."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Plan:noun:13fc02141b1a844d",
+      "sourceGlosses": [
+        "plan (way of procedure)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Plan#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2660095",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2660095 by al_ex_an_der (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2358779",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2358779 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Wochenende:827d3e273c30efdb",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Wochenende",
+      "lemmaGroup": "Wochenende",
+      "meaning": "weekend",
+      "article": "das",
+      "pos": "noun",
+      "rank": 144,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "leisure",
+      "example": "Wie war Ihr Wochenende?",
+      "translation": "How was your weekend?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Wochenende"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Wochenende",
+          "answer": "weekend",
+          "options": [
+            "cheese",
+            "Thursday",
+            "weekend",
+            "problem"
+          ],
+          "explanation": "das Wochenende = weekend\nWie war Ihr Wochenende?\nHow was your weekend?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "weekend",
+          "answer": "Wochenende",
+          "options": [
+            "Wochenende",
+            "Käse",
+            "Donnerstag",
+            "Problem"
+          ],
+          "explanation": "das Wochenende = weekend\nWie war Ihr Wochenende?\nHow was your weekend?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wie war Ihr ___?\nHow was your weekend?",
+          "answer": "Wochenende",
+          "options": [
+            "Problem",
+            "Brot",
+            "Wochenende",
+            "Haus"
+          ],
+          "explanation": "das Wochenende = weekend\nWie war Ihr Wochenende?\nHow was your weekend?",
+          "contextSentence": "Wie war Ihr ___?"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Wochenende",
+          "answer": "das",
+          "options": [
+            "die",
+            "das",
+            "der"
+          ],
+          "explanation": "das Wochenende = weekend\nWie war Ihr Wochenende?\nHow was your weekend?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Wochenende:noun:827d3e273c30efdb",
+      "sourceGlosses": [
+        "weekend (break in the working week, usually Saturday and Sunday)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Wochenende#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/1315714",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #1315714 by al_ex_an_der (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/466007",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #466007 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Stelle:86f1d92d6dda579f",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Stelle",
+      "lemmaGroup": "Stelle",
+      "meaning": "position (job)",
+      "article": "die",
+      "pos": "noun",
+      "rank": 145,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "work",
+      "example": "Er hat eine neue Stelle.",
+      "translation": "He got a new job.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Stelle"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Stelle",
+          "answer": "position (job)",
+          "options": [
+            "name",
+            "position (job)",
+            "end",
+            "apple"
+          ],
+          "explanation": "die Stelle = position (job)\nEr hat eine neue Stelle.\nHe got a new job."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "position (job)",
+          "answer": "Stelle",
+          "options": [
+            "Ende",
+            "Stelle",
+            "Apfel",
+            "Name"
+          ],
+          "explanation": "die Stelle = position (job)\nEr hat eine neue Stelle.\nHe got a new job."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Er hat eine neue ___.\nHe got a new job.",
+          "answer": "Stelle",
+          "options": [
+            "Hand",
+            "Stelle",
+            "Antwort",
+            "Stunde"
+          ],
+          "explanation": "die Stelle = position (job)\nEr hat eine neue Stelle.\nHe got a new job.",
+          "contextSentence": "Er hat eine neue ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Stelle",
+          "answer": "die",
+          "options": [
+            "die",
+            "der",
+            "das"
+          ],
+          "explanation": "die Stelle = position (job)\nEr hat eine neue Stelle.\nHe got a new job."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Stelle:noun:86f1d92d6dda579f",
+      "sourceGlosses": [
+        "position, job (set of tasks or responsibilities meant to be filled by the employment of one person)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Stelle#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/8809047",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #8809047 by wolfgangth (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/285104",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #285104 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Kunde:6d165a279470e671",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Kunde",
+      "lemmaGroup": "Kunde",
+      "meaning": "customer",
+      "article": "der",
+      "pos": "noun",
+      "rank": 146,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "shopping",
+      "example": "Ich bin nur ein Kunde.",
+      "translation": "I'm only a customer.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Kunde"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Kunde",
+          "answer": "customer",
+          "options": [
+            "police",
+            "group",
+            "street",
+            "customer"
+          ],
+          "explanation": "der Kunde = customer\nIch bin nur ein Kunde.\nI'm only a customer."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "customer",
+          "answer": "Kunde",
+          "options": [
+            "Kunde",
+            "Gruppe",
+            "Polizei",
+            "Straße"
+          ],
+          "explanation": "der Kunde = customer\nIch bin nur ein Kunde.\nI'm only a customer."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich bin nur ein ___.\nI'm only a customer.",
+          "answer": "Kunde",
+          "options": [
+            "Gast",
+            "Kunde",
+            "Bahnhof",
+            "Sonntag"
+          ],
+          "explanation": "der Kunde = customer\nIch bin nur ein Kunde.\nI'm only a customer.",
+          "contextSentence": "Ich bin nur ein ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Kunde",
+          "answer": "der",
+          "options": [
+            "das",
+            "der",
+            "die"
+          ],
+          "explanation": "der Kunde = customer\nIch bin nur ein Kunde.\nI'm only a customer."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Kunde:noun:6d165a279470e671",
+      "sourceGlosses": [
+        "customer, patron, client"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Kunde#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/825045",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #825045 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/259912",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #259912 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Wohnung:5704e40709942a47",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Wohnung",
+      "lemmaGroup": "Wohnung",
+      "meaning": "flat, apartment",
+      "article": "die",
+      "pos": "noun",
+      "rank": 147,
+      "level": "A1",
+      "levelBasis": "Headword of a published A1 exam word list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "home",
+      "example": "Er sucht eine Wohnung.",
+      "translation": "He is looking for an apartment.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Wohnung"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Wohnung",
+          "answer": "flat, apartment",
+          "options": [
+            "police",
+            "Wednesday",
+            "child",
+            "flat, apartment"
+          ],
+          "explanation": "die Wohnung = flat, apartment\nEr sucht eine Wohnung.\nHe is looking for an apartment."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "flat, apartment",
+          "answer": "Wohnung",
+          "options": [
+            "Mittwoch",
+            "Wohnung",
+            "Polizei",
+            "Kind"
+          ],
+          "explanation": "die Wohnung = flat, apartment\nEr sucht eine Wohnung.\nHe is looking for an apartment."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Er sucht eine ___.\nHe is looking for an apartment.",
+          "answer": "Wohnung",
+          "options": [
+            "Polizei",
+            "Wohnung",
+            "Welt",
+            "Antwort"
+          ],
+          "explanation": "die Wohnung = flat, apartment\nEr sucht eine Wohnung.\nHe is looking for an apartment.",
+          "contextSentence": "Er sucht eine ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Wohnung",
+          "answer": "die",
+          "options": [
+            "der",
+            "die",
+            "das"
+          ],
+          "explanation": "die Wohnung = flat, apartment\nEr sucht eine Wohnung.\nHe is looking for an apartment."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Wohnung:noun:5704e40709942a47",
+      "sourceGlosses": [
+        "flat; apartment (such a place when it occupies only part of a building)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Wohnung#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/7610929",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #7610929 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/4979444",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #4979444 by PvtMarc (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-23T13:45:16Z",
+      "batch": "a1-002"
+    }
+  ]
+}
