@@ -1,0 +1,4855 @@
+{
+  "schemaVersion": 1,
+  "courseId": "de-en",
+  "generation": "fresh-20260921",
+  "entries": [
+    {
+      "id": "de-en:fresh-20260921:verb:zelten:5ddb73815c5f757b",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "zelten",
+      "lemmaGroup": "zelten",
+      "meaning": "to camp (in a tent)",
+      "article": "",
+      "pos": "verb",
+      "rank": 2389,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "leisure",
+      "example": "Du zeltest gern, oder?",
+      "translation": "You like camping, don't you?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "zelten"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "zelten",
+          "answer": "to camp (in a tent)",
+          "options": [
+            "to bleed",
+            "to deposit (money)",
+            "to camp (in a tent)",
+            "to stand"
+          ],
+          "explanation": "zelten = to camp (in a tent)\nDu zeltest gern, oder?\nYou like camping, don't you?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to camp (in a tent)",
+          "answer": "zelten",
+          "options": [
+            "bluten",
+            "einzahlen",
+            "stehen",
+            "zelten"
+          ],
+          "explanation": "zelten = to camp (in a tent)\nDu zeltest gern, oder?\nYou like camping, don't you?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Du ___ gern, oder?\nYou like camping, don't you?",
+          "answer": "zeltest",
+          "options": [
+            "entlässt",
+            "zeltest",
+            "blutest",
+            "stehst"
+          ],
+          "explanation": "zelten = to camp (in a tent)\nDu zeltest gern, oder?\nYou like camping, don't you?",
+          "contextSentence": "Du ___ gern, oder?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:zelten:verb:5ddb73815c5f757b",
+      "sourceGlosses": [
+        "to camp, tent (to stay in the outdoors in a tent)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/zelten#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/11999881",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #11999881 by Naina (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/6263764",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #6263764 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:08Z",
+      "batch": "b1-027"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:jobben:18edd87201b61b44",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "jobben",
+      "lemmaGroup": "jobben",
+      "meaning": "to have a job, to work",
+      "article": "",
+      "pos": "verb",
+      "rank": 2390,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "work",
+      "example": "Als Jugendliche jobbte Maria als Babysitterin.",
+      "translation": "Mary worked as a babysitter when she was a teenager.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "jobben"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "jobben",
+          "answer": "to have a job, to work",
+          "options": [
+            "to think about, to think over",
+            "to have a job, to work",
+            "to dance",
+            "to thunder"
+          ],
+          "explanation": "jobben = to have a job, to work\nAls Jugendliche jobbte Maria als Babysitterin.\nMary worked as a babysitter when she was a teenager."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to have a job, to work",
+          "answer": "jobben",
+          "options": [
+            "überlegen",
+            "donnern",
+            "jobben",
+            "tanzen"
+          ],
+          "explanation": "jobben = to have a job, to work\nAls Jugendliche jobbte Maria als Babysitterin.\nMary worked as a babysitter when she was a teenager."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Als Jugendliche ___ Maria als Babysitterin.\nMary worked as a babysitter when she was a teenager.",
+          "answer": "jobbte",
+          "options": [
+            "überlegte",
+            "jobbte",
+            "donnerte",
+            "tanzte"
+          ],
+          "explanation": "jobben = to have a job, to work\nAls Jugendliche jobbte Maria als Babysitterin.\nMary worked as a babysitter when she was a teenager.",
+          "contextSentence": "Als Jugendliche ___ Maria als Babysitterin."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:jobben:verb:18edd87201b61b44",
+      "sourceGlosses": [
+        "to have a job, to work (especially in a temporary or minor position)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/jobben#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/8074468",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #8074468 by wolfgangth (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/3658269",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #3658269 by Hybrid (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:08Z",
+      "batch": "b1-027"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:duzen:5481603b097852e9",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "duzen",
+      "lemmaGroup": "duzen",
+      "meaning": "to address as \"du\" (informally)",
+      "article": "",
+      "pos": "verb",
+      "rank": 2391,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "people",
+      "example": "Du kannst mich duzen.",
+      "translation": "You can address me informally.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "duzen"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "duzen",
+          "answer": "to address as \"du\" (informally)",
+          "options": [
+            "to happen",
+            "to teach, to school",
+            "to finance, to pay for",
+            "to address as \"du\" (informally)"
+          ],
+          "explanation": "duzen = to address as \"du\" (informally)\nDu kannst mich duzen.\nYou can address me informally."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to address as \"du\" (informally)",
+          "answer": "duzen",
+          "options": [
+            "passieren",
+            "unterrichten",
+            "duzen",
+            "finanzieren"
+          ],
+          "explanation": "duzen = to address as \"du\" (informally)\nDu kannst mich duzen.\nYou can address me informally."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Du kannst mich ___.\nYou can address me informally.",
+          "answer": "duzen",
+          "options": [
+            "unterrichten",
+            "finanzieren",
+            "passieren",
+            "duzen"
+          ],
+          "explanation": "duzen = to address as \"du\" (informally)\nDu kannst mich duzen.\nYou can address me informally.",
+          "contextSentence": "Du kannst mich ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:duzen:verb:5481603b097852e9",
+      "sourceGlosses": [
+        "to address informally using the pronoun du, to thou"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/duzen#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/689207",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #689207 by Manfredo (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/12438912",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #12438912 by sundown (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:08Z",
+      "batch": "b1-027"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:nachschlagen:3cf67f4941a586d7",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "nachschlagen",
+      "lemmaGroup": "nachschlagen",
+      "meaning": "to look up (a word)",
+      "article": "",
+      "pos": "verb",
+      "rank": 2392,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "education",
+      "example": "Ich muss das Wort im Wörterbuch nachschlagen.",
+      "translation": "I need to look that word up in the dictionary.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "nachschlagen"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "nachschlagen",
+          "answer": "to look up (a word)",
+          "options": [
+            "to type (on a keyboard)",
+            "to fall, to drop",
+            "to look up (a word)",
+            "to fly"
+          ],
+          "explanation": "nachschlagen = to look up (a word)\nIch muss das Wort im Wörterbuch nachschlagen.\nI need to look that word up in the dictionary."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to look up (a word)",
+          "answer": "nachschlagen",
+          "options": [
+            "fallen",
+            "tippen",
+            "nachschlagen",
+            "fliegen"
+          ],
+          "explanation": "nachschlagen = to look up (a word)\nIch muss das Wort im Wörterbuch nachschlagen.\nI need to look that word up in the dictionary."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich muss das Wort im Wörterbuch ___.\nI need to look that word up in the dictionary.",
+          "answer": "nachschlagen",
+          "options": [
+            "nachschlagen",
+            "fliegen",
+            "tippen",
+            "fallen"
+          ],
+          "explanation": "nachschlagen = to look up (a word)\nIch muss das Wort im Wörterbuch nachschlagen.\nI need to look that word up in the dictionary.",
+          "contextSentence": "Ich muss das Wort im Wörterbuch ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:nachschlagen:verb:3cf67f4941a586d7",
+      "sourceGlosses": [
+        "to look up"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/nachschlagen#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/7373505",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #7373505 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/6657558",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #6657558 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:08Z",
+      "batch": "b1-027"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:abmachen:90b8a2dedc89b148",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "abmachen",
+      "lemmaGroup": "abmachen",
+      "meaning": "to agree (on), to arrange",
+      "article": "",
+      "pos": "verb",
+      "rank": 2393,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Das war so aber nicht abgemacht!",
+      "translation": "That's not what was agreed upon.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "abmachen"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "abmachen",
+          "answer": "to agree (on), to arrange",
+          "options": [
+            "to fulfil, to carry out",
+            "to pay",
+            "to agree (on), to arrange",
+            "to win, to be victorious"
+          ],
+          "explanation": "abmachen = to agree (on), to arrange\nDas war so aber nicht abgemacht!\nThat's not what was agreed upon."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to agree (on), to arrange",
+          "answer": "abmachen",
+          "options": [
+            "erfüllen",
+            "abmachen",
+            "zahlen",
+            "siegen"
+          ],
+          "explanation": "abmachen = to agree (on), to arrange\nDas war so aber nicht abgemacht!\nThat's not what was agreed upon."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Das war so aber nicht ___!\nThat's not what was agreed upon.",
+          "answer": "abgemacht",
+          "options": [
+            "erfüllt",
+            "gesiegt",
+            "abgemacht",
+            "ausgedruckt"
+          ],
+          "explanation": "abmachen = to agree (on), to arrange\nDas war so aber nicht abgemacht!\nThat's not what was agreed upon.",
+          "contextSentence": "Das war so aber nicht ___!"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:abmachen:verb:90b8a2dedc89b148",
+      "sourceGlosses": [
+        "to agree on, to settle on, to make (an appointment)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/abmachen#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/12171723",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #12171723 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/12170830",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #12170830 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:08Z",
+      "batch": "b1-027"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Drogerie:f172dcabc17af9ce",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Drogerie",
+      "lemmaGroup": "Drogerie",
+      "meaning": "drugstore, chemist's",
+      "article": "die",
+      "pos": "noun",
+      "rank": 2394,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "shopping",
+      "example": "Ich arbeite in einer Drogerie.",
+      "translation": "I work in a chemist's.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Drogerie"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Drogerie",
+          "answer": "drugstore, chemist's",
+          "options": [
+            "receipt, voucher",
+            "button (on clothing)",
+            "drugstore, chemist's",
+            "caretaker, janitor"
+          ],
+          "explanation": "die Drogerie = drugstore, chemist's\nIch arbeite in einer Drogerie.\nI work in a chemist's."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "drugstore, chemist's",
+          "answer": "Drogerie",
+          "options": [
+            "Beleg",
+            "Hausmeister",
+            "Drogerie",
+            "Knopf"
+          ],
+          "explanation": "die Drogerie = drugstore, chemist's\nIch arbeite in einer Drogerie.\nI work in a chemist's."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich arbeite in einer ___.\nI work in a chemist's.",
+          "answer": "Drogerie",
+          "options": [
+            "Drogerie",
+            "Neuigkeit",
+            "Rückfahrt",
+            "Pflanze"
+          ],
+          "explanation": "die Drogerie = drugstore, chemist's\nIch arbeite in einer Drogerie.\nI work in a chemist's.",
+          "contextSentence": "Ich arbeite in einer ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Drogerie",
+          "answer": "die",
+          "options": [
+            "der",
+            "die",
+            "das"
+          ],
+          "explanation": "die Drogerie = drugstore, chemist's\nIch arbeite in einer Drogerie.\nI work in a chemist's."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Drogerie:noun:f172dcabc17af9ce",
+      "sourceGlosses": [
+        "a retail store selling beauty, hygiene and household related products as well as certain non-prescription medications, roughly equivalent to a drugstore/chemist"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Drogerie#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/10072004",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #10072004 by wolfgangth (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/1499264",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #1499264 by sundown (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:08Z",
+      "batch": "b1-027"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Wetterbericht:548fa6e645a29952",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Wetterbericht",
+      "lemmaGroup": "Wetterbericht",
+      "meaning": "weather report",
+      "article": "der",
+      "pos": "noun",
+      "rank": 2395,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "nature",
+      "example": "Was hat der Wetterbericht gesagt?",
+      "translation": "What was the weather report?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Wetterbericht"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Wetterbericht",
+          "answer": "weather report",
+          "options": [
+            "laundry, washing (clothes)",
+            "symbol",
+            "weather report",
+            "injection, shot"
+          ],
+          "explanation": "der Wetterbericht = weather report\nWas hat der Wetterbericht gesagt?\nWhat was the weather report?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "weather report",
+          "answer": "Wetterbericht",
+          "options": [
+            "Wäsche",
+            "Spritze",
+            "Symbol",
+            "Wetterbericht"
+          ],
+          "explanation": "der Wetterbericht = weather report\nWas hat der Wetterbericht gesagt?\nWhat was the weather report?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Was hat der ___ gesagt?\nWhat was the weather report?",
+          "answer": "Wetterbericht",
+          "options": [
+            "Verdacht",
+            "Reporter",
+            "Wetterbericht",
+            "Krankenwagen"
+          ],
+          "explanation": "der Wetterbericht = weather report\nWas hat der Wetterbericht gesagt?\nWhat was the weather report?",
+          "contextSentence": "Was hat der ___ gesagt?"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Wetterbericht",
+          "answer": "der",
+          "options": [
+            "das",
+            "der",
+            "die"
+          ],
+          "explanation": "der Wetterbericht = weather report\nWas hat der Wetterbericht gesagt?\nWhat was the weather report?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Wetterbericht:noun:548fa6e645a29952",
+      "sourceGlosses": [
+        "weather report (description of past and/or forecast weather)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Wetterbericht#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/787279",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #787279 by Hans_Adler (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/278913",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #278913 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:08Z",
+      "batch": "b1-027"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Zahnbürste:adac58f9244a8ddc",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Zahnbürste",
+      "lemmaGroup": "Zahnbürste",
+      "meaning": "toothbrush",
+      "article": "die",
+      "pos": "noun",
+      "rank": 2396,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Das ist meine Zahnbürste.",
+      "translation": "That's my toothbrush.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Zahnbürste"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Zahnbürste",
+          "answer": "toothbrush",
+          "options": [
+            "vehicle",
+            "toothbrush",
+            "shape, form",
+            "retirement home, old people's home"
+          ],
+          "explanation": "die Zahnbürste = toothbrush\nDas ist meine Zahnbürste.\nThat's my toothbrush."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "toothbrush",
+          "answer": "Zahnbürste",
+          "options": [
+            "Form",
+            "Fahrzeug",
+            "Altersheim",
+            "Zahnbürste"
+          ],
+          "explanation": "die Zahnbürste = toothbrush\nDas ist meine Zahnbürste.\nThat's my toothbrush."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Das ist meine ___.\nThat's my toothbrush.",
+          "answer": "Zahnbürste",
+          "options": [
+            "Form",
+            "Festplatte",
+            "Zahnbürste",
+            "Zeugin"
+          ],
+          "explanation": "die Zahnbürste = toothbrush\nDas ist meine Zahnbürste.\nThat's my toothbrush.",
+          "contextSentence": "Das ist meine ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Zahnbürste",
+          "answer": "die",
+          "options": [
+            "der",
+            "das",
+            "die"
+          ],
+          "explanation": "die Zahnbürste = toothbrush\nDas ist meine Zahnbürste.\nThat's my toothbrush."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Zahnbürste:noun:adac58f9244a8ddc",
+      "sourceGlosses": [
+        "toothbrush"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Zahnb%C3%BCrste#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/4774952",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #4774952 by Germic (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2251106",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2251106 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:08Z",
+      "batch": "b1-027"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Einfall:b030fbdee5718525",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Einfall",
+      "lemmaGroup": "Einfall",
+      "meaning": "idea",
+      "article": "der",
+      "pos": "noun",
+      "rank": 2397,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Was für ein großartiger Einfall!",
+      "translation": "What a great idea!",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Einfall"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Einfall",
+          "answer": "idea",
+          "options": [
+            "phone number",
+            "idea",
+            "one-way street",
+            "orchestra"
+          ],
+          "explanation": "der Einfall = idea\nWas für ein großartiger Einfall!\nWhat a great idea!"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "idea",
+          "answer": "Einfall",
+          "options": [
+            "Orchester",
+            "Einfall",
+            "Einbahnstraße",
+            "Rufnummer"
+          ],
+          "explanation": "der Einfall = idea\nWas für ein großartiger Einfall!\nWhat a great idea!"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Was für ein großartiger ___!\nWhat a great idea!",
+          "answer": "Einfall",
+          "options": [
+            "Alkohol",
+            "Wissenschaftler",
+            "Kurs",
+            "Einfall"
+          ],
+          "explanation": "der Einfall = idea\nWas für ein großartiger Einfall!\nWhat a great idea!",
+          "contextSentence": "Was für ein großartiger ___!"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Einfall",
+          "answer": "der",
+          "options": [
+            "der",
+            "die",
+            "das"
+          ],
+          "explanation": "der Einfall = idea\nWas für ein großartiger Einfall!\nWhat a great idea!"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Einfall:noun:b030fbdee5718525",
+      "sourceGlosses": [
+        "idea"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Einfall#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/1792447",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #1792447 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/1792441",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #1792441 by Spamster (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:08Z",
+      "batch": "b1-027"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Limonade:ea1641d5029aba3e",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Limonade",
+      "lemmaGroup": "Limonade",
+      "meaning": "fizzy drink, soda",
+      "article": "die",
+      "pos": "noun",
+      "rank": 2398,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "food",
+      "example": "Die Limonade ist kalt.",
+      "translation": "The fizzy drink is cold.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Limonade"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Limonade",
+          "answer": "fizzy drink, soda",
+          "options": [
+            "grandpa",
+            "office, post (position)",
+            "fizzy drink, soda",
+            "morning (before noon)"
+          ],
+          "explanation": "die Limonade = fizzy drink, soda\nDie Limonade ist kalt.\nThe fizzy drink is cold."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "fizzy drink, soda",
+          "answer": "Limonade",
+          "options": [
+            "Opa",
+            "Vormittag",
+            "Limonade",
+            "Amt"
+          ],
+          "explanation": "die Limonade = fizzy drink, soda\nDie Limonade ist kalt.\nThe fizzy drink is cold."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Die ___ ist kalt.\nThe fizzy drink is cold.",
+          "answer": "Limonade",
+          "options": [
+            "Kabine",
+            "Limonade",
+            "Gegend",
+            "Vase"
+          ],
+          "explanation": "die Limonade = fizzy drink, soda\nDie Limonade ist kalt.\nThe fizzy drink is cold.",
+          "contextSentence": "Die ___ ist kalt."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Limonade",
+          "answer": "die",
+          "options": [
+            "die",
+            "das",
+            "der"
+          ],
+          "explanation": "die Limonade = fizzy drink, soda\nDie Limonade ist kalt.\nThe fizzy drink is cold."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Limonade:noun:ea1641d5029aba3e",
+      "sourceGlosses": [
+        "any carbonated soft drink, soda pop, fizzy drink (particularly kinds other than cola, though it may also be included)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Limonade#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2398532",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2398532 by Zaghawa (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/8788862",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #8788862 by sundown (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:08Z",
+      "batch": "b1-027"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Diplom:66d11c08280aa027",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Diplom",
+      "lemmaGroup": "Diplom",
+      "meaning": "diploma, degree",
+      "article": "das",
+      "pos": "noun",
+      "rank": 2399,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "education",
+      "example": "Er bekommt morgen sein Diplom.",
+      "translation": "He gets his diploma tomorrow.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Diplom"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Diplom",
+          "answer": "diploma, degree",
+          "options": [
+            "mother tongue, native language",
+            "souvenir",
+            "job interview",
+            "diploma, degree"
+          ],
+          "explanation": "das Diplom = diploma, degree\nEr bekommt morgen sein Diplom.\nHe gets his diploma tomorrow."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "diploma, degree",
+          "answer": "Diplom",
+          "options": [
+            "Vorstellungsgespräch",
+            "Muttersprache",
+            "Diplom",
+            "Souvenir"
+          ],
+          "explanation": "das Diplom = diploma, degree\nEr bekommt morgen sein Diplom.\nHe gets his diploma tomorrow."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Er bekommt morgen sein ___.\nHe gets his diploma tomorrow.",
+          "answer": "Diplom",
+          "options": [
+            "Diplom",
+            "Souvenir",
+            "Vorstellungsgespräch",
+            "Picknick"
+          ],
+          "explanation": "das Diplom = diploma, degree\nEr bekommt morgen sein Diplom.\nHe gets his diploma tomorrow.",
+          "contextSentence": "Er bekommt morgen sein ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Diplom",
+          "answer": "das",
+          "options": [
+            "der",
+            "die",
+            "das"
+          ],
+          "explanation": "das Diplom = diploma, degree\nEr bekommt morgen sein Diplom.\nHe gets his diploma tomorrow."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Diplom:noun:66d11c08280aa027",
+      "sourceGlosses": [
+        "diploma (higher education only, e.g., Master’s degree)."
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Diplom#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/11836982",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #11836982 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/3575085",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #3575085 by vvv123 (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:08Z",
+      "batch": "b1-027"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Strafzettel:805ffbb9304e442a",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Strafzettel",
+      "lemmaGroup": "Strafzettel",
+      "meaning": "ticket (fine), traffic ticket",
+      "article": "der",
+      "pos": "noun",
+      "rank": 2400,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "travel",
+      "example": "Tom hat einen Strafzettel bekommen.",
+      "translation": "Tom got a ticket.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Strafzettel"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Strafzettel",
+          "answer": "ticket (fine), traffic ticket",
+          "options": [
+            "foreign language",
+            "hard drive, hard disk",
+            "pedestrian",
+            "ticket (fine), traffic ticket"
+          ],
+          "explanation": "der Strafzettel = ticket (fine), traffic ticket\nTom hat einen Strafzettel bekommen.\nTom got a ticket."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "ticket (fine), traffic ticket",
+          "answer": "Strafzettel",
+          "options": [
+            "Fußgänger",
+            "Festplatte",
+            "Strafzettel",
+            "Fremdsprache"
+          ],
+          "explanation": "der Strafzettel = ticket (fine), traffic ticket\nTom hat einen Strafzettel bekommen.\nTom got a ticket."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Tom hat einen ___ bekommen.\nTom got a ticket.",
+          "answer": "Strafzettel",
+          "options": [
+            "Wirt",
+            "Pfeffer",
+            "Fußgänger",
+            "Strafzettel"
+          ],
+          "explanation": "der Strafzettel = ticket (fine), traffic ticket\nTom hat einen Strafzettel bekommen.\nTom got a ticket.",
+          "contextSentence": "Tom hat einen ___ bekommen."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Strafzettel",
+          "answer": "der",
+          "options": [
+            "das",
+            "die",
+            "der"
+          ],
+          "explanation": "der Strafzettel = ticket (fine), traffic ticket\nTom hat einen Strafzettel bekommen.\nTom got a ticket."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Strafzettel:noun:805ffbb9304e442a",
+      "sourceGlosses": [
+        "traffic ticket"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Strafzettel#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/8387387",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #8387387 by Luiaard (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/7538494",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #7538494 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:08Z",
+      "batch": "b1-027"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Visitenkarte:b9938863ff8062ab",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Visitenkarte",
+      "lemmaGroup": "Visitenkarte",
+      "meaning": "business card",
+      "article": "die",
+      "pos": "noun",
+      "rank": 2401,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "work",
+      "example": "Das ist meine Visitenkarte.",
+      "translation": "This is my business card.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Visitenkarte"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Visitenkarte",
+          "answer": "business card",
+          "options": [
+            "cash",
+            "business card",
+            "school",
+            "suitcase"
+          ],
+          "explanation": "die Visitenkarte = business card\nDas ist meine Visitenkarte.\nThis is my business card."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "business card",
+          "answer": "Visitenkarte",
+          "options": [
+            "Schule",
+            "Koffer",
+            "Visitenkarte",
+            "Bargeld"
+          ],
+          "explanation": "die Visitenkarte = business card\nDas ist meine Visitenkarte.\nThis is my business card."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Das ist meine ___.\nThis is my business card.",
+          "answer": "Visitenkarte",
+          "options": [
+            "Überstunde",
+            "Schule",
+            "Straßenbahn",
+            "Visitenkarte"
+          ],
+          "explanation": "die Visitenkarte = business card\nDas ist meine Visitenkarte.\nThis is my business card.",
+          "contextSentence": "Das ist meine ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Visitenkarte",
+          "answer": "die",
+          "options": [
+            "die",
+            "der",
+            "das"
+          ],
+          "explanation": "die Visitenkarte = business card\nDas ist meine Visitenkarte.\nThis is my business card."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Visitenkarte:noun:b9938863ff8062ab",
+      "sourceGlosses": [
+        "business card"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Visitenkarte#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2086369",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2086369 by Espi (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2086218",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2086218 by freddy1 (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:08Z",
+      "batch": "b1-027"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Büchse:a5761cc4dc10ef35",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Büchse",
+      "lemmaGroup": "Büchse",
+      "meaning": "can, tin",
+      "article": "die",
+      "pos": "noun",
+      "rank": 2402,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "food",
+      "example": "Kann ich eine Büchse aufmachen?",
+      "translation": "Can I open a can?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Büchse"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Büchse",
+          "answer": "can, tin",
+          "options": [
+            "club",
+            "bear (animal)",
+            "landing",
+            "can, tin"
+          ],
+          "explanation": "die Büchse = can, tin\nKann ich eine Büchse aufmachen?\nCan I open a can?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "can, tin",
+          "answer": "Büchse",
+          "options": [
+            "Landung",
+            "Büchse",
+            "Bär",
+            "Club"
+          ],
+          "explanation": "die Büchse = can, tin\nKann ich eine Büchse aufmachen?\nCan I open a can?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Kann ich eine ___ aufmachen?\nCan I open a can?",
+          "answer": "Büchse",
+          "options": [
+            "Landung",
+            "Nadel",
+            "Büchse",
+            "Frist"
+          ],
+          "explanation": "die Büchse = can, tin\nKann ich eine Büchse aufmachen?\nCan I open a can?",
+          "contextSentence": "Kann ich eine ___ aufmachen?"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Büchse",
+          "answer": "die",
+          "options": [
+            "der",
+            "die",
+            "das"
+          ],
+          "explanation": "die Büchse = can, tin\nKann ich eine Büchse aufmachen?\nCan I open a can?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Büchse:noun:a5761cc4dc10ef35",
+      "sourceGlosses": [
+        "box, can"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/B%C3%BCchse#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/761524",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #761524 by Dejo (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/759451",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #759451 by \\N (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:08Z",
+      "batch": "b1-027"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Kanne:3e59a85194539527",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Kanne",
+      "lemmaGroup": "Kanne",
+      "meaning": "pot, jug (for coffee, tea)",
+      "article": "die",
+      "pos": "noun",
+      "rank": 2403,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "home",
+      "example": "Ist Wasser in der Kanne?",
+      "translation": "Is there any water in the pot?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Kanne"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Kanne",
+          "answer": "pot, jug (for coffee, tea)",
+          "options": [
+            "painkiller",
+            "habit",
+            "pot, jug (for coffee, tea)",
+            "credit card"
+          ],
+          "explanation": "die Kanne = pot, jug (for coffee, tea)\nIst Wasser in der Kanne?\nIs there any water in the pot?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "pot, jug (for coffee, tea)",
+          "answer": "Kanne",
+          "options": [
+            "Kreditkarte",
+            "Schmerzmittel",
+            "Kanne",
+            "Gewohnheit"
+          ],
+          "explanation": "die Kanne = pot, jug (for coffee, tea)\nIst Wasser in der Kanne?\nIs there any water in the pot?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ist Wasser in der ___?\nIs there any water in the pot?",
+          "answer": "Kanne",
+          "options": [
+            "Krankenschwester",
+            "Kreditkarte",
+            "Gewohnheit",
+            "Kanne"
+          ],
+          "explanation": "die Kanne = pot, jug (for coffee, tea)\nIst Wasser in der Kanne?\nIs there any water in the pot?",
+          "contextSentence": "Ist Wasser in der ___?"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Kanne",
+          "answer": "die",
+          "options": [
+            "die",
+            "der",
+            "das"
+          ],
+          "explanation": "die Kanne = pot, jug (for coffee, tea)\nIst Wasser in der Kanne?\nIs there any water in the pot?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Kanne:noun:3e59a85194539527",
+      "sourceGlosses": [
+        "jug, pitcher, pot, can (container for pouring fluids, especially beverages, often having spout and handle)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Kanne#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/1862718",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #1862718 by Tamy (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/33410",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #33410 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:08Z",
+      "batch": "b1-027"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Zange:fdd69f3ac7f4a778",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Zange",
+      "lemmaGroup": "Zange",
+      "meaning": "pliers, tongs",
+      "article": "die",
+      "pos": "noun",
+      "rank": 2404,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "home",
+      "example": "Wofür brauchst du eine Zange?",
+      "translation": "Why do you need a pair of pliers?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Zange"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Zange",
+          "answer": "pliers, tongs",
+          "options": [
+            "hammer, mallet",
+            "taste",
+            "pliers, tongs",
+            "reporter"
+          ],
+          "explanation": "die Zange = pliers, tongs\nWofür brauchst du eine Zange?\nWhy do you need a pair of pliers?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "pliers, tongs",
+          "answer": "Zange",
+          "options": [
+            "Hammer",
+            "Geschmack",
+            "Zange",
+            "Reporter"
+          ],
+          "explanation": "die Zange = pliers, tongs\nWofür brauchst du eine Zange?\nWhy do you need a pair of pliers?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wofür brauchst du eine ___?\nWhy do you need a pair of pliers?",
+          "answer": "Zange",
+          "options": [
+            "Zange",
+            "Kneipe",
+            "Übersetzung",
+            "Plattform"
+          ],
+          "explanation": "die Zange = pliers, tongs\nWofür brauchst du eine Zange?\nWhy do you need a pair of pliers?",
+          "contextSentence": "Wofür brauchst du eine ___?"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Zange",
+          "answer": "die",
+          "options": [
+            "der",
+            "das",
+            "die"
+          ],
+          "explanation": "die Zange = pliers, tongs\nWofür brauchst du eine Zange?\nWhy do you need a pair of pliers?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Zange:noun:fdd69f3ac7f4a778",
+      "sourceGlosses": [
+        "a pair of pincers, pliers, tongs, forceps"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Zange#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/12276428",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #12276428 by Yorwba (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/9409017",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #9409017 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:08Z",
+      "batch": "b1-027"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Nachhilfe:5c417ef074f86166",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Nachhilfe",
+      "lemmaGroup": "Nachhilfe",
+      "meaning": "tutoring, extra lessons",
+      "article": "die",
+      "pos": "noun",
+      "rank": 2405,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "education",
+      "example": "Brauchst du Nachhilfe in Deutsch?",
+      "translation": "Do you need a tutor for German?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Nachhilfe"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Nachhilfe",
+          "answer": "tutoring, extra lessons",
+          "options": [
+            "tutoring, extra lessons",
+            "mayor",
+            "information",
+            "boredom"
+          ],
+          "explanation": "die Nachhilfe = tutoring, extra lessons\nBrauchst du Nachhilfe in Deutsch?\nDo you need a tutor for German?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "tutoring, extra lessons",
+          "answer": "Nachhilfe",
+          "options": [
+            "Bürgermeister",
+            "Nachhilfe",
+            "Information",
+            "Langeweile"
+          ],
+          "explanation": "die Nachhilfe = tutoring, extra lessons\nBrauchst du Nachhilfe in Deutsch?\nDo you need a tutor for German?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Brauchst du ___ in Deutsch?\nDo you need a tutor for German?",
+          "answer": "Nachhilfe",
+          "options": [
+            "Gefahr",
+            "Arbeit",
+            "Nachhilfe",
+            "Musik"
+          ],
+          "explanation": "die Nachhilfe = tutoring, extra lessons\nBrauchst du Nachhilfe in Deutsch?\nDo you need a tutor for German?",
+          "contextSentence": "Brauchst du ___ in Deutsch?"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Nachhilfe",
+          "answer": "die",
+          "options": [
+            "das",
+            "der",
+            "die"
+          ],
+          "explanation": "die Nachhilfe = tutoring, extra lessons\nBrauchst du Nachhilfe in Deutsch?\nDo you need a tutor for German?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Nachhilfe:noun:5c417ef074f86166",
+      "sourceGlosses": [
+        "private lessons, coaching, tuition, tutoring"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Nachhilfe#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/10636892",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #10636892 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/10636480",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #10636480 by AlanF_US (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:08Z",
+      "batch": "b1-027"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Puzzle:6d008b73ae5e5ebb",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Puzzle",
+      "lemmaGroup": "Puzzle",
+      "meaning": "jigsaw puzzle",
+      "article": "das",
+      "pos": "noun",
+      "rank": 2406,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "leisure",
+      "example": "Ich habe ein neues Puzzle gekauft.",
+      "translation": "I bought a new jigsaw puzzle.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Puzzle"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Puzzle",
+          "answer": "jigsaw puzzle",
+          "options": [
+            "jigsaw puzzle",
+            "wall (stone, brick)",
+            "fairy tale",
+            "fact"
+          ],
+          "explanation": "das Puzzle = jigsaw puzzle\nIch habe ein neues Puzzle gekauft.\nI bought a new jigsaw puzzle."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "jigsaw puzzle",
+          "answer": "Puzzle",
+          "options": [
+            "Mauer",
+            "Märchen",
+            "Puzzle",
+            "Tatsache"
+          ],
+          "explanation": "das Puzzle = jigsaw puzzle\nIch habe ein neues Puzzle gekauft.\nI bought a new jigsaw puzzle."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich habe ein neues ___ gekauft.\nI bought a new jigsaw puzzle.",
+          "answer": "Puzzle",
+          "options": [
+            "Institut",
+            "Märchen",
+            "Puzzle",
+            "Abonnement"
+          ],
+          "explanation": "das Puzzle = jigsaw puzzle\nIch habe ein neues Puzzle gekauft.\nI bought a new jigsaw puzzle.",
+          "contextSentence": "Ich habe ein neues ___ gekauft."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Puzzle",
+          "answer": "das",
+          "options": [
+            "das",
+            "der",
+            "die"
+          ],
+          "explanation": "das Puzzle = jigsaw puzzle\nIch habe ein neues Puzzle gekauft.\nI bought a new jigsaw puzzle."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Puzzle:noun:6d008b73ae5e5ebb",
+      "sourceGlosses": [
+        "jigsaw puzzle"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Puzzle#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/6972200",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #6972200 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/6616506",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #6616506 by Eccles17 (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:08Z",
+      "batch": "b1-027"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Knödel:e9268901a4de4903",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Knödel",
+      "lemmaGroup": "Knödel",
+      "meaning": "dumpling",
+      "article": "der",
+      "pos": "noun",
+      "rank": 2407,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "food",
+      "example": "Ich hätte großen Appetit auf Knödel.",
+      "translation": "I really want to eat dumplings.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Knödel"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Knödel",
+          "answer": "dumpling",
+          "options": [
+            "jigsaw puzzle",
+            "doubt",
+            "dumpling",
+            "hill"
+          ],
+          "explanation": "der Knödel = dumpling\nIch hätte großen Appetit auf Knödel.\nI really want to eat dumplings."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "dumpling",
+          "answer": "Knödel",
+          "options": [
+            "Hügel",
+            "Zweifel",
+            "Puzzle",
+            "Knödel"
+          ],
+          "explanation": "der Knödel = dumpling\nIch hätte großen Appetit auf Knödel.\nI really want to eat dumplings."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich hätte großen Appetit auf ___.\nI really want to eat dumplings.",
+          "answer": "Knödel",
+          "options": [
+            "Rasen",
+            "Schreiben",
+            "Knödel",
+            "Mädchen"
+          ],
+          "explanation": "der Knödel = dumpling\nIch hätte großen Appetit auf Knödel.\nI really want to eat dumplings.",
+          "contextSentence": "Ich hätte großen Appetit auf ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Knödel",
+          "answer": "der",
+          "options": [
+            "die",
+            "das",
+            "der"
+          ],
+          "explanation": "der Knödel = dumpling\nIch hätte großen Appetit auf Knödel.\nI really want to eat dumplings."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Knödel:noun:e9268901a4de4903",
+      "sourceGlosses": [
+        "dumpling"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Kn%C3%B6del#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/10322761",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #10322761 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/10321378",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #10321378 by AlanF_US (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Swimmingpool:95249ecb3068d785",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Swimmingpool",
+      "lemmaGroup": "Swimmingpool",
+      "meaning": "swimming pool",
+      "article": "der",
+      "pos": "noun",
+      "rank": 2408,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "leisure",
+      "example": "Wo ist der Swimmingpool?",
+      "translation": "Where's the swimming pool?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Swimmingpool"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Swimmingpool",
+          "answer": "swimming pool",
+          "options": [
+            "can, tin",
+            "bikini",
+            "swimming pool",
+            "consent, approval"
+          ],
+          "explanation": "der Swimmingpool = swimming pool\nWo ist der Swimmingpool?\nWhere's the swimming pool?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "swimming pool",
+          "answer": "Swimmingpool",
+          "options": [
+            "Büchse",
+            "Swimmingpool",
+            "Zustimmung",
+            "Bikini"
+          ],
+          "explanation": "der Swimmingpool = swimming pool\nWo ist der Swimmingpool?\nWhere's the swimming pool?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wo ist der ___?\nWhere's the swimming pool?",
+          "answer": "Swimmingpool",
+          "options": [
+            "Swimmingpool",
+            "Fußgänger",
+            "Knochen",
+            "Bikini"
+          ],
+          "explanation": "der Swimmingpool = swimming pool\nWo ist der Swimmingpool?\nWhere's the swimming pool?",
+          "contextSentence": "Wo ist der ___?"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Swimmingpool",
+          "answer": "der",
+          "options": [
+            "der",
+            "die",
+            "das"
+          ],
+          "explanation": "der Swimmingpool = swimming pool\nWo ist der Swimmingpool?\nWhere's the swimming pool?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Swimmingpool:noun:95249ecb3068d785",
+      "sourceGlosses": [
+        "swimming pool"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Swimmingpool#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/8322866",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #8322866 by Luiaard (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/4013693",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #4013693 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Taschentuch:7db63bcfe0a23916",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Taschentuch",
+      "lemmaGroup": "Taschentuch",
+      "meaning": "handkerchief",
+      "article": "das",
+      "pos": "noun",
+      "rank": 2409,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Du hast dein Taschentuch fallen lassen.",
+      "translation": "You dropped your handkerchief.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Taschentuch"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Taschentuch",
+          "answer": "handkerchief",
+          "options": [
+            "joke",
+            "singer",
+            "handkerchief",
+            "armchair, easy chair"
+          ],
+          "explanation": "das Taschentuch = handkerchief\nDu hast dein Taschentuch fallen lassen.\nYou dropped your handkerchief."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "handkerchief",
+          "answer": "Taschentuch",
+          "options": [
+            "Taschentuch",
+            "Witz",
+            "Sänger",
+            "Sessel"
+          ],
+          "explanation": "das Taschentuch = handkerchief\nDu hast dein Taschentuch fallen lassen.\nYou dropped your handkerchief."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Du hast dein ___ fallen lassen.\nYou dropped your handkerchief.",
+          "answer": "Taschentuch",
+          "options": [
+            "Talent",
+            "Fundbüro",
+            "Camp",
+            "Taschentuch"
+          ],
+          "explanation": "das Taschentuch = handkerchief\nDu hast dein Taschentuch fallen lassen.\nYou dropped your handkerchief.",
+          "contextSentence": "Du hast dein ___ fallen lassen."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Taschentuch",
+          "answer": "das",
+          "options": [
+            "das",
+            "der",
+            "die"
+          ],
+          "explanation": "das Taschentuch = handkerchief\nDu hast dein Taschentuch fallen lassen.\nYou dropped your handkerchief."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Taschentuch:noun:7db63bcfe0a23916",
+      "sourceGlosses": [
+        "handkerchief"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Taschentuch#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/12531119",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #12531119 by mayabe (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/69276",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #69276 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Feuerzeug:1a15c2305a52405d",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Feuerzeug",
+      "lemmaGroup": "Feuerzeug",
+      "meaning": "lighter",
+      "article": "das",
+      "pos": "noun",
+      "rank": 2410,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Ist dein Feuerzeug neu?",
+      "translation": "Is your lighter new?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Feuerzeug"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Feuerzeug",
+          "answer": "lighter",
+          "options": [
+            "second language",
+            "elephant",
+            "travel agency",
+            "lighter"
+          ],
+          "explanation": "das Feuerzeug = lighter\nIst dein Feuerzeug neu?\nIs your lighter new?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "lighter",
+          "answer": "Feuerzeug",
+          "options": [
+            "Elefant",
+            "Zweitsprache",
+            "Feuerzeug",
+            "Reisebüro"
+          ],
+          "explanation": "das Feuerzeug = lighter\nIst dein Feuerzeug neu?\nIs your lighter new?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ist dein ___ neu?\nIs your lighter new?",
+          "answer": "Feuerzeug",
+          "options": [
+            "Referat",
+            "Feuerzeug",
+            "Laufwerk",
+            "Reisebüro"
+          ],
+          "explanation": "das Feuerzeug = lighter\nIst dein Feuerzeug neu?\nIs your lighter new?",
+          "contextSentence": "Ist dein ___ neu?"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Feuerzeug",
+          "answer": "das",
+          "options": [
+            "die",
+            "der",
+            "das"
+          ],
+          "explanation": "das Feuerzeug = lighter\nIst dein Feuerzeug neu?\nIs your lighter new?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Feuerzeug:noun:1a15c2305a52405d",
+      "sourceGlosses": [
+        "lighter"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Feuerzeug#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/9524268",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #9524268 by Taam (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/9524269",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #9524269 by Taam (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Kassette:926f3d1fbcd6edf4",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Kassette",
+      "lemmaGroup": "Kassette",
+      "meaning": "cassette, tape",
+      "article": "die",
+      "pos": "noun",
+      "rank": 2411,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "technology",
+      "example": "Ich spulte die Kassette zurück.",
+      "translation": "I rewound the cassette.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Kassette"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Kassette",
+          "answer": "cassette, tape",
+          "options": [
+            "steak",
+            "cassette, tape",
+            "style",
+            "culture"
+          ],
+          "explanation": "die Kassette = cassette, tape\nIch spulte die Kassette zurück.\nI rewound the cassette."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "cassette, tape",
+          "answer": "Kassette",
+          "options": [
+            "Steak",
+            "Kassette",
+            "Kultur",
+            "Stil"
+          ],
+          "explanation": "die Kassette = cassette, tape\nIch spulte die Kassette zurück.\nI rewound the cassette."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich spulte die ___ zurück.\nI rewound the cassette.",
+          "answer": "Kassette",
+          "options": [
+            "Limonade",
+            "Kassette",
+            "Badewanne",
+            "Kultur"
+          ],
+          "explanation": "die Kassette = cassette, tape\nIch spulte die Kassette zurück.\nI rewound the cassette.",
+          "contextSentence": "Ich spulte die ___ zurück."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Kassette",
+          "answer": "die",
+          "options": [
+            "die",
+            "der",
+            "das"
+          ],
+          "explanation": "die Kassette = cassette, tape\nIch spulte die Kassette zurück.\nI rewound the cassette."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Kassette:noun:926f3d1fbcd6edf4",
+      "sourceGlosses": [
+        "cassette"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Kassette#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/9579187",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #9579187 by brauchinet (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/11051736",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #11051736 by sundown (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Salbe:5a3641993c256e35",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Salbe",
+      "lemmaGroup": "Salbe",
+      "meaning": "ointment, cream",
+      "article": "die",
+      "pos": "noun",
+      "rank": 2412,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "health",
+      "example": "Tom trägt eine Salbe auf seine Wunde auf.",
+      "translation": "Tom is applying ointment to his wound.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Salbe"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Salbe",
+          "answer": "ointment, cream",
+          "options": [
+            "ointment, cream",
+            "adult education centre",
+            "edition (of a book, magazine)",
+            "appointment diary, planner"
+          ],
+          "explanation": "die Salbe = ointment, cream\nTom trägt eine Salbe auf seine Wunde auf.\nTom is applying ointment to his wound."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "ointment, cream",
+          "answer": "Salbe",
+          "options": [
+            "Volkshochschule",
+            "Terminkalender",
+            "Salbe",
+            "Ausgabe"
+          ],
+          "explanation": "die Salbe = ointment, cream\nTom trägt eine Salbe auf seine Wunde auf.\nTom is applying ointment to his wound."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Tom trägt eine ___ auf seine Wunde auf.\nTom is applying ointment to his wound.",
+          "answer": "Salbe",
+          "options": [
+            "Ausgabe",
+            "Salbe",
+            "Schachtel",
+            "Volkshochschule"
+          ],
+          "explanation": "die Salbe = ointment, cream\nTom trägt eine Salbe auf seine Wunde auf.\nTom is applying ointment to his wound.",
+          "contextSentence": "Tom trägt eine ___ auf seine Wunde auf."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Salbe",
+          "answer": "die",
+          "options": [
+            "der",
+            "die",
+            "das"
+          ],
+          "explanation": "die Salbe = ointment, cream\nTom trägt eine Salbe auf seine Wunde auf.\nTom is applying ointment to his wound."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Salbe:noun:5a3641993c256e35",
+      "sourceGlosses": [
+        "ointment, salve"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Salbe#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/1714615",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #1714615 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/1665573",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #1665573 by Amastan (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Heimweh:a520d63c58094231",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Heimweh",
+      "lemmaGroup": "Heimweh",
+      "meaning": "homesickness",
+      "article": "das",
+      "pos": "noun",
+      "rank": 2413,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "feelings",
+      "example": "Hast du auch Heimweh?",
+      "translation": "Are you homesick, too?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Heimweh"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Heimweh",
+          "answer": "homesickness",
+          "options": [
+            "asylum (political)",
+            "homesickness",
+            "meaning",
+            "flight attendant, stewardess"
+          ],
+          "explanation": "das Heimweh = homesickness\nHast du auch Heimweh?\nAre you homesick, too?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "homesickness",
+          "answer": "Heimweh",
+          "options": [
+            "Bedeutung",
+            "Asyl",
+            "Heimweh",
+            "Stewardess"
+          ],
+          "explanation": "das Heimweh = homesickness\nHast du auch Heimweh?\nAre you homesick, too?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Hast du auch ___?\nAre you homesick, too?",
+          "answer": "Heimweh",
+          "options": [
+            "Essen",
+            "Wissen",
+            "Heimweh",
+            "Verkehrszeichen"
+          ],
+          "explanation": "das Heimweh = homesickness\nHast du auch Heimweh?\nAre you homesick, too?",
+          "contextSentence": "Hast du auch ___?"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Heimweh",
+          "answer": "das",
+          "options": [
+            "die",
+            "das",
+            "der"
+          ],
+          "explanation": "das Heimweh = homesickness\nHast du auch Heimweh?\nAre you homesick, too?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Heimweh:noun:a520d63c58094231",
+      "sourceGlosses": [
+        "homesickness"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Heimweh#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/8810605",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #8810605 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/8810604",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #8810604 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Strumpf:709c1a3ec65960f9",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Strumpf",
+      "lemmaGroup": "Strumpf",
+      "meaning": "stocking",
+      "article": "der",
+      "pos": "noun",
+      "rank": 2414,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "shopping",
+      "example": "In deinem Strumpf ist ein großes Loch.",
+      "translation": "There is a big hole in your stocking.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Strumpf"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Strumpf",
+          "answer": "stocking",
+          "options": [
+            "escape, flight",
+            "appointment, date",
+            "stocking",
+            "record"
+          ],
+          "explanation": "der Strumpf = stocking\nIn deinem Strumpf ist ein großes Loch.\nThere is a big hole in your stocking."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "stocking",
+          "answer": "Strumpf",
+          "options": [
+            "Flucht",
+            "Termin",
+            "Rekord",
+            "Strumpf"
+          ],
+          "explanation": "der Strumpf = stocking\nIn deinem Strumpf ist ein großes Loch.\nThere is a big hole in your stocking."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "In deinem ___ ist ein großes Loch.\nThere is a big hole in your stocking.",
+          "answer": "Strumpf",
+          "options": [
+            "Termin",
+            "Export",
+            "Rekord",
+            "Strumpf"
+          ],
+          "explanation": "der Strumpf = stocking\nIn deinem Strumpf ist ein großes Loch.\nThere is a big hole in your stocking.",
+          "contextSentence": "In deinem ___ ist ein großes Loch."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Strumpf",
+          "answer": "der",
+          "options": [
+            "die",
+            "der",
+            "das"
+          ],
+          "explanation": "der Strumpf = stocking\nIn deinem Strumpf ist ein großes Loch.\nThere is a big hole in your stocking."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Strumpf:noun:709c1a3ec65960f9",
+      "sourceGlosses": [
+        "stocking; hose (women’s undergarment covering the foot, the lower leg, and part of the thigh)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Strumpf#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/12607615",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #12607615 by Augustus (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/17262",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #17262 by Swift (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Wörterbuch:8efc9c7a7287b8af",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Wörterbuch",
+      "lemmaGroup": "Wörterbuch",
+      "meaning": "dictionary",
+      "article": "das",
+      "pos": "noun",
+      "rank": 2415,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "education",
+      "example": "Hast du ein Wörterbuch?",
+      "translation": "Do you have a dictionary?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Wörterbuch"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Wörterbuch",
+          "answer": "dictionary",
+          "options": [
+            "agriculture, farming",
+            "pastries, baked goods",
+            "dictionary",
+            "selection, choice"
+          ],
+          "explanation": "das Wörterbuch = dictionary\nHast du ein Wörterbuch?\nDo you have a dictionary?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "dictionary",
+          "answer": "Wörterbuch",
+          "options": [
+            "Wörterbuch",
+            "Auswahl",
+            "Gebäck",
+            "Landwirtschaft"
+          ],
+          "explanation": "das Wörterbuch = dictionary\nHast du ein Wörterbuch?\nDo you have a dictionary?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Hast du ein ___?\nDo you have a dictionary?",
+          "answer": "Wörterbuch",
+          "options": [
+            "Telefon",
+            "Gebäck",
+            "Wörterbuch",
+            "Einschreiben"
+          ],
+          "explanation": "das Wörterbuch = dictionary\nHast du ein Wörterbuch?\nDo you have a dictionary?",
+          "contextSentence": "Hast du ein ___?"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Wörterbuch",
+          "answer": "das",
+          "options": [
+            "der",
+            "die",
+            "das"
+          ],
+          "explanation": "das Wörterbuch = dictionary\nHast du ein Wörterbuch?\nDo you have a dictionary?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Wörterbuch:noun:8efc9c7a7287b8af",
+      "sourceGlosses": [
+        "dictionary (reference work with a list of words from one or more languages, and their definitions or translations)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/W%C3%B6rterbuch#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2654809",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2654809 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2654806",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2654806 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Gymnastik:cf1d9897b6c6cad1",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Gymnastik",
+      "lemmaGroup": "Gymnastik",
+      "meaning": "exercises, gymnastics",
+      "article": "die",
+      "pos": "noun",
+      "rank": 2416,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "health",
+      "example": "Mach ein bisschen Gymnastik!",
+      "translation": "Do a little gymnastics!",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Gymnastik"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Gymnastik",
+          "answer": "exercises, gymnastics",
+          "options": [
+            "exercises, gymnastics",
+            "carrot",
+            "return trip, journey back",
+            "introduction"
+          ],
+          "explanation": "die Gymnastik = exercises, gymnastics\nMach ein bisschen Gymnastik!\nDo a little gymnastics!"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "exercises, gymnastics",
+          "answer": "Gymnastik",
+          "options": [
+            "Gymnastik",
+            "Rückfahrt",
+            "Möhre",
+            "Einleitung"
+          ],
+          "explanation": "die Gymnastik = exercises, gymnastics\nMach ein bisschen Gymnastik!\nDo a little gymnastics!"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Mach ein bisschen ___!\nDo a little gymnastics!",
+          "answer": "Gymnastik",
+          "options": [
+            "Gymnastik",
+            "Einleitung",
+            "Rückfahrt",
+            "Möhre"
+          ],
+          "explanation": "die Gymnastik = exercises, gymnastics\nMach ein bisschen Gymnastik!\nDo a little gymnastics!",
+          "contextSentence": "Mach ein bisschen ___!"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Gymnastik",
+          "answer": "die",
+          "options": [
+            "das",
+            "der",
+            "die"
+          ],
+          "explanation": "die Gymnastik = exercises, gymnastics\nMach ein bisschen Gymnastik!\nDo a little gymnastics!"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Gymnastik:noun:cf1d9897b6c6cad1",
+      "sourceGlosses": [
+        "gymnastics"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Gymnastik#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2355171",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2355171 by al_ex_an_der (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2266477",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2266477 by MethodGT (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Mappe:29462116730e4b12",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Mappe",
+      "lemmaGroup": "Mappe",
+      "meaning": "folder",
+      "article": "die",
+      "pos": "noun",
+      "rank": 2417,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Ich habe meine Mappe verloren.",
+      "translation": "I lost my folder.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Mappe"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Mappe",
+          "answer": "folder",
+          "options": [
+            "motorcycle",
+            "bowl",
+            "folder",
+            "presentation, oral report"
+          ],
+          "explanation": "die Mappe = folder\nIch habe meine Mappe verloren.\nI lost my folder."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "folder",
+          "answer": "Mappe",
+          "options": [
+            "Motorrad",
+            "Mappe",
+            "Schüssel",
+            "Referat"
+          ],
+          "explanation": "die Mappe = folder\nIch habe meine Mappe verloren.\nI lost my folder."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich habe meine ___ verloren.\nI lost my folder.",
+          "answer": "Mappe",
+          "options": [
+            "Bedienungsanleitung",
+            "Mappe",
+            "Dose",
+            "Schüssel"
+          ],
+          "explanation": "die Mappe = folder\nIch habe meine Mappe verloren.\nI lost my folder.",
+          "contextSentence": "Ich habe meine ___ verloren."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Mappe",
+          "answer": "die",
+          "options": [
+            "die",
+            "das",
+            "der"
+          ],
+          "explanation": "die Mappe = folder\nIch habe meine Mappe verloren.\nI lost my folder."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Mappe:noun:29462116730e4b12",
+      "sourceGlosses": [
+        "folder"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Mappe#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/12296307",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #12296307 by mhr (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/13733170",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #13733170 by araneo (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Margarine:3e04aa3d31516226",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Margarine",
+      "lemmaGroup": "Margarine",
+      "meaning": "margarine",
+      "article": "die",
+      "pos": "noun",
+      "rank": 2418,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "food",
+      "example": "Ich esse keine Margarine.",
+      "translation": "I don't eat margarine.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Margarine"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Margarine",
+          "answer": "margarine",
+          "options": [
+            "margarine",
+            "socket, power outlet",
+            "nose",
+            "cassette, tape"
+          ],
+          "explanation": "die Margarine = margarine\nIch esse keine Margarine.\nI don't eat margarine."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "margarine",
+          "answer": "Margarine",
+          "options": [
+            "Nase",
+            "Margarine",
+            "Kassette",
+            "Steckdose"
+          ],
+          "explanation": "die Margarine = margarine\nIch esse keine Margarine.\nI don't eat margarine."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich esse keine ___.\nI don't eat margarine.",
+          "answer": "Margarine",
+          "options": [
+            "Kassette",
+            "Margarine",
+            "Nase",
+            "Steckdose"
+          ],
+          "explanation": "die Margarine = margarine\nIch esse keine Margarine.\nI don't eat margarine.",
+          "contextSentence": "Ich esse keine ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Margarine",
+          "answer": "die",
+          "options": [
+            "die",
+            "der",
+            "das"
+          ],
+          "explanation": "die Margarine = margarine\nIch esse keine Margarine.\nI don't eat margarine."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Margarine:noun:3e04aa3d31516226",
+      "sourceGlosses": [
+        "margarine"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Margarine#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/12572471",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #12572471 by Waldelfe (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/9225699",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #9225699 by rafaeldejesus8199 (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Nachspeise:b6b46d8676f8a3f8",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Nachspeise",
+      "lemmaGroup": "Nachspeise",
+      "meaning": "dessert",
+      "article": "die",
+      "pos": "noun",
+      "rank": 2419,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "food",
+      "example": "Möchtest du eine Nachspeise?",
+      "translation": "Would you like any dessert?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Nachspeise"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Nachspeise",
+          "answer": "dessert",
+          "options": [
+            "stereo (system)",
+            "dessert",
+            "gold",
+            "ship"
+          ],
+          "explanation": "die Nachspeise = dessert\nMöchtest du eine Nachspeise?\nWould you like any dessert?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "dessert",
+          "answer": "Nachspeise",
+          "options": [
+            "Schiff",
+            "Gold",
+            "Nachspeise",
+            "Anlage"
+          ],
+          "explanation": "die Nachspeise = dessert\nMöchtest du eine Nachspeise?\nWould you like any dessert?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Möchtest du eine ___?\nWould you like any dessert?",
+          "answer": "Nachspeise",
+          "options": [
+            "Garantie",
+            "Nachspeise",
+            "Anlage",
+            "Flüssigkeit"
+          ],
+          "explanation": "die Nachspeise = dessert\nMöchtest du eine Nachspeise?\nWould you like any dessert?",
+          "contextSentence": "Möchtest du eine ___?"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Nachspeise",
+          "answer": "die",
+          "options": [
+            "das",
+            "die",
+            "der"
+          ],
+          "explanation": "die Nachspeise = dessert\nMöchtest du eine Nachspeise?\nWould you like any dessert?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Nachspeise:noun:b6b46d8676f8a3f8",
+      "sourceGlosses": [
+        "dessert"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Nachspeise#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/849567",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #849567 by jakov (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/680221",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #680221 by Source_VOA (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Bedienungsanleitung:9d7b0d3419eda783",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Bedienungsanleitung",
+      "lemmaGroup": "Bedienungsanleitung",
+      "meaning": "user manual, operating instructions",
+      "article": "die",
+      "pos": "noun",
+      "rank": 2420,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "technology",
+      "example": "Was sagt die Bedienungsanleitung?",
+      "translation": "What do the instructions say?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Bedienungsanleitung"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Bedienungsanleitung",
+          "answer": "user manual, operating instructions",
+          "options": [
+            "candle",
+            "environmental protection",
+            "fruit",
+            "user manual, operating instructions"
+          ],
+          "explanation": "die Bedienungsanleitung = user manual, operating instructions\nWas sagt die Bedienungsanleitung?\nWhat do the instructions say?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "user manual, operating instructions",
+          "answer": "Bedienungsanleitung",
+          "options": [
+            "Bedienungsanleitung",
+            "Obst",
+            "Umweltschutz",
+            "Kerze"
+          ],
+          "explanation": "die Bedienungsanleitung = user manual, operating instructions\nWas sagt die Bedienungsanleitung?\nWhat do the instructions say?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Was sagt die ___?\nWhat do the instructions say?",
+          "answer": "Bedienungsanleitung",
+          "options": [
+            "Mahlzeit",
+            "Bedienungsanleitung",
+            "Maschine",
+            "Kerze"
+          ],
+          "explanation": "die Bedienungsanleitung = user manual, operating instructions\nWas sagt die Bedienungsanleitung?\nWhat do the instructions say?",
+          "contextSentence": "Was sagt die ___?"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Bedienungsanleitung",
+          "answer": "die",
+          "options": [
+            "das",
+            "der",
+            "die"
+          ],
+          "explanation": "die Bedienungsanleitung = user manual, operating instructions\nWas sagt die Bedienungsanleitung?\nWhat do the instructions say?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Bedienungsanleitung:noun:9d7b0d3419eda783",
+      "sourceGlosses": [
+        "operating manual, user's guide"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Bedienungsanleitung#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/6588767",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #6588767 by brauchinet (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/6588590",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #6588590 by Eccles17 (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Stewardess:7d8baa8e8581d575",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Stewardess",
+      "lemmaGroup": "Stewardess",
+      "meaning": "flight attendant, stewardess",
+      "article": "die",
+      "pos": "noun",
+      "rank": 2421,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "travel",
+      "example": "Er hat eine Stewardess geheiratet.",
+      "translation": "He married a stewardess.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Stewardess"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Stewardess",
+          "answer": "flight attendant, stewardess",
+          "options": [
+            "ground floor",
+            "flight attendant, stewardess",
+            "landing",
+            "quality"
+          ],
+          "explanation": "die Stewardess = flight attendant, stewardess\nEr hat eine Stewardess geheiratet.\nHe married a stewardess."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "flight attendant, stewardess",
+          "answer": "Stewardess",
+          "options": [
+            "Landung",
+            "Qualität",
+            "Erdgeschoss",
+            "Stewardess"
+          ],
+          "explanation": "die Stewardess = flight attendant, stewardess\nEr hat eine Stewardess geheiratet.\nHe married a stewardess."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Er hat eine ___ geheiratet.\nHe married a stewardess.",
+          "answer": "Stewardess",
+          "options": [
+            "Landung",
+            "Überstunde",
+            "Qualität",
+            "Stewardess"
+          ],
+          "explanation": "die Stewardess = flight attendant, stewardess\nEr hat eine Stewardess geheiratet.\nHe married a stewardess.",
+          "contextSentence": "Er hat eine ___ geheiratet."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Stewardess",
+          "answer": "die",
+          "options": [
+            "der",
+            "das",
+            "die"
+          ],
+          "explanation": "die Stewardess = flight attendant, stewardess\nEr hat eine Stewardess geheiratet.\nHe married a stewardess."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Stewardess:noun:7d8baa8e8581d575",
+      "sourceGlosses": [
+        "stewardess"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Stewardess#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/734475",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #734475 by Dejo (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/290277",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #290277 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Gebrauchsanweisung:7a27e88ce148d30e",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Gebrauchsanweisung",
+      "lemmaGroup": "Gebrauchsanweisung",
+      "meaning": "instructions for use, manual",
+      "article": "die",
+      "pos": "noun",
+      "rank": 2422,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "technology",
+      "example": "Hast du nicht die Gebrauchsanweisung gelesen?",
+      "translation": "Didn't you read the manual?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Gebrauchsanweisung"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Gebrauchsanweisung",
+          "answer": "instructions for use, manual",
+          "options": [
+            "chest",
+            "harbour, port",
+            "instructions for use, manual",
+            "weather forecast"
+          ],
+          "explanation": "die Gebrauchsanweisung = instructions for use, manual\nHast du nicht die Gebrauchsanweisung gelesen?\nDidn't you read the manual?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "instructions for use, manual",
+          "answer": "Gebrauchsanweisung",
+          "options": [
+            "Brust",
+            "Wettervorhersage",
+            "Gebrauchsanweisung",
+            "Hafen"
+          ],
+          "explanation": "die Gebrauchsanweisung = instructions for use, manual\nHast du nicht die Gebrauchsanweisung gelesen?\nDidn't you read the manual?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Hast du nicht die ___ gelesen?\nDidn't you read the manual?",
+          "answer": "Gebrauchsanweisung",
+          "options": [
+            "Wettervorhersage",
+            "Gebrauchsanweisung",
+            "Brust",
+            "Berufsschule"
+          ],
+          "explanation": "die Gebrauchsanweisung = instructions for use, manual\nHast du nicht die Gebrauchsanweisung gelesen?\nDidn't you read the manual?",
+          "contextSentence": "Hast du nicht die ___ gelesen?"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Gebrauchsanweisung",
+          "answer": "die",
+          "options": [
+            "der",
+            "die",
+            "das"
+          ],
+          "explanation": "die Gebrauchsanweisung = instructions for use, manual\nHast du nicht die Gebrauchsanweisung gelesen?\nDidn't you read the manual?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Gebrauchsanweisung:noun:7a27e88ce148d30e",
+      "sourceGlosses": [
+        "instruction sheet, directions for use, operating manual"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Gebrauchsanweisung#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/3279979",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #3279979 by Manfredo (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2395957",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2395957 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Notausgang:155e3dfa9a5cbc0f",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Notausgang",
+      "lemmaGroup": "Notausgang",
+      "meaning": "emergency exit, fire escape",
+      "article": "der",
+      "pos": "noun",
+      "rank": 2423,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Ich suche den Notausgang.",
+      "translation": "I'm looking for the emergency exit.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Notausgang"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Notausgang",
+          "answer": "emergency exit, fire escape",
+          "options": [
+            "crisis",
+            "emergency exit, fire escape",
+            "sheep",
+            "slice (e.g. of bread)"
+          ],
+          "explanation": "der Notausgang = emergency exit, fire escape\nIch suche den Notausgang.\nI'm looking for the emergency exit."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "emergency exit, fire escape",
+          "answer": "Notausgang",
+          "options": [
+            "Scheibe",
+            "Krise",
+            "Notausgang",
+            "Schaf"
+          ],
+          "explanation": "der Notausgang = emergency exit, fire escape\nIch suche den Notausgang.\nI'm looking for the emergency exit."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich suche den ___.\nI'm looking for the emergency exit.",
+          "answer": "Notausgang",
+          "options": [
+            "Händler",
+            "Tod",
+            "Notausgang",
+            "Krieg"
+          ],
+          "explanation": "der Notausgang = emergency exit, fire escape\nIch suche den Notausgang.\nI'm looking for the emergency exit.",
+          "contextSentence": "Ich suche den ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Notausgang",
+          "answer": "der",
+          "options": [
+            "die",
+            "der",
+            "das"
+          ],
+          "explanation": "der Notausgang = emergency exit, fire escape\nIch suche den Notausgang.\nI'm looking for the emergency exit."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Notausgang:noun:155e3dfa9a5cbc0f",
+      "sourceGlosses": [
+        "emergency exit, fire escape"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Notausgang#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/8320738",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #8320738 by MisterTrouser (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/13006643",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #13006643 by rul (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Nichtraucher:0bc4d09c597c4e1e",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Nichtraucher",
+      "lemmaGroup": "Nichtraucher",
+      "meaning": "non-smoker",
+      "article": "der",
+      "pos": "noun",
+      "rank": 2424,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "people",
+      "example": "Er ist ein Nichtraucher.",
+      "translation": "He's a nonsmoker.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Nichtraucher"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Nichtraucher",
+          "answer": "non-smoker",
+          "options": [
+            "non-smoker",
+            "invention",
+            "poison, venom",
+            "folder"
+          ],
+          "explanation": "der Nichtraucher = non-smoker\nEr ist ein Nichtraucher.\nHe's a nonsmoker."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "non-smoker",
+          "answer": "Nichtraucher",
+          "options": [
+            "Mappe",
+            "Nichtraucher",
+            "Gift",
+            "Erfindung"
+          ],
+          "explanation": "der Nichtraucher = non-smoker\nEr ist ein Nichtraucher.\nHe's a nonsmoker."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Er ist ein ___.\nHe's a nonsmoker.",
+          "answer": "Nichtraucher",
+          "options": [
+            "Wohnsitz",
+            "Stecker",
+            "Nichtraucher",
+            "Bereich"
+          ],
+          "explanation": "der Nichtraucher = non-smoker\nEr ist ein Nichtraucher.\nHe's a nonsmoker.",
+          "contextSentence": "Er ist ein ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Nichtraucher",
+          "answer": "der",
+          "options": [
+            "die",
+            "das",
+            "der"
+          ],
+          "explanation": "der Nichtraucher = non-smoker\nEr ist ein Nichtraucher.\nHe's a nonsmoker."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Nichtraucher:noun:0bc4d09c597c4e1e",
+      "sourceGlosses": [
+        "non-smoker (person who does not smoke tobacco)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Nichtraucher#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/4799865",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #4799865 by bonny37 (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2182167",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2182167 by Hybrid (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Aprikose:2d086701982261ce",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Aprikose",
+      "lemmaGroup": "Aprikose",
+      "meaning": "apricot",
+      "article": "die",
+      "pos": "noun",
+      "rank": 2425,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "food",
+      "example": "Sie isst gern Obst, besonders Aprikosen.",
+      "translation": "She likes fruit, especially apricots.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Aprikose"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Aprikose",
+          "answer": "apricot",
+          "options": [
+            "subscription",
+            "apricot",
+            "organization",
+            "road sign"
+          ],
+          "explanation": "die Aprikose = apricot\nSie isst gern Obst, besonders Aprikosen.\nShe likes fruit, especially apricots."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "apricot",
+          "answer": "Aprikose",
+          "options": [
+            "Organisation",
+            "Verkehrszeichen",
+            "Aprikose",
+            "Abonnement"
+          ],
+          "explanation": "die Aprikose = apricot\nSie isst gern Obst, besonders Aprikosen.\nShe likes fruit, especially apricots."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Sie isst gern Obst, besonders ___.\nShe likes fruit, especially apricots.",
+          "answer": "Aprikosen",
+          "options": [
+            "Familien",
+            "Schlangen",
+            "Aprikosen",
+            "Karrieren"
+          ],
+          "explanation": "die Aprikose = apricot\nSie isst gern Obst, besonders Aprikosen.\nShe likes fruit, especially apricots.",
+          "contextSentence": "Sie isst gern Obst, besonders ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Aprikose",
+          "answer": "die",
+          "options": [
+            "der",
+            "das",
+            "die"
+          ],
+          "explanation": "die Aprikose = apricot\nSie isst gern Obst, besonders Aprikosen.\nShe likes fruit, especially apricots."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Aprikose:noun:2d086701982261ce",
+      "sourceGlosses": [
+        "apricot"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Aprikose#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/8641919",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #8641919 by Melang (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/8910246",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #8910246 by sundown (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Briefumschlag:b38433fc579661e8",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Briefumschlag",
+      "lemmaGroup": "Briefumschlag",
+      "meaning": "envelope",
+      "article": "der",
+      "pos": "noun",
+      "rank": 2426,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "shopping",
+      "example": "Ich kaufe einen Briefumschlag.",
+      "translation": "I'm buying an envelope.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Briefumschlag"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Briefumschlag",
+          "answer": "envelope",
+          "options": [
+            "hairdo, hairstyle",
+            "fish",
+            "centre, center",
+            "envelope"
+          ],
+          "explanation": "der Briefumschlag = envelope\nIch kaufe einen Briefumschlag.\nI'm buying an envelope."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "envelope",
+          "answer": "Briefumschlag",
+          "options": [
+            "Briefumschlag",
+            "Zentrum",
+            "Frisur",
+            "Fisch"
+          ],
+          "explanation": "der Briefumschlag = envelope\nIch kaufe einen Briefumschlag.\nI'm buying an envelope."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich kaufe einen ___.\nI'm buying an envelope.",
+          "answer": "Briefumschlag",
+          "options": [
+            "Rabatt",
+            "Briefumschlag",
+            "Fisch",
+            "Dialekt"
+          ],
+          "explanation": "der Briefumschlag = envelope\nIch kaufe einen Briefumschlag.\nI'm buying an envelope.",
+          "contextSentence": "Ich kaufe einen ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Briefumschlag",
+          "answer": "der",
+          "options": [
+            "der",
+            "das",
+            "die"
+          ],
+          "explanation": "der Briefumschlag = envelope\nIch kaufe einen Briefumschlag.\nI'm buying an envelope."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Briefumschlag:noun:b38433fc579661e8",
+      "sourceGlosses": [
+        "envelope (for a letter)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Briefumschlag#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/8320784",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #8320784 by MisterTrouser (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/13013058",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #13013058 by rul (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Briefträger:a47d5977f042a2ee",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Briefträger",
+      "lemmaGroup": "Briefträger",
+      "meaning": "postman, mail carrier",
+      "article": "der",
+      "pos": "noun",
+      "rank": 2427,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "work",
+      "example": "Es muss der Briefträger sein.",
+      "translation": "It must be the postman.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Briefträger"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Briefträger",
+          "answer": "postman, mail carrier",
+          "options": [
+            "postman, mail carrier",
+            "homesickness",
+            "intern, trainee",
+            "receipt"
+          ],
+          "explanation": "der Briefträger = postman, mail carrier\nEs muss der Briefträger sein.\nIt must be the postman."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "postman, mail carrier",
+          "answer": "Briefträger",
+          "options": [
+            "Praktikant",
+            "Quittung",
+            "Briefträger",
+            "Heimweh"
+          ],
+          "explanation": "der Briefträger = postman, mail carrier\nEs muss der Briefträger sein.\nIt must be the postman."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Es muss der ___ sein.\nIt must be the postman.",
+          "answer": "Briefträger",
+          "options": [
+            "Drucker",
+            "Ring",
+            "Krankenwagen",
+            "Briefträger"
+          ],
+          "explanation": "der Briefträger = postman, mail carrier\nEs muss der Briefträger sein.\nIt must be the postman.",
+          "contextSentence": "Es muss der ___ sein."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Briefträger",
+          "answer": "der",
+          "options": [
+            "der",
+            "das",
+            "die"
+          ],
+          "explanation": "der Briefträger = postman, mail carrier\nEs muss der Briefträger sein.\nIt must be the postman."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Briefträger:noun:a47d5977f042a2ee",
+      "sourceGlosses": [
+        "mailman, postman"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Brieftr%C3%A4ger#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/774973",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #774973 by Esperantostern (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/324534",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #324534 by sundown (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Streichholz:c24f345c0c117aa9",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Streichholz",
+      "lemmaGroup": "Streichholz",
+      "meaning": "match, matchstick",
+      "article": "das",
+      "pos": "noun",
+      "rank": 2428,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "home",
+      "example": "Wo hast du die Streichhölzer?",
+      "translation": "Where do you keep your matches?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Streichholz"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Streichholz",
+          "answer": "match, matchstick",
+          "options": [
+            "token (e.g. for a trolley)",
+            "match, matchstick",
+            "hot chocolate, cocoa",
+            "weather report"
+          ],
+          "explanation": "das Streichholz = match, matchstick\nWo hast du die Streichhölzer?\nWhere do you keep your matches?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "match, matchstick",
+          "answer": "Streichholz",
+          "options": [
+            "Wetterbericht",
+            "Chip",
+            "Kakao",
+            "Streichholz"
+          ],
+          "explanation": "das Streichholz = match, matchstick\nWo hast du die Streichhölzer?\nWhere do you keep your matches?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wo hast du die ___?\nWhere do you keep your matches?",
+          "answer": "Streichhölzer",
+          "options": [
+            "Streichhölzer",
+            "Wetterberichte",
+            "Chips",
+            "Kakaos"
+          ],
+          "explanation": "das Streichholz = match, matchstick\nWo hast du die Streichhölzer?\nWhere do you keep your matches?",
+          "contextSentence": "Wo hast du die ___?"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Streichholz",
+          "answer": "das",
+          "options": [
+            "das",
+            "die",
+            "der"
+          ],
+          "explanation": "das Streichholz = match, matchstick\nWo hast du die Streichhölzer?\nWhere do you keep your matches?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Streichholz:noun:c24f345c0c117aa9",
+      "sourceGlosses": [
+        "match (device to make fire), matchstick"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Streichholz#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/10300277",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #10300277 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/10298747",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #10298747 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Zweitsprache:8572e3a4052ad1bc",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Zweitsprache",
+      "lemmaGroup": "Zweitsprache",
+      "meaning": "second language",
+      "article": "die",
+      "pos": "noun",
+      "rank": 2429,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "education",
+      "example": "Esperanto ist meine Zweitsprache.",
+      "translation": "Esperanto is my second language.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Zweitsprache"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Zweitsprache",
+          "answer": "second language",
+          "options": [
+            "page (of a book)",
+            "consultation, advice",
+            "appointment, arrangement to meet",
+            "second language"
+          ],
+          "explanation": "die Zweitsprache = second language\nEsperanto ist meine Zweitsprache.\nEsperanto is my second language."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "second language",
+          "answer": "Zweitsprache",
+          "options": [
+            "Verabredung",
+            "Beratung",
+            "Seite",
+            "Zweitsprache"
+          ],
+          "explanation": "die Zweitsprache = second language\nEsperanto ist meine Zweitsprache.\nEsperanto is my second language."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Esperanto ist meine ___.\nEsperanto is my second language.",
+          "answer": "Zweitsprache",
+          "options": [
+            "Beratung",
+            "Verabredung",
+            "Seite",
+            "Zweitsprache"
+          ],
+          "explanation": "die Zweitsprache = second language\nEsperanto ist meine Zweitsprache.\nEsperanto is my second language.",
+          "contextSentence": "Esperanto ist meine ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Zweitsprache",
+          "answer": "die",
+          "options": [
+            "die",
+            "das",
+            "der"
+          ],
+          "explanation": "die Zweitsprache = second language\nEsperanto ist meine Zweitsprache.\nEsperanto is my second language."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Zweitsprache:noun:8572e3a4052ad1bc",
+      "sourceGlosses": [
+        "A learned second language"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Zweitsprache#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/13518715",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #13518715 by Vortarulo (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/13586419",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #13586419 by araneo (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:staubsaugen:26f59f8d0c011f4c",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "staubsaugen",
+      "lemmaGroup": "staubsaugen",
+      "meaning": "to vacuum, to hoover",
+      "article": "",
+      "pos": "verb",
+      "rank": 2430,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "home",
+      "example": "Ich werde den Teppich staubsaugen.",
+      "translation": "I'm going to vacuum the carpet.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "staubsaugen"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "staubsaugen",
+          "answer": "to vacuum, to hoover",
+          "options": [
+            "to vacuum, to hoover",
+            "to click (with a mouse)",
+            "to interrupt",
+            "to wash up, to do the dishes"
+          ],
+          "explanation": "staubsaugen = to vacuum, to hoover\nIch werde den Teppich staubsaugen.\nI'm going to vacuum the carpet."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to vacuum, to hoover",
+          "answer": "staubsaugen",
+          "options": [
+            "abwaschen",
+            "unterbrechen",
+            "staubsaugen",
+            "klicken"
+          ],
+          "explanation": "staubsaugen = to vacuum, to hoover\nIch werde den Teppich staubsaugen.\nI'm going to vacuum the carpet."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich werde den Teppich ___.\nI'm going to vacuum the carpet.",
+          "answer": "staubsaugen",
+          "options": [
+            "abwaschen",
+            "unterbrechen",
+            "klicken",
+            "staubsaugen"
+          ],
+          "explanation": "staubsaugen = to vacuum, to hoover\nIch werde den Teppich staubsaugen.\nI'm going to vacuum the carpet.",
+          "contextSentence": "Ich werde den Teppich ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:staubsaugen:verb:26f59f8d0c011f4c",
+      "sourceGlosses": [
+        "to vacuum (to use a vacuum cleaner)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/staubsaugen#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/10292711",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #10292711 by wannieh (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/9328882",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #9328882 by Nylez (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:faulenzen:fb74733cf0a05ef7",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "faulenzen",
+      "lemmaGroup": "faulenzen",
+      "meaning": "to laze around",
+      "article": "",
+      "pos": "verb",
+      "rank": 2431,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "leisure",
+      "example": "Weil gestern Sonntag war, habe ich den ganzen Tag gefaulenzt.",
+      "translation": "Yesterday was Sunday, so I spent the whole day lazing around.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "faulenzen"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "faulenzen",
+          "answer": "to laze around",
+          "options": [
+            "to greet",
+            "to laze around",
+            "to raise, to increase",
+            "to approve, to permit"
+          ],
+          "explanation": "faulenzen = to laze around\nWeil gestern Sonntag war, habe ich den ganzen Tag gefaulenzt.\nYesterday was Sunday, so I spent the whole day lazing around."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to laze around",
+          "answer": "faulenzen",
+          "options": [
+            "faulenzen",
+            "erhöhen",
+            "genehmigen",
+            "grüßen"
+          ],
+          "explanation": "faulenzen = to laze around\nWeil gestern Sonntag war, habe ich den ganzen Tag gefaulenzt.\nYesterday was Sunday, so I spent the whole day lazing around."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Weil gestern Sonntag war, habe ich den ganzen Tag ___.\nYesterday was Sunday, so I spent the whole day lazing around.",
+          "answer": "gefaulenzt",
+          "options": [
+            "gegrüßt",
+            "genehmigt",
+            "erhöht",
+            "gefaulenzt"
+          ],
+          "explanation": "faulenzen = to laze around\nWeil gestern Sonntag war, habe ich den ganzen Tag gefaulenzt.\nYesterday was Sunday, so I spent the whole day lazing around.",
+          "contextSentence": "Weil gestern Sonntag war, habe ich den ganzen Tag ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:faulenzen:verb:fb74733cf0a05ef7",
+      "sourceGlosses": [
+        "to laze"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/faulenzen#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/13594343",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #13594343 by Waldelfe (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/13023122",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #13023122 by end (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Abfalleimer:e7c8770642668b4a",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Abfalleimer",
+      "lemmaGroup": "Abfalleimer",
+      "meaning": "rubbish bin, trash can",
+      "article": "der",
+      "pos": "noun",
+      "rank": 2432,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "home",
+      "example": "Der Abfalleimer ist leer.",
+      "translation": "The bin is empty.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Abfalleimer"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Abfalleimer",
+          "answer": "rubbish bin, trash can",
+          "options": [
+            "population",
+            "reaction",
+            "rubbish bin, trash can",
+            "dining car"
+          ],
+          "explanation": "der Abfalleimer = rubbish bin, trash can\nDer Abfalleimer ist leer.\nThe bin is empty."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "rubbish bin, trash can",
+          "answer": "Abfalleimer",
+          "options": [
+            "Bevölkerung",
+            "Reaktion",
+            "Speisewagen",
+            "Abfalleimer"
+          ],
+          "explanation": "der Abfalleimer = rubbish bin, trash can\nDer Abfalleimer ist leer.\nThe bin is empty."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Der ___ ist leer.\nThe bin is empty.",
+          "answer": "Abfalleimer",
+          "options": [
+            "Professor",
+            "Speisewagen",
+            "Brief",
+            "Abfalleimer"
+          ],
+          "explanation": "der Abfalleimer = rubbish bin, trash can\nDer Abfalleimer ist leer.\nThe bin is empty.",
+          "contextSentence": "Der ___ ist leer."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Abfalleimer",
+          "answer": "der",
+          "options": [
+            "der",
+            "das",
+            "die"
+          ],
+          "explanation": "der Abfalleimer = rubbish bin, trash can\nDer Abfalleimer ist leer.\nThe bin is empty."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Abfalleimer:noun:e7c8770642668b4a",
+      "sourceGlosses": [
+        "rubbish bin; dustbin; trash can (small container for wet rubbish, either indoors or a fixed one outdoors)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Abfalleimer#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/12726573",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #12726573 by mhr (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/5693979",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #5693979 by marcj794 (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:mailen:c0357b35dd83e655",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "mailen",
+      "lemmaGroup": "mailen",
+      "meaning": "to email, e-mail",
+      "article": "",
+      "pos": "verb",
+      "rank": 2433,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "technology",
+      "example": "Kannst du mir das mailen?",
+      "translation": "Can you email me that?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "mailen"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "mailen",
+          "answer": "to email, e-mail",
+          "options": [
+            "to email, e-mail",
+            "to clarify, to clear up",
+            "to write down, mark down",
+            "to catch"
+          ],
+          "explanation": "mailen = to email, e-mail\nKannst du mir das mailen?\nCan you email me that?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to email, e-mail",
+          "answer": "mailen",
+          "options": [
+            "aufschreiben",
+            "mailen",
+            "klären",
+            "fangen"
+          ],
+          "explanation": "mailen = to email, e-mail\nKannst du mir das mailen?\nCan you email me that?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Kannst du mir das ___?\nCan you email me that?",
+          "answer": "mailen",
+          "options": [
+            "mailen",
+            "klären",
+            "ausfallen",
+            "aufschreiben"
+          ],
+          "explanation": "mailen = to email, e-mail\nKannst du mir das mailen?\nCan you email me that?",
+          "contextSentence": "Kannst du mir das ___?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:mailen:verb:c0357b35dd83e655",
+      "sourceGlosses": [
+        "to email, e-mail"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/mailen#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/13839279",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #13839279 by mhr (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/13843219",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #13843219 by rul (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:verb:faxen:5d3a0a0557e6b48d",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "faxen",
+      "lemmaGroup": "faxen",
+      "meaning": "to fax",
+      "article": "",
+      "pos": "verb",
+      "rank": 2434,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "technology",
+      "example": "Bitte faxe es mir.",
+      "translation": "Please send it to me by fax.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "faxen"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "faxen",
+          "answer": "to fax",
+          "options": [
+            "to greet",
+            "to decorate",
+            "to accept, to promise to come",
+            "to fax"
+          ],
+          "explanation": "faxen = to fax\nBitte faxe es mir.\nPlease send it to me by fax."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "to fax",
+          "answer": "faxen",
+          "options": [
+            "zusagen",
+            "dekorieren",
+            "grüßen",
+            "faxen"
+          ],
+          "explanation": "faxen = to fax\nBitte faxe es mir.\nPlease send it to me by fax."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Bitte ___ es mir.\nPlease send it to me by fax.",
+          "answer": "faxe",
+          "options": [
+            "tippe",
+            "beachte",
+            "faxe",
+            "grüße"
+          ],
+          "explanation": "faxen = to fax\nBitte faxe es mir.\nPlease send it to me by fax.",
+          "contextSentence": "Bitte ___ es mir."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:faxen:verb:5d3a0a0557e6b48d",
+      "sourceGlosses": [
+        "to fax"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/faxen#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/1397847",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #1397847 by Manfredo (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/41824",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #41824 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Anrufbeantworter:cc72157fa64f972e",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Anrufbeantworter",
+      "lemmaGroup": "Anrufbeantworter",
+      "meaning": "answering machine",
+      "article": "der",
+      "pos": "noun",
+      "rank": 2435,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "technology",
+      "example": "Tom hörte sich die Nachricht auf seinem Anrufbeantworter an.",
+      "translation": "Tom listened to the message on his answering machine.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Anrufbeantworter"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Anrufbeantworter",
+          "answer": "answering machine",
+          "options": [
+            "answering machine",
+            "knife",
+            "tutoring, extra lessons",
+            "computer virus"
+          ],
+          "explanation": "der Anrufbeantworter = answering machine\nTom hörte sich die Nachricht auf seinem Anrufbeantworter an.\nTom listened to the message on his answering machine."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "answering machine",
+          "answer": "Anrufbeantworter",
+          "options": [
+            "Messer",
+            "Nachhilfe",
+            "Anrufbeantworter",
+            "Virus"
+          ],
+          "explanation": "der Anrufbeantworter = answering machine\nTom hörte sich die Nachricht auf seinem Anrufbeantworter an.\nTom listened to the message on his answering machine."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Tom hörte sich die Nachricht auf seinem ___ an.\nTom listened to the message on his answering machine.",
+          "answer": "Anrufbeantworter",
+          "options": [
+            "Virus",
+            "Mond",
+            "Anrufbeantworter",
+            "Import"
+          ],
+          "explanation": "der Anrufbeantworter = answering machine\nTom hörte sich die Nachricht auf seinem Anrufbeantworter an.\nTom listened to the message on his answering machine.",
+          "contextSentence": "Tom hörte sich die Nachricht auf seinem ___ an."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Anrufbeantworter",
+          "answer": "der",
+          "options": [
+            "die",
+            "der",
+            "das"
+          ],
+          "explanation": "der Anrufbeantworter = answering machine\nTom hörte sich die Nachricht auf seinem Anrufbeantworter an.\nTom listened to the message on his answering machine."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Anrufbeantworter:noun:cc72157fa64f972e",
+      "sourceGlosses": [
+        "answering machine"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Anrufbeantworter#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/10495287",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #10495287 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/9591927",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #9591927 by Hybrid (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Einschreiben:080f2ff6e3322a75",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Einschreiben",
+      "lemmaGroup": "Einschreiben",
+      "meaning": "registered letter (mail)",
+      "article": "das",
+      "pos": "noun",
+      "rank": 2436,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Ich möchte das hier gerne per Einschreiben verschicken.",
+      "translation": "I want to send this by registered mail.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Einschreiben"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Einschreiben",
+          "answer": "registered letter (mail)",
+          "options": [
+            "Tuesday",
+            "content(s)",
+            "registered letter (mail)",
+            "photo, photograph"
+          ],
+          "explanation": "das Einschreiben = registered letter (mail)\nIch möchte das hier gerne per Einschreiben verschicken.\nI want to send this by registered mail."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "registered letter (mail)",
+          "answer": "Einschreiben",
+          "options": [
+            "Einschreiben",
+            "Foto",
+            "Dienstag",
+            "Inhalt"
+          ],
+          "explanation": "das Einschreiben = registered letter (mail)\nIch möchte das hier gerne per Einschreiben verschicken.\nI want to send this by registered mail."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich möchte das hier gerne per ___ verschicken.\nI want to send this by registered mail.",
+          "answer": "Einschreiben",
+          "options": [
+            "Frühstück",
+            "Foto",
+            "Heim",
+            "Einschreiben"
+          ],
+          "explanation": "das Einschreiben = registered letter (mail)\nIch möchte das hier gerne per Einschreiben verschicken.\nI want to send this by registered mail.",
+          "contextSentence": "Ich möchte das hier gerne per ___ verschicken."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Einschreiben",
+          "answer": "das",
+          "options": [
+            "die",
+            "das",
+            "der"
+          ],
+          "explanation": "das Einschreiben = registered letter (mail)\nIch möchte das hier gerne per Einschreiben verschicken.\nI want to send this by registered mail."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Einschreiben:noun:080f2ff6e3322a75",
+      "sourceGlosses": [
+        "registered mail"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Einschreiben#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/1813628",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #1813628 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/1397606",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #1397606 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Fundbüro:aec7f5e9921a2d46",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Fundbüro",
+      "lemmaGroup": "Fundbüro",
+      "meaning": "lost property office, lost and found",
+      "article": "das",
+      "pos": "noun",
+      "rank": 2437,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "travel",
+      "example": "Wo ist das Fundbüro?",
+      "translation": "Where is lost property?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Fundbüro"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "das Fundbüro",
+          "answer": "lost property office, lost and found",
+          "options": [
+            "road sign",
+            "(public) holiday",
+            "lost property office, lost and found",
+            "pavement, sidewalk"
+          ],
+          "explanation": "das Fundbüro = lost property office, lost and found\nWo ist das Fundbüro?\nWhere is lost property?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "lost property office, lost and found",
+          "answer": "Fundbüro",
+          "options": [
+            "Gehsteig",
+            "Verkehrszeichen",
+            "Fundbüro",
+            "Feiertag"
+          ],
+          "explanation": "das Fundbüro = lost property office, lost and found\nWo ist das Fundbüro?\nWhere is lost property?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wo ist das ___?\nWhere is lost property?",
+          "answer": "Fundbüro",
+          "options": [
+            "Kraftwerk",
+            "Verkehrszeichen",
+            "Fundbüro",
+            "Kapitel"
+          ],
+          "explanation": "das Fundbüro = lost property office, lost and found\nWo ist das Fundbüro?\nWhere is lost property?",
+          "contextSentence": "Wo ist das ___?"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Fundbüro",
+          "answer": "das",
+          "options": [
+            "die",
+            "das",
+            "der"
+          ],
+          "explanation": "das Fundbüro = lost property office, lost and found\nWo ist das Fundbüro?\nWhere is lost property?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Fundbüro:noun:aec7f5e9921a2d46",
+      "sourceGlosses": [
+        "lost and found, lost property, lost articles"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Fundb%C3%BCro#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/741538",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #741538 by Manfredo (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/11966050",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #11966050 by sundown (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Klassenarbeit:1a186185a811dda8",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Klassenarbeit",
+      "lemmaGroup": "Klassenarbeit",
+      "meaning": "class test",
+      "article": "die",
+      "pos": "noun",
+      "rank": 2438,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "education",
+      "example": "Wir schreiben heute eine Klassenarbeit.",
+      "translation": "We're going to have a test today.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Klassenarbeit"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Klassenarbeit",
+          "answer": "class test",
+          "options": [
+            "vitamin",
+            "pepper",
+            "class test",
+            "shade, shadow"
+          ],
+          "explanation": "die Klassenarbeit = class test\nWir schreiben heute eine Klassenarbeit.\nWe're going to have a test today."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "class test",
+          "answer": "Klassenarbeit",
+          "options": [
+            "Pfeffer",
+            "Vitamin",
+            "Schatten",
+            "Klassenarbeit"
+          ],
+          "explanation": "die Klassenarbeit = class test\nWir schreiben heute eine Klassenarbeit.\nWe're going to have a test today."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wir schreiben heute eine ___.\nWe're going to have a test today.",
+          "answer": "Klassenarbeit",
+          "options": [
+            "Klassenarbeit",
+            "Fotografie",
+            "Einfahrt",
+            "Kiste"
+          ],
+          "explanation": "die Klassenarbeit = class test\nWir schreiben heute eine Klassenarbeit.\nWe're going to have a test today.",
+          "contextSentence": "Wir schreiben heute eine ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Klassenarbeit",
+          "answer": "die",
+          "options": [
+            "das",
+            "der",
+            "die"
+          ],
+          "explanation": "die Klassenarbeit = class test\nWir schreiben heute eine Klassenarbeit.\nWe're going to have a test today."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Klassenarbeit:noun:1a186185a811dda8",
+      "sourceGlosses": [
+        "written class test, exam"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Klassenarbeit#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2121345",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2121345 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/263030",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #263030 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Speisewagen:3264a7dc326d3bdd",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Speisewagen",
+      "lemmaGroup": "Speisewagen",
+      "meaning": "dining car",
+      "article": "der",
+      "pos": "noun",
+      "rank": 2439,
+      "level": "B1",
+      "levelBasis": "Headword of a published B1 exam word list and not of the A1 or A2 lists; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "travel",
+      "example": "Der Speisewagen befindet sich ganz vorne im Zug.",
+      "translation": "The dining car's at the front end of the train.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Speisewagen"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Speisewagen",
+          "answer": "dining car",
+          "options": [
+            "flour, meal",
+            "dining car",
+            "smartphone",
+            "overnight stay"
+          ],
+          "explanation": "der Speisewagen = dining car\nDer Speisewagen befindet sich ganz vorne im Zug.\nThe dining car's at the front end of the train."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "dining car",
+          "answer": "Speisewagen",
+          "options": [
+            "Smartphone",
+            "Mehl",
+            "Speisewagen",
+            "Übernachtung"
+          ],
+          "explanation": "der Speisewagen = dining car\nDer Speisewagen befindet sich ganz vorne im Zug.\nThe dining car's at the front end of the train."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Der ___ befindet sich ganz vorne im Zug.\nThe dining car's at the front end of the train.",
+          "answer": "Speisewagen",
+          "options": [
+            "Pinguin",
+            "Chat",
+            "Speisewagen",
+            "Onkel"
+          ],
+          "explanation": "der Speisewagen = dining car\nDer Speisewagen befindet sich ganz vorne im Zug.\nThe dining car's at the front end of the train.",
+          "contextSentence": "Der ___ befindet sich ganz vorne im Zug."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Speisewagen",
+          "answer": "der",
+          "options": [
+            "das",
+            "die",
+            "der"
+          ],
+          "explanation": "der Speisewagen = dining car\nDer Speisewagen befindet sich ganz vorne im Zug.\nThe dining car's at the front end of the train."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Speisewagen:noun:3264a7dc326d3bdd",
+      "sourceGlosses": [
+        "dining car"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Speisewagen#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2290571",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2290571 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2268092",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2268092 by _undertoad (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:53:09Z",
+      "batch": "b1-028"
+    }
+  ]
+}

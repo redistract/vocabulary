@@ -9,7 +9,9 @@
       "targetLanguage": "de-DE",
       "supportLanguage": "en",
       "levels": [
-        "A1"
+        "A1",
+        "A2",
+        "B1"
       ],
       "capabilities": [
         "MEANING",
@@ -20,7 +22,7 @@
         "TYPED"
       ],
       "manifestPath": "v1/courses/de-en/manifest.json",
-      "bundlePath": "v1/courses/de-en/bundles/4.json.gz"
+      "bundlePath": "v1/courses/de-en/bundles/5.json.gz"
     }
   ]
 }
