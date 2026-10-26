@@ -1,0 +1,1116 @@
+{
+  "schemaVersion": 1,
+  "courseId": "de-en",
+  "generation": "fresh-20260921",
+  "entries": [
+    {
+      "id": "de-en:fresh-20260921:adj:neblig:e5a81b41b48a2e3e",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "neblig",
+      "lemmaGroup": "neblig",
+      "meaning": "foggy",
+      "article": "",
+      "pos": "adj",
+      "rank": 1077,
+      "level": "A2",
+      "levelBasis": "Headword of a published A2 exam word list and not of the A1 list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "nature",
+      "example": "Es ist neblig heute.",
+      "translation": "It's foggy today.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "neblig"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "neblig",
+          "answer": "foggy",
+          "options": [
+            "Swiss",
+            "weak, lacking in strength",
+            "foggy",
+            "interesting"
+          ],
+          "explanation": "neblig = foggy\nEs ist neblig heute.\nIt's foggy today."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "foggy",
+          "answer": "neblig",
+          "options": [
+            "schweizerisch",
+            "schwach",
+            "neblig",
+            "interessant"
+          ],
+          "explanation": "neblig = foggy\nEs ist neblig heute.\nIt's foggy today."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Es ist ___ heute.\nIt's foggy today.",
+          "answer": "neblig",
+          "options": [
+            "schwach",
+            "interessant",
+            "schweizerisch",
+            "neblig"
+          ],
+          "explanation": "neblig = foggy\nEs ist neblig heute.\nIt's foggy today.",
+          "contextSentence": "Es ist ___ heute."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:neblig:adj:e5a81b41b48a2e3e",
+      "sourceGlosses": [
+        "foggy"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/neblig#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/8799005",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #8799005 by Melang (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2648791",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2648791 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:50:35Z",
+      "batch": "a2-011"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Ermäßigung:b65c7fbbf750388a",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Ermäßigung",
+      "lemmaGroup": "Ermäßigung",
+      "meaning": "discount, reduction",
+      "article": "die",
+      "pos": "noun",
+      "rank": 1078,
+      "level": "A2",
+      "levelBasis": "Headword of a published A2 exam word list and not of the A1 list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "shopping",
+      "example": "Tom bat um eine Ermäßigung.",
+      "translation": "Tom asked for a discount.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Ermäßigung"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Ermäßigung",
+          "answer": "discount, reduction",
+          "options": [
+            "discount, reduction",
+            "luggage",
+            "cream (for the skin)",
+            "football, soccer"
+          ],
+          "explanation": "die Ermäßigung = discount, reduction\nTom bat um eine Ermäßigung.\nTom asked for a discount."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "discount, reduction",
+          "answer": "Ermäßigung",
+          "options": [
+            "Creme",
+            "Gepäck",
+            "Ermäßigung",
+            "Fußball"
+          ],
+          "explanation": "die Ermäßigung = discount, reduction\nTom bat um eine Ermäßigung.\nTom asked for a discount."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Tom bat um eine ___.\nTom asked for a discount.",
+          "answer": "Ermäßigung",
+          "options": [
+            "Ermäßigung",
+            "Information",
+            "Feier",
+            "Creme"
+          ],
+          "explanation": "die Ermäßigung = discount, reduction\nTom bat um eine Ermäßigung.\nTom asked for a discount.",
+          "contextSentence": "Tom bat um eine ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Ermäßigung",
+          "answer": "die",
+          "options": [
+            "die",
+            "das",
+            "der"
+          ],
+          "explanation": "die Ermäßigung = discount, reduction\nTom bat um eine Ermäßigung.\nTom asked for a discount."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Ermäßigung:noun:b65c7fbbf750388a",
+      "sourceGlosses": [
+        "discount"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Erm%C3%A4%C3%9Figung#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/12387919",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #12387919 by mayabe (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/1095898",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #1095898 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:50:35Z",
+      "batch": "a2-011"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Motorroller:574a081d5191a81b",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Motorroller",
+      "lemmaGroup": "Motorroller",
+      "meaning": "scooter",
+      "article": "der",
+      "pos": "noun",
+      "rank": 1079,
+      "level": "A2",
+      "levelBasis": "Headword of a published A2 exam word list and not of the A1 list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "travel",
+      "example": "Wo ist mein Motorroller?",
+      "translation": "Where is my scooter?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Motorroller"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Motorroller",
+          "answer": "scooter",
+          "options": [
+            "scooter",
+            "babysitter",
+            "boot",
+            "forest, woods"
+          ],
+          "explanation": "der Motorroller = scooter\nWo ist mein Motorroller?\nWhere is my scooter?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "scooter",
+          "answer": "Motorroller",
+          "options": [
+            "Stiefel",
+            "Motorroller",
+            "Wald",
+            "Babysitter"
+          ],
+          "explanation": "der Motorroller = scooter\nWo ist mein Motorroller?\nWhere is my scooter?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Wo ist mein ___?\nWhere is my scooter?",
+          "answer": "Motorroller",
+          "options": [
+            "Hund",
+            "Motorroller",
+            "Babysitter",
+            "Stiefel"
+          ],
+          "explanation": "der Motorroller = scooter\nWo ist mein Motorroller?\nWhere is my scooter?",
+          "contextSentence": "Wo ist mein ___?"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Motorroller",
+          "answer": "der",
+          "options": [
+            "die",
+            "der",
+            "das"
+          ],
+          "explanation": "der Motorroller = scooter\nWo ist mein Motorroller?\nWhere is my scooter?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Motorroller:noun:574a081d5191a81b",
+      "sourceGlosses": [
+        "scooter (motor-scooter)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Motorroller#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/10071947",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #10071947 by wolfgangth (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/6739309",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #6739309 by Micsmithel (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:50:35Z",
+      "batch": "a2-011"
+    },
+    {
+      "id": "de-en:fresh-20260921:adj:luxemburgisch:21f91767e4ce38de",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "luxemburgisch",
+      "lemmaGroup": "luxemburgisch",
+      "meaning": "Luxembourgish, of Luxembourg",
+      "article": "",
+      "pos": "adj",
+      "rank": 1080,
+      "level": "A2",
+      "levelBasis": "Headword of a published A2 exam word list and not of the A1 list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "society",
+      "example": "Sie ging, um ein luxemburgisches Wörterbuch zu kaufen.",
+      "translation": "She left to buy a Luxembourgish dictionary.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "luxemburgisch"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "luxemburgisch",
+          "answer": "Luxembourgish, of Luxembourg",
+          "options": [
+            "Luxembourgish, of Luxembourg",
+            "harmful",
+            "sudden, suddenly",
+            "sweet"
+          ],
+          "explanation": "luxemburgisch = Luxembourgish, of Luxembourg\nSie ging, um ein luxemburgisches Wörterbuch zu kaufen.\nShe left to buy a Luxembourgish dictionary."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "Luxembourgish, of Luxembourg",
+          "answer": "luxemburgisch",
+          "options": [
+            "schädlich",
+            "süß",
+            "luxemburgisch",
+            "plötzlich"
+          ],
+          "explanation": "luxemburgisch = Luxembourgish, of Luxembourg\nSie ging, um ein luxemburgisches Wörterbuch zu kaufen.\nShe left to buy a Luxembourgish dictionary."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Sie ging, um ein ___ Wörterbuch zu kaufen.\nShe left to buy a Luxembourgish dictionary.",
+          "answer": "luxemburgisches",
+          "options": [
+            "plötzliches",
+            "süßes",
+            "luxemburgisches",
+            "schädliches"
+          ],
+          "explanation": "luxemburgisch = Luxembourgish, of Luxembourg\nSie ging, um ein luxemburgisches Wörterbuch zu kaufen.\nShe left to buy a Luxembourgish dictionary.",
+          "contextSentence": "Sie ging, um ein ___ Wörterbuch zu kaufen."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:luxemburgisch:adj:21f91767e4ce38de",
+      "sourceGlosses": [
+        "of Luxembourg; Letzeburgesh, Luxembourgish, Luxembourgian (related to Luxembourg, its people or its language)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/luxemburgisch#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/12523317",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #12523317 by Naina (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/10477284",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #10477284 by Amastan (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:50:35Z",
+      "batch": "a2-011"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Cafeteria:f7cc4616de80a292",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Cafeteria",
+      "lemmaGroup": "Cafeteria",
+      "meaning": "cafeteria",
+      "article": "die",
+      "pos": "noun",
+      "rank": 1081,
+      "level": "A2",
+      "levelBasis": "Headword of a published A2 exam word list and not of the A1 list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "food",
+      "example": "Treffen wir uns zum Mittagessen in der Cafeteria?",
+      "translation": "Shall we meet in the cafeteria for lunch?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Cafeteria"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Cafeteria",
+          "answer": "cafeteria",
+          "options": [
+            "winter",
+            "dress, gown",
+            "class (school)",
+            "cafeteria"
+          ],
+          "explanation": "die Cafeteria = cafeteria\nTreffen wir uns zum Mittagessen in der Cafeteria?\nShall we meet in the cafeteria for lunch?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "cafeteria",
+          "answer": "Cafeteria",
+          "options": [
+            "Cafeteria",
+            "Kleid",
+            "Winter",
+            "Klasse"
+          ],
+          "explanation": "die Cafeteria = cafeteria\nTreffen wir uns zum Mittagessen in der Cafeteria?\nShall we meet in the cafeteria for lunch?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Treffen wir uns zum Mittagessen in der ___?\nShall we meet in the cafeteria for lunch?",
+          "answer": "Cafeteria",
+          "options": [
+            "Bluse",
+            "Cafeteria",
+            "Speisekarte",
+            "Aufgabe"
+          ],
+          "explanation": "die Cafeteria = cafeteria\nTreffen wir uns zum Mittagessen in der Cafeteria?\nShall we meet in the cafeteria for lunch?",
+          "contextSentence": "Treffen wir uns zum Mittagessen in der ___?"
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Cafeteria",
+          "answer": "die",
+          "options": [
+            "der",
+            "das",
+            "die"
+          ],
+          "explanation": "die Cafeteria = cafeteria\nTreffen wir uns zum Mittagessen in der Cafeteria?\nShall we meet in the cafeteria for lunch?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Cafeteria:noun:f7cc4616de80a292",
+      "sourceGlosses": [
+        "cafeteria"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Cafeteria#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/8641534",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #8641534 by Melang (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/11235248",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #11235248 by sundown (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:50:35Z",
+      "batch": "a2-011"
+    },
+    {
+      "id": "de-en:fresh-20260921:adv:vorgestern:903263d355aeab08",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "vorgestern",
+      "lemmaGroup": "vorgestern",
+      "meaning": "the day before yesterday",
+      "article": "",
+      "pos": "adv",
+      "rank": 1082,
+      "level": "A2",
+      "levelBasis": "Headword of a published A2 exam word list and not of the A1 list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Ich war vorgestern hier.",
+      "translation": "I was here the day before yesterday.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "vorgestern"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "vorgestern",
+          "answer": "the day before yesterday",
+          "options": [
+            "next door",
+            "the day before yesterday",
+            "today",
+            "sometimes"
+          ],
+          "explanation": "vorgestern = the day before yesterday\nIch war vorgestern hier.\nI was here the day before yesterday."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "the day before yesterday",
+          "answer": "vorgestern",
+          "options": [
+            "vorgestern",
+            "manchmal",
+            "heute",
+            "nebenan"
+          ],
+          "explanation": "vorgestern = the day before yesterday\nIch war vorgestern hier.\nI was here the day before yesterday."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich war ___ hier.\nI was here the day before yesterday.",
+          "answer": "vorgestern",
+          "options": [
+            "vorgestern",
+            "nebenan",
+            "heute",
+            "manchmal"
+          ],
+          "explanation": "vorgestern = the day before yesterday\nIch war vorgestern hier.\nI was here the day before yesterday.",
+          "contextSentence": "Ich war ___ hier."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:vorgestern:adv:903263d355aeab08",
+      "sourceGlosses": [
+        "ereyesterday, the day before yesterday"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/vorgestern#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/7912466",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #7912466 by Pfirsichbaeumchen (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/10573326",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #10573326 by sundown (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:50:35Z",
+      "batch": "a2-011"
+    },
+    {
+      "id": "de-en:fresh-20260921:adv:übermorgen:582294c9f35a3f4b",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "übermorgen",
+      "lemmaGroup": "übermorgen",
+      "meaning": "the day after tomorrow",
+      "article": "",
+      "pos": "adv",
+      "rank": 1083,
+      "level": "A2",
+      "levelBasis": "Headword of a published A2 exam word list and not of the A1 list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Was machst du übermorgen?",
+      "translation": "What'll you be doing the day after tomorrow?",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "übermorgen"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "übermorgen",
+          "answer": "the day after tomorrow",
+          "options": [
+            "the day after tomorrow",
+            "next door",
+            "not until, not for",
+            "straight ahead"
+          ],
+          "explanation": "übermorgen = the day after tomorrow\nWas machst du übermorgen?\nWhat'll you be doing the day after tomorrow?"
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "the day after tomorrow",
+          "answer": "übermorgen",
+          "options": [
+            "geradeaus",
+            "erst",
+            "nebenan",
+            "übermorgen"
+          ],
+          "explanation": "übermorgen = the day after tomorrow\nWas machst du übermorgen?\nWhat'll you be doing the day after tomorrow?"
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Was machst du ___?\nWhat'll you be doing the day after tomorrow?",
+          "answer": "übermorgen",
+          "options": [
+            "erst",
+            "geradeaus",
+            "übermorgen",
+            "nebenan"
+          ],
+          "explanation": "übermorgen = the day after tomorrow\nWas machst du übermorgen?\nWhat'll you be doing the day after tomorrow?",
+          "contextSentence": "Was machst du ___?"
+        }
+      ],
+      "sourceSenseKey": "wiktionary:übermorgen:adv:582294c9f35a3f4b",
+      "sourceGlosses": [
+        "overmorrow, the day after tomorrow"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/%C3%BCbermorgen#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/12644763",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #12644763 by Waldelfe (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/7212948",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #7212948 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:50:35Z",
+      "batch": "a2-011"
+    },
+    {
+      "id": "de-en:fresh-20260921:adv:drüben:41a9678378178846",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "drüben",
+      "lemmaGroup": "drüben",
+      "meaning": "over there",
+      "article": "",
+      "pos": "adv",
+      "rank": 1084,
+      "level": "A2",
+      "levelBasis": "Headword of a published A2 exam word list and not of the A1 list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "everyday",
+      "example": "Es ist da drüben.",
+      "translation": "It's just over there.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "drüben"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "drüben",
+          "answer": "over there",
+          "options": [
+            "over there",
+            "nowhere",
+            "next door",
+            "straight ahead"
+          ],
+          "explanation": "drüben = over there\nEs ist da drüben.\nIt's just over there."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "over there",
+          "answer": "drüben",
+          "options": [
+            "geradeaus",
+            "drüben",
+            "nirgends",
+            "nebenan"
+          ],
+          "explanation": "drüben = over there\nEs ist da drüben.\nIt's just over there."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Es ist da ___.\nIt's just over there.",
+          "answer": "drüben",
+          "options": [
+            "nebenan",
+            "drüben",
+            "geradeaus",
+            "nirgends"
+          ],
+          "explanation": "drüben = over there\nEs ist da drüben.\nIt's just over there.",
+          "contextSentence": "Es ist da ___."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:drüben:adv:41a9678378178846",
+      "sourceGlosses": [
+        "over there"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/dr%C3%BCben#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/6099710",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #6099710 by al_ex_an_der (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/3635929",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #3635929 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:50:35Z",
+      "batch": "a2-011"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Stadtplan:160225f174d7f7fb",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Stadtplan",
+      "lemmaGroup": "Stadtplan",
+      "meaning": "street map, city map",
+      "article": "der",
+      "pos": "noun",
+      "rank": 1085,
+      "level": "A2",
+      "levelBasis": "Headword of a published A2 exam word list and not of the A1 list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "travel",
+      "example": "Ich hätte gerne einen Stadtplan, bitte.",
+      "translation": "I'd like a city map, please.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Stadtplan"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Stadtplan",
+          "answer": "street map, city map",
+          "options": [
+            "appetite",
+            "street map, city map",
+            "cow, cattle",
+            "department store"
+          ],
+          "explanation": "der Stadtplan = street map, city map\nIch hätte gerne einen Stadtplan, bitte.\nI'd like a city map, please."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "street map, city map",
+          "answer": "Stadtplan",
+          "options": [
+            "Kaufhaus",
+            "Rind",
+            "Stadtplan",
+            "Appetit"
+          ],
+          "explanation": "der Stadtplan = street map, city map\nIch hätte gerne einen Stadtplan, bitte.\nI'd like a city map, please."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Ich hätte gerne einen ___, bitte.\nI'd like a city map, please.",
+          "answer": "Stadtplan",
+          "options": [
+            "Morgen",
+            "Apparat",
+            "Stadtplan",
+            "Urlaub"
+          ],
+          "explanation": "der Stadtplan = street map, city map\nIch hätte gerne einen Stadtplan, bitte.\nI'd like a city map, please.",
+          "contextSentence": "Ich hätte gerne einen ___, bitte."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Stadtplan",
+          "answer": "der",
+          "options": [
+            "das",
+            "die",
+            "der"
+          ],
+          "explanation": "der Stadtplan = street map, city map\nIch hätte gerne einen Stadtplan, bitte.\nI'd like a city map, please."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Stadtplan:noun:160225f174d7f7fb",
+      "sourceGlosses": [
+        "street map, city map"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Stadtplan#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/12507092",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #12507092 by mhr (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/12913327",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #12913327 by sundown (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:50:35Z",
+      "batch": "a2-011"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Babysitter:1620388ac14e7a51",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Babysitter",
+      "lemmaGroup": "Babysitter",
+      "meaning": "babysitter",
+      "article": "der",
+      "pos": "noun",
+      "rank": 1086,
+      "level": "A2",
+      "levelBasis": "Headword of a published A2 exam word list and not of the A1 list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "people",
+      "example": "Tom konnte keinen Babysitter finden.",
+      "translation": "Tom couldn't find a babysitter.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Babysitter"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Babysitter",
+          "answer": "babysitter",
+          "options": [
+            "cap, hat",
+            "camera",
+            "babysitter",
+            "backpack, rucksack"
+          ],
+          "explanation": "der Babysitter = babysitter\nTom konnte keinen Babysitter finden.\nTom couldn't find a babysitter."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "babysitter",
+          "answer": "Babysitter",
+          "options": [
+            "Babysitter",
+            "Rucksack",
+            "Fotoapparat",
+            "Mütze"
+          ],
+          "explanation": "der Babysitter = babysitter\nTom konnte keinen Babysitter finden.\nTom couldn't find a babysitter."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Tom konnte keinen ___ finden.\nTom couldn't find a babysitter.",
+          "answer": "Babysitter",
+          "options": [
+            "Fotoapparat",
+            "Babysitter",
+            "Herbst",
+            "Schirm"
+          ],
+          "explanation": "der Babysitter = babysitter\nTom konnte keinen Babysitter finden.\nTom couldn't find a babysitter.",
+          "contextSentence": "Tom konnte keinen ___ finden."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Babysitter",
+          "answer": "der",
+          "options": [
+            "das",
+            "der",
+            "die"
+          ],
+          "explanation": "der Babysitter = babysitter\nTom konnte keinen Babysitter finden.\nTom couldn't find a babysitter."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Babysitter:noun:1620388ac14e7a51",
+      "sourceGlosses": [
+        "babysitter"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Babysitter#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/5720835",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #5720835 by wolfgangth (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/5642557",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #5642557 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:50:35Z",
+      "batch": "a2-011"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Fotoapparat:572ef91aa254bc82",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Fotoapparat",
+      "lemmaGroup": "Fotoapparat",
+      "meaning": "camera",
+      "article": "der",
+      "pos": "noun",
+      "rank": 1087,
+      "level": "A2",
+      "levelBasis": "Headword of a published A2 exam word list and not of the A1 list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "technology",
+      "example": "Sie kaufte ihm einen Fotoapparat.",
+      "translation": "She bought him a camera.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Fotoapparat"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "der Fotoapparat",
+          "answer": "camera",
+          "options": [
+            "photo, photograph",
+            "camera",
+            "February",
+            "sheet (of paper)"
+          ],
+          "explanation": "der Fotoapparat = camera\nSie kaufte ihm einen Fotoapparat.\nShe bought him a camera."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "camera",
+          "answer": "Fotoapparat",
+          "options": [
+            "Februar",
+            "Fotoapparat",
+            "Blatt",
+            "Foto"
+          ],
+          "explanation": "der Fotoapparat = camera\nSie kaufte ihm einen Fotoapparat.\nShe bought him a camera."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Sie kaufte ihm einen ___.\nShe bought him a camera.",
+          "answer": "Fotoapparat",
+          "options": [
+            "Fotoapparat",
+            "Himmel",
+            "Februar",
+            "Teil"
+          ],
+          "explanation": "der Fotoapparat = camera\nSie kaufte ihm einen Fotoapparat.\nShe bought him a camera.",
+          "contextSentence": "Sie kaufte ihm einen ___."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Fotoapparat",
+          "answer": "der",
+          "options": [
+            "das",
+            "der",
+            "die"
+          ],
+          "explanation": "der Fotoapparat = camera\nSie kaufte ihm einen Fotoapparat.\nShe bought him a camera."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Fotoapparat:noun:572ef91aa254bc82",
+      "sourceGlosses": [
+        "camera (device for making still pictures)"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Fotoapparat#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/3249663",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #3249663 by al_ex_an_der (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/887010",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #887010 by CK (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:50:35Z",
+      "batch": "a2-011"
+    },
+    {
+      "id": "de-en:fresh-20260921:noun:Mailbox:daad89eeb730d3d4",
+      "courseId": "de-en",
+      "revision": 1,
+      "lemma": "Mailbox",
+      "lemmaGroup": "Mailbox",
+      "meaning": "mailbox, voicemail",
+      "article": "die",
+      "pos": "noun",
+      "rank": 1088,
+      "level": "A2",
+      "levelBasis": "Headword of a published A2 exam word list and not of the A1 list; meaning and gender from English Wiktionary; order by Leipzig Corpora Collection frequency",
+      "topic": "technology",
+      "example": "Meine Mailbox ist voll.",
+      "translation": "My mailbox is full.",
+      "exampleProvenance": "Example sentence and English translation written by Tatoeba contributors; see sources.",
+      "acceptedWrittenForms": [
+        "Mailbox"
+      ],
+      "questions": [
+        {
+          "skill": "MEANING",
+          "prompt": "die Mailbox",
+          "answer": "mailbox, voicemail",
+          "options": [
+            "postcode, postal code",
+            "mailbox, voicemail",
+            "fan",
+            "thirst"
+          ],
+          "explanation": "die Mailbox = mailbox, voicemail\nMeine Mailbox ist voll.\nMy mailbox is full."
+        },
+        {
+          "skill": "REVERSE",
+          "prompt": "mailbox, voicemail",
+          "answer": "Mailbox",
+          "options": [
+            "Mailbox",
+            "Postleitzahl",
+            "Durst",
+            "Fan"
+          ],
+          "explanation": "die Mailbox = mailbox, voicemail\nMeine Mailbox ist voll.\nMy mailbox is full."
+        },
+        {
+          "skill": "CONTEXT",
+          "prompt": "Meine ___ ist voll.\nMy mailbox is full.",
+          "answer": "Mailbox",
+          "options": [
+            "Postleitzahl",
+            "Tante",
+            "Garage",
+            "Mailbox"
+          ],
+          "explanation": "die Mailbox = mailbox, voicemail\nMeine Mailbox ist voll.\nMy mailbox is full.",
+          "contextSentence": "Meine ___ ist voll."
+        },
+        {
+          "skill": "ARTICLE",
+          "prompt": "___ Mailbox",
+          "answer": "die",
+          "options": [
+            "das",
+            "die",
+            "der"
+          ],
+          "explanation": "die Mailbox = mailbox, voicemail\nMeine Mailbox ist voll.\nMy mailbox is full."
+        }
+      ],
+      "sourceSenseKey": "wiktionary:Mailbox:noun:daad89eeb730d3d4",
+      "sourceGlosses": [
+        "mailbox, voice mailbox"
+      ],
+      "sourceSha256": "5ab411b8859490789d0d002074cc029569648f901db940c0ab10e709932e1632",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/Mailbox#German",
+          "license": "CC-BY-SA-4.0",
+          "attribution": "English Wiktionary contributors; dictionary sense and grammar."
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/8661953",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #8661953 by Melang (German example)"
+        },
+        {
+          "url": "https://tatoeba.org/en/sentences/show/2895118",
+          "license": "CC-BY-2.0-FR",
+          "attribution": "Tatoeba sentence #2895118 by AlanF_US (English translation)"
+        }
+      ],
+      "reviewStatus": "APPROVED",
+      "reviewMethod": "agent-assisted-reviewed",
+      "reviewer": "Claude (agent-assisted)",
+      "reviewedAt": "2026-10-25T19:50:35Z",
+      "batch": "a2-011"
+    }
+  ]
+}

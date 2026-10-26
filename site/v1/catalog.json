@@ -11,7 +11,8 @@
       "levels": [
         "A1",
         "A2",
-        "B1"
+        "B1",
+        "B2"
       ],
       "capabilities": [
         "MEANING",
@@ -22,7 +23,7 @@
         "TYPED"
       ],
       "manifestPath": "v1/courses/de-en/manifest.json",
-      "bundlePath": "v1/courses/de-en/bundles/5.json.gz"
+      "bundlePath": "v1/courses/de-en/bundles/6.json.gz"
     }
   ]
 }
